@@ -66,7 +66,11 @@ Depois: **Preferências → Idioma → Português (Brasil)** e carregue o save o
 
 🛠️ Dúvida na instalação, como tirar o mod ou algo deu errado? Veja o **[INSTALAR.md](INSTALAR.md)**.
 
-🐞 Viu um estádio com defeito? Abra uma [Issue](../../issues) e escreva o nome do estádio e o que você viu.
+🐞 Viu um estádio com defeito? Abra uma [Issue](../../issues/new/choose) («Defeito em estádio») com o nome do estádio, o que você viu e o `LogOutput.log`.
+
+🏟️ Seu estádio não está na lista? Peça numa [Issue](../../issues/new/choose) («Pedir estádio»).
+
+✂️ Não quer os 134? Dá para instalar só alguns: veja o [INSTALAR.md](INSTALAR.md#instalar-só-alguns-estádios).
 
 ---
 

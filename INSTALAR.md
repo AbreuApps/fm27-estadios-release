@@ -105,6 +105,15 @@ Segurar **Shift** anda mais rápido; a roda do mouse muda o zoom. Para ajustar v
 - ❌ **Amigão** e **Zerão** não foram aprovados: o telhado tapa o gramado. Estão no pacote mesmo assim.
 - ➖ Sem clube ligado: João Saldanha, Nazarenão, VGD e Carlos Zamith. Clubes sem estádio na lista (como o Paraná Clube) usam o estádio padrão.
 
+## Instalar só alguns estádios
+
+Não precisa ficar com os 134. Cada estádio é independente. Dentro de `BepInEx/plugins/TaoMods/TaoStadiumMod`:
+
+- apague de `estadios/` o `<estádio>.json` dos que não quer;
+- apague de `estadios3d/` a pasta com o mesmo nome (`<estádio>/`).
+
+Apague sempre as duas coisas juntas. Mantenha `TaoStadiumMod.dll` e a pasta `atmosfera`: sem elas nada funciona. O clube de um estádio apagado volta a usar o estádio padrão do jogo. Para devolver, copie os arquivos de novo do zip.
+
 ## Atualizar de uma versão antiga
 
 Apague `BepInEx/plugins/TaoMods` e copie a nova. O save não é afetado.
