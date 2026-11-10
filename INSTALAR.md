@@ -1,0 +1,136 @@
+# Como instalar os Estádios do Brasil 3D no FM27 🏟️
+
+> 💾 **Antes:** copie seus saves (`Documentos/Sports Interactive/Football Manager 27/games`). O mod não mexe no save, mas o BepInEx altera como o jogo abre.
+
+## O que você precisa saber (bem simples)
+
+- O mod troca o estádio 3D da partida pelo estádio real do **time da casa**.
+- Cada estádio está ligado a um **clube**. Se o seu time tem estádio no pacote, ele aparece; se não, o jogo usa o estádio padrão dele.
+- Para o mod funcionar, o jogo precisa do **BepInEx 6**. Ele é um "carregador de mods": sem ele, nada daqui roda.
+- O idioma português só é lido de uma pasta específica (`languages`). Por isso o arquivo da tradução precisa ser copiado para lá.
+
+## Pastas que você vai usar
+
+| | Windows | Linux (Steam/Proton) |
+|---|---|---|
+| **Pasta do jogo** (onde está o `fm.exe`) | `C:\Program Files (x86)\Steam\steamapps\common\Football Manager 27\` | `~/.local/share/Steam/steamapps/common/Football Manager 27/` |
+| **Pasta `languages`** | `Documentos\Sports Interactive\Football Manager 27\languages\` | `~/.local/share/Steam/steamapps/compatdata/4530370/pfx/drive_c/users/steamuser/Documents/Sports Interactive/Football Manager 27/languages/` |
+| **Pasta `games`** (saves) | `Documentos\Sports Interactive\Football Manager 27\games\` | mesma de `languages`, trocando `languages` por `games` |
+
+Dica: Steam → botão direito no jogo → *Gerenciar* → *Explorar arquivos locais* abre a pasta do jogo.
+
+---
+
+## Passo 1 — Tenha o BepInEx
+
+**Já usa mods no FM27?** Pule: você já tem.
+
+**Nunca usou mods?** Instale o BepInEx 6 pelo pacote completo da tradução, que já vem pronto:
+
+1. Abra <https://github.com/AbreuApps/fm27-ptbr-release/releases/latest>.
+2. Baixe `TraducaoLog-completo-<versão>.zip` e descompacte.
+3. Copie o **conteúdo** de `1_COPIAR_PARA_PASTA_DO_JOGO` para a pasta do jogo (ao lado do `fm.exe`).
+
+> Não precisa copiar o `portuguese_br.ltc` desse pacote: o nosso já vem com a tradução 1.2.6.
+
+**Manual:** BepInEx **6, build be.785, Unity IL2CPP, Windows x64** (`BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.785…zip`, em <https://builds.bepinex.dev/projects/bepinex_be>), extraído na pasta do jogo. Cuidado: a página de Releases do GitHub mostra a série 5.x no topo, que **não funciona** no FM27.
+
+**Só no Linux:** Steam → FM27 → Propriedades → *Opções de inicialização*:
+
+```
+WINEDLLOVERRIDES="version=n,b" %command%
+```
+
+## Passo 2 — Baixe e descompacte
+
+Baixe `FM27-Estadios-BR-<versão>.zip` em [Releases](../../releases/latest) e descompacte.
+
+## Passo 3 — Instale (feche o jogo antes)
+
+**Extraia a pasta `TaoMods` dentro de `<pasta do jogo>/BepInEx/plugins/`.** É só isso para instalar os estádios, o plugin da tradução e a câmera livre.
+
+```
+BepInEx/plugins/TaoMods/TaoStadiumMod/TaoStadiumMod.dll   ← deve existir
+BepInEx/plugins/TaoMods/TraducaoLog/TraducaoLog.dll
+BepInEx/plugins/TaoMods/FreeCam/FreeCam.dll
+```
+
+Para aparecer o idioma, copie também `TaoMods/languages/portuguese_br.ltc` para a pasta **`languages`** (tabela acima). O jogo só lê idioma de lá.
+O save é opcional: copie `save/brazil-a-to-f-desempregado.fm` para a pasta **`games`**.
+
+Não solte DLLs direto em `plugins/`: cada mod fica na sua pasta dentro de `TaoMods`.
+
+## Passo 4 — Abra o jogo
+
+A **primeira abertura com o BepInEx demora vários minutos**. Não feche. Depois:
+
+1. **Preferências → Idioma → Português (Brasil)**.
+2. Carregue o save ou comece uma carreira com um clube que tenha estádio na [lista](ESTADIOS.md).
+3. Na partida, o estádio 3D do time da casa aparece. 🏟️
+
+## Conferir se carregou
+
+Abra `BepInEx/LogOutput.log` e procure:
+
+- `TaoStadiumMod 0.7.3` ✅ o mod dos estádios carregou
+- `GUIDs do catálogo FM27: 90` ✅ as peças do jogo foram achadas
+- `estádio ... receita '...'` e `malha '...'` ✅ o estádio da partida foi aplicado
+- `TraducaoLog` e `DICIONARIO carregado` ✅ a tradução carregou
+
+---
+
+## 🎥 Câmera livre (FreeCam)
+
+Deixa a câmera da partida solta para ver o estádio de qualquer ângulo. Ela vem no pacote para **ajudar nos estádios que ficaram ruins na câmera padrão** (por exemplo, com telhado na frente) e para **quem quiser usar mesmo**. Não é obrigatória. Mod Free Camera 1.7.0.
+
+| Tecla | O que faz |
+|---|---|
+| **F5** | liga e desliga a câmera livre |
+| **T** | mostra a ajuda com todos os controles |
+| **F4** | troca o modo de seguir a bola |
+| **N** | esconde ou mostra os nomes |
+| **U** | esconde ou mostra a interface |
+
+Segurar **Shift** anda mais rápido; a roda do mouse muda o zoom. Para ajustar velocidade e teclas, edite (com o jogo fechado) `BepInEx/config/com.bassy.fm26.freecam.cfg`, criado na primeira abertura. Detalhes em `FreeCam/INSTRUCOES-FREECAM.md`.
+
+---
+
+## ⚠️ Problemas conhecidos
+
+É a v0.1.0, a primeira versão. Estes são os defeitos que já conhecemos:
+
+- 🏠 **Telhado na frente da câmera tática:** Alfredo Jaconi, Arena Sicredi, Primeiro de Maio, Rei Pelé, 19 de Outubro, Aluizão, Annibal Batista de Toledo, Arena da Floresta, Zinho de Oliveira.
+- 👻 **Arquibancada vazia:** Independência, Jorjão (duas), Francisco Vasques.
+- 🎯 Frasqueirão: arquibancada na frente da câmera. Arena das Dunas: telhados flutuantes. Santa Cruz: menor que o real.
+- ❌ **Amigão** e **Zerão** não foram aprovados: o telhado tapa o gramado. Estão no pacote mesmo assim.
+- ➖ Sem clube ligado: João Saldanha, Nazarenão, VGD e Carlos Zamith. Clubes sem estádio na lista (como o Paraná Clube) usam o estádio padrão.
+
+## Atualizar de uma versão antiga
+
+Apague `BepInEx/plugins/TaoMods` e copie a nova. O save não é afetado.
+
+## Remover ou desligar
+
+- **Tirar os estádios e a tradução:** apague `BepInEx/plugins/TaoMods`.
+- **Tirar só a câmera livre:** apague `BepInEx/plugins/TaoMods/FreeCam`.
+- **Voltar o idioma:** escolha outro em Preferências; para apagar, remova `portuguese_br.ltc` da pasta `languages`.
+- **Remover o BepInEx:** apague `BepInEx`, `dotnet`, `doorstop_config.ini`, `.doorstop_version` e `version.dll` da pasta do jogo. Só se nenhum outro mod depender dele.
+
+## Problemas comuns
+
+- **Não aparece "Português (Brasil)":** confira o caminho da pasta `languages` e reinicie o jogo por completo.
+- **Tela preta na 1ª abertura:** normal com BepInEx. Espere alguns minutos.
+- **O estádio do meu time não mudou:** confira em [ESTADIOS.md](ESTADIOS.md) se o clube está ligado. Confira também se a pasta está em `BepInEx/plugins/TaoMods/TaoStadiumMod` (não solta, não em outro lugar) e se o `LogOutput.log` existe. Se não existe, o BepInEx não carregou: no Windows, confira se extraiu na pasta do `fm.exe`; no Linux, confira a opção de inicialização.
+- **O jogo não abre:** apague `BepInEx/plugins/TaoMods`; se abrir, abra uma [Issue](../../issues) com o `LogOutput.log`.
+- **Meu save quebra se eu remover o mod?** Não. O mod só troca o estádio e o texto na tela.
+
+---
+
+## Créditos
+
+- `TaoStadiumMod/atmosfera/TaoAtmosfera.dll`: cópia ajustada do RSE Stadium Studio Lite 1.0.0 (FM27StadiumMod), de ronnieoa.
+- `TaoMods/FreeCam/FreeCam.dll`: Free Camera 1.7.0.
+- `save/brazil-a-to-f-desempregado.fm`: save desempregado montado por nós sobre a **database do FM26 do [D-Manager](https://www.youtube.com/@D-Manager)**, que vai da Série A até a Série H. O crédito da database é dele.
+- Ambos são de terceiros e seguem as licenças dos autores. O restante é deste projeto.
+
+Feito pela comunidade. Reporte defeitos de estádio nas [Issues](../../issues).
