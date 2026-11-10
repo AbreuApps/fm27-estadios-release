@@ -2,7 +2,7 @@
 name: Defeito em estádio
 about: O estádio apareceu errado, vazio, com telhado na frente ou outro problema
 title: "[defeito] <estádio>"
-labels: defeito
+labels: bug
 ---
 
 **Estádio e clube da casa:**
