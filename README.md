@@ -12,7 +12,7 @@ Tutorial válido da **v0.1.0** em diante. Baixe tudo em **[Releases](../../relea
 - 🏟️ **Estádios novos:** Arruda (Santa Cruz) e Vila Capanema (Paraná). Agora são **136**.
 - 🏠 **Telhados mais altos e sobre pilares**, que não tapam mais a câmera: Arena Sicredi, Primeiro de Maio, Rei Pelé, 19 de Outubro, Aluizão, Annibal Batista de Toledo, Arena da Floresta, Zerão, Amigão, Francisco Vasques, Frasqueirão e Canindé. O Estádio Santa Cruz (Botafogo-SP) ficou maior.
 - 🔁 A Arena de Pernambuco agora é do **Retrô**; o Santa Cruz joga no Arruda.
-- 🤝 **Convive com o pacote de estádios do BassyBoy** (versão adaptada ao FM27): onde ele tem estádio, ele manda; nos outros, aparece o nosso.
+- 🤝 **Convive, por enquanto, com o pacote de estádios do BassyBoy:** onde ele tem estádio, ele manda e o nosso se desliga sozinho; nos outros, aparece o nosso.
 - 📦 **Para atualizar:** apague a pasta `TaoMods` antiga em `BepInEx/plugins` e cole a nova. O zip `FM27-Estadios-BR-0.1.3.zip` traz só a pasta `TaoMods`.
 
 ### 🔙 v0.1.2 (11/11/2026)

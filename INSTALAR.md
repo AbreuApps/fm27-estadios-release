@@ -88,14 +88,13 @@ Abra `BepInEx/LogOutput.log` e procure:
 - 🏟️ **Estádios novos:** Arruda (Santa Cruz) e Vila Capanema (Paraná).
 - 🏠 **Telhados mais altos, sobre pilares e escondidos pela câmera:** Arena Sicredi, Primeiro de Maio, Rei Pelé, 19 de Outubro, Aluizão, Annibal Batista de Toledo, Arena da Floresta, Zerão, Amigão, Francisco Vasques, Frasqueirão e Canindé. O Estádio Santa Cruz (Botafogo-SP) ficou maior.
 - 🔁 A Arena de Pernambuco agora é do **Retrô** (o Santa Cruz joga no Arruda).
-- 🤝 **Convive com o pacote de estádios do BassyBoy** (Stadium Injection, versão adaptada ao FM27): onde ele tem estádio, ele manda e o nosso se desliga sozinho; nos outros, o nosso aparece.
+- 🤝 **Convive, por enquanto, com o pacote de estádios do BassyBoy:** onde ele tem estádio, ele manda e o nosso se desliga sozinho; nos outros, aparece o nosso.
 
 Defeitos que ainda conhecemos:
 
 - 👻 **Arquibancada vazia:** Independência, Jorjão (duas), Francisco Vasques.
 - 🎯 Alfredo Jaconi: câmera ruim. Arena das Dunas: telhados flutuantes. Amigão: formato diferente do real.
 - ➖ Sem clube ligado: João Saldanha, Nazarenão, VGD e Carlos Zamith.
-- 🧩 Com o pacote do BassyBoy da versão do **FM26**, o `GoalkeeperKitManager` e o `TracksuitManager` fecham o jogo logo depois do login, com ou sem o nosso mod. Deixe esses dois fora da pasta `plugins`.
 
 ## Instalar só alguns estádios
 
