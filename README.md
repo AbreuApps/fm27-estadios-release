@@ -1,14 +1,23 @@
 # Estádios do Brasil 3D — Football Manager 27 🏟️🇧🇷
 
-**134 estádios brasileiros** das séries A a D em 3D, com a torcida nos degraus, mais a **tradução Português (Brasil)** e um **save pronto**. Tudo no mesmo pacote: baixe, descompacte e copie.
+**136 estádios brasileiros** das séries A a D em 3D, com a torcida nos degraus, mais a **tradução Português (Brasil)** e um **save pronto**. Tudo no mesmo pacote: baixe, descompacte e copie.
 Tutorial válido da **v0.1.0** em diante. Baixe tudo em **[Releases](../../releases/latest)**.
 
 <!-- ULTIMA-VERSAO:INICIO -->
 [![Última versão](https://img.shields.io/github/v/release/AbreuApps/fm27-estadios-release?label=vers%C3%A3o&color=2ea44f)](https://github.com/AbreuApps/fm27-estadios-release/releases/latest) [![Downloads](https://img.shields.io/github/downloads/AbreuApps/fm27-estadios-release/total?label=downloads&color=blue)](https://github.com/AbreuApps/fm27-estadios-release/releases) [![Issues](https://img.shields.io/github/issues/AbreuApps/fm27-estadios-release?label=issues)](https://github.com/AbreuApps/fm27-estadios-release/issues)
 
-### 🆕 Última versão: [v0.1.2](https://github.com/AbreuApps/fm27-estadios-release/releases/tag/v0.1.2) (11/11/2026)
+### 🆕 Última versão: [v0.1.3](https://github.com/AbreuApps/fm27-estadios-release/releases/tag/v0.1.3) (11/11/2026)
 
-- 🧪 **Versão de teste para o FM26** (zip separado, `FM26-Estadios-BR-teste-0.1.2.zip`): o plugin agora também roda no FM26. A torcida do jogo pode aparecer fora das arquibancadas. Quem joga FM27 não precisa atualizar: nada muda no que se vê.
+- 🛠️ **Correção do jogo fechando ao abrir a partida no Windows** (`TaoStadiumMod 0.7.6`): a troca de peça por tribuna, onde os logs paravam, vem desligada. Se ainda fechar, mande o log: precisamos saber se resolveu.
+- 🏟️ **Estádios novos:** Arruda (Santa Cruz) e Vila Capanema (Paraná). Agora são **136**.
+- 🏠 **Telhados mais altos e sobre pilares**, que não tapam mais a câmera: Arena Sicredi, Primeiro de Maio, Rei Pelé, 19 de Outubro, Aluizão, Annibal Batista de Toledo, Arena da Floresta, Zerão, Amigão, Francisco Vasques, Frasqueirão e Canindé. O Estádio Santa Cruz (Botafogo-SP) ficou maior.
+- 🔁 A Arena de Pernambuco agora é do **Retrô**; o Santa Cruz joga no Arruda.
+- 🤝 **Convive com o pacote de estádios do BassyBoy** (versão adaptada ao FM27): onde ele tem estádio, ele manda; nos outros, aparece o nosso.
+- 📦 **Para atualizar:** apague a pasta `TaoMods` antiga em `BepInEx/plugins` e cole a nova. O zip `FM27-Estadios-BR-0.1.3.zip` traz só a pasta `TaoMods`.
+
+### 🔙 v0.1.2 (11/11/2026)
+
+- 🧪 **Versão de teste para o FM26** (zip separado, `FM26-Estadios-BR-teste-0.1.2.zip`): o plugin agora também roda no FM26. A torcida do jogo pode aparecer fora das arquibancadas.
 - 🔍 `TaoStadiumMod 0.7.5`, com os logs de diagnóstico da 0.1.1.
 
 O que veio na 0.1.1:
@@ -83,11 +92,11 @@ Depois: **Preferências → Idioma → Português (Brasil)** e carregue o save o
 
 🏟️ Seu estádio não está na lista? Peça numa [Issue](../../issues/new/choose) («Pedir estádio»).
 
-✂️ Não quer os 134? Dá para instalar só alguns: veja o [INSTALAR.md](INSTALAR.md#instalar-só-alguns-estádios).
+✂️ Não quer os 136? Dá para instalar só alguns: veja o [INSTALAR.md](INSTALAR.md#instalar-só-alguns-estádios).
 
 ---
 
-## 🏟️ Estádios incluídos (134)
+## 🏟️ Estádios incluídos (136)
 
 ✅ aprovado em jogo · ⚠️ funciona, com um defeito (descrito) · ❌ não aprovado (vai no pacote, mas tapa o gramado) · 🔗 clube ligado · ➖ sem clube nesta versão (o jogo usa o estádio padrão).
 
@@ -140,12 +149,12 @@ Depois: **Preferências → Idioma → Português (Brasil)** e carregue o save o
 | Santa Cruz | Botafogo-SP 🔗 | ⚠️ estadio podia ser maior em tamanho |
 | Vitorino Gonçalves Dias (VGD) | Londrina ➖ | ✅ |
 
-### Série C (20)
+### Série C (21)
 
 | Estádio | Clube | Situação |
 |---|---|---|
 | Arena Barra FC | Barra-SC 🔗 | ✅ |
-| Arena de Pernambuco | Santa Cruz 🔗 | ✅ |
+| Arena de Pernambuco | Retrô 🔗 | ✅ |
 | Augusto Bauer | Brusque 🔗 | ✅ |
 | Brinco de Ouro da Princesa | Guarani FC 🔗 | ✅ |
 | Estadual Lourival Baptista (Batistão) | Confiança 🔗 | ✅ |
@@ -154,6 +163,7 @@ Depois: **Preferências → Idioma → Português (Brasil)** e carregue o save o
 | General Sylvio Raulino de Oliveira | Volta Redonda Futebol Clube 🔗 | ✅ |
 | Governador João Castelo | Maranhão AC 🔗 | ✅ |
 | José Américo de Almeida Filho (Almeidão) | Botafogo-PB 🔗 | ✅ |
+| José do Rego Maciel (Arruda) | Santa Cruz 🔗 | ✅ |
 | Leônidas Sodré de Castro (Curuzu) | Paysandu Sport Club 🔗 | ✅ |
 | Major José Levy Sobrinho (Limeirão) | Associação Atlética Internacional (Inter de Limeira) 🔗 | ✅ |
 | Municipal Doutor Novelli Júnior | Ituano Futebol Clube 🔗 | ✅ |
@@ -165,7 +175,7 @@ Depois: **Preferências → Idioma → Português (Brasil)** e carregue o save o
 | Orlando Scarpelli | Figueirense Futebol Clube 🔗 | ✅ |
 | Regional Willie Davids | Maringá Futebol Clube 🔗 | ✅ |
 
-### Série D (75)
+### Série D (76)
 
 | Estádio | Clube | Situação |
 |---|---|---|
@@ -185,6 +195,7 @@ Depois: **Preferências → Idioma → Português (Brasil)** e carregue o save o
 | Doutor Alfredo de Castilho (Alfredão) | Esporte Clube Noroeste 🔗 | ✅ |
 | Doutor Hercílio Luz | Clube Náutico Marcílio Dias (também Barra em alguns jogos) 🔗 | ✅ |
 | Doutor Oswaldo Teixeira Duarte (Canindé) | Portuguesa 🔗 | ✅ |
+| Durival Britto e Silva (Vila Capanema) | Paraná 🔗 | ✅ |
 | Elmo Serejo Farias (Serejão) | Brasiliense 🔗 | ✅ |
 | Estadual Kleber José de Andrade | Rio Branco Atlético Clube (ES) 🔗 | ✅ |
 | Estrela D'Alva | Guarany Futebol Clube 🔗 | ✅ |

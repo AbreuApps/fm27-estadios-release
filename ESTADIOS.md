@@ -51,12 +51,12 @@
 | Santa Cruz | Botafogo-SP 🔗 | ⚠️ estadio podia ser maior em tamanho |
 | Vitorino Gonçalves Dias (VGD) | Londrina ➖ | ✅ |
 
-## Série C (20)
+## Série C (21)
 
 | Estádio | Clube | Situação |
 |---|---|---|
 | Arena Barra FC | Barra-SC 🔗 | ✅ |
-| Arena de Pernambuco | Santa Cruz 🔗 | ✅ |
+| Arena de Pernambuco | Retrô 🔗 | ✅ |
 | Augusto Bauer | Brusque 🔗 | ✅ |
 | Brinco de Ouro da Princesa | Guarani FC 🔗 | ✅ |
 | Estadual Lourival Baptista (Batistão) | Confiança 🔗 | ✅ |
@@ -65,6 +65,7 @@
 | General Sylvio Raulino de Oliveira | Volta Redonda Futebol Clube 🔗 | ✅ |
 | Governador João Castelo | Maranhão AC 🔗 | ✅ |
 | José Américo de Almeida Filho (Almeidão) | Botafogo-PB 🔗 | ✅ |
+| José do Rego Maciel (Arruda) | Santa Cruz 🔗 | ✅ |
 | Leônidas Sodré de Castro (Curuzu) | Paysandu Sport Club 🔗 | ✅ |
 | Major José Levy Sobrinho (Limeirão) | Associação Atlética Internacional (Inter de Limeira) 🔗 | ✅ |
 | Municipal Doutor Novelli Júnior | Ituano Futebol Clube 🔗 | ✅ |
@@ -76,7 +77,7 @@
 | Orlando Scarpelli | Figueirense Futebol Clube 🔗 | ✅ |
 | Regional Willie Davids | Maringá Futebol Clube 🔗 | ✅ |
 
-## Série D (75)
+## Série D (76)
 
 | Estádio | Clube | Situação |
 |---|---|---|
@@ -96,6 +97,7 @@
 | Doutor Alfredo de Castilho (Alfredão) | Esporte Clube Noroeste 🔗 | ✅ |
 | Doutor Hercílio Luz | Clube Náutico Marcílio Dias (também Barra em alguns jogos) 🔗 | ✅ |
 | Doutor Oswaldo Teixeira Duarte (Canindé) | Portuguesa 🔗 | ✅ |
+| Durival Britto e Silva (Vila Capanema) | Paraná 🔗 | ✅ |
 | Elmo Serejo Farias (Serejão) | Brasiliense 🔗 | ✅ |
 | Estadual Kleber José de Andrade | Rio Branco Atlético Clube (ES) 🔗 | ✅ |
 | Estrela D'Alva | Guarany Futebol Clube 🔗 | ✅ |

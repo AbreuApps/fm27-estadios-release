@@ -57,7 +57,7 @@ BepInEx/plugins/TaoMods/TraducaoLog/TraducaoLog.dll
 ```
 
 Para aparecer o idioma, copie também `TaoMods/languages/portuguese_br.ltc` para a pasta **`languages`** (tabela acima). O jogo só lê idioma de lá.
-O save é opcional: copie `save/brazil-a-to-f-desempregado.fm` para a pasta **`games`**.
+O save é opcional e vem nas versões anteriores (`save/brazil-a-to-f-desempregado.fm`, para a pasta **`games`**); ele não mudou.
 
 Não solte DLLs direto em `plugins/`: cada mod fica na sua pasta dentro de `TaoMods`.
 
@@ -73,8 +73,8 @@ A **primeira abertura com o BepInEx demora vários minutos**. Não feche. Depois
 
 Abra `BepInEx/LogOutput.log` e procure:
 
-- `TaoStadiumMod 0.7.5` ✅ o mod dos estádios carregou
-- `GUIDs do catálogo FM27: 90` ✅ as peças do jogo foram achadas
+- `TaoStadiumMod 0.7.6` ✅ o mod dos estádios carregou
+- `ganchos de peça por tribuna desligados` ✅ é a correção do fechamento no Windows
 - `estádio ... receita '...'` e `malha '...'` ✅ o estádio da partida foi aplicado
 - `TraducaoLog` e `DICIONARIO carregado` ✅ a tradução carregou
 
@@ -82,17 +82,24 @@ Abra `BepInEx/LogOutput.log` e procure:
 
 ## ⚠️ Problemas conhecidos
 
-É a v0.1.2. **Novidade desta versão:** o plugin agora também compila para o **FM26** (zip separado `FM26-Estadios-BR-teste-0.1.2.zip`, versão de teste: a torcida do jogo pode aparecer fora das arquibancadas). Para o FM27 nada muda no que se vê no jogo; os logs de diagnóstico da v0.1.1 continuam. Se o jogo fechar, siga o item "O jogo fecha sozinho" em *Problemas comuns*. Estes são os defeitos que já conhecemos:
+É a v0.1.3. **Novidades desta versão:**
 
-- 🏠 **Telhado na frente da câmera tática:** Alfredo Jaconi, Arena Sicredi, Primeiro de Maio, Rei Pelé, 19 de Outubro, Aluizão, Annibal Batista de Toledo, Arena da Floresta, Zinho de Oliveira.
+- 🛠️ **Correção do jogo fechando ao abrir a partida no Windows:** o plugin 0.7.6 desliga a troca de peça por tribuna, que era o passo em que os logs paravam. Se ainda fechar, siga o item "O jogo fecha sozinho" em *Problemas comuns*: precisamos saber se resolveu.
+- 🏟️ **Estádios novos:** Arruda (Santa Cruz) e Vila Capanema (Paraná).
+- 🏠 **Telhados mais altos, sobre pilares e escondidos pela câmera:** Arena Sicredi, Primeiro de Maio, Rei Pelé, 19 de Outubro, Aluizão, Annibal Batista de Toledo, Arena da Floresta, Zerão, Amigão, Francisco Vasques, Frasqueirão e Canindé. O Estádio Santa Cruz (Botafogo-SP) ficou maior.
+- 🔁 A Arena de Pernambuco agora é do **Retrô** (o Santa Cruz joga no Arruda).
+- 🤝 **Convive com o pacote de estádios do BassyBoy** (Stadium Injection, versão adaptada ao FM27): onde ele tem estádio, ele manda e o nosso se desliga sozinho; nos outros, o nosso aparece.
+
+Defeitos que ainda conhecemos:
+
 - 👻 **Arquibancada vazia:** Independência, Jorjão (duas), Francisco Vasques.
-- 🎯 Frasqueirão: arquibancada na frente da câmera. Arena das Dunas: telhados flutuantes. Santa Cruz: menor que o real.
-- ❌ **Amigão** e **Zerão** não foram aprovados: o telhado tapa o gramado. Estão no pacote mesmo assim.
-- ➖ Sem clube ligado: João Saldanha, Nazarenão, VGD e Carlos Zamith. Clubes sem estádio na lista (como o Paraná Clube) usam o estádio padrão.
+- 🎯 Alfredo Jaconi: câmera ruim. Arena das Dunas: telhados flutuantes. Amigão: formato diferente do real.
+- ➖ Sem clube ligado: João Saldanha, Nazarenão, VGD e Carlos Zamith.
+- 🧩 Com o pacote do BassyBoy da versão do **FM26**, o `GoalkeeperKitManager` e o `TracksuitManager` fecham o jogo logo depois do login, com ou sem o nosso mod. Deixe esses dois fora da pasta `plugins`.
 
 ## Instalar só alguns estádios
 
-Não precisa ficar com os 134. Cada estádio é independente. Dentro de `BepInEx/plugins/TaoMods/TaoStadiumMod`:
+Não precisa ficar com os 136. Cada estádio é independente. Dentro de `BepInEx/plugins/TaoMods/TaoStadiumMod`:
 
 - apague de `estadios/` o `<estádio>.json` dos que não quer;
 - apague de `estadios3d/` a pasta com o mesmo nome (`<estádio>/`).
@@ -101,7 +108,7 @@ Apague sempre as duas coisas juntas. Mantenha `TaoStadiumMod.dll` e a pasta `atm
 
 ## Atualizar de uma versão antiga
 
-Apague `BepInEx/plugins/TaoMods` e copie a nova. O save não é afetado.
+Apague a pasta `TaoMods` antiga em `BepInEx/plugins` e cole a nova. O save não é afetado.
 
 ## Remover ou desligar
 
