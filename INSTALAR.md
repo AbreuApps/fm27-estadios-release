@@ -73,7 +73,7 @@ A **primeira abertura com o BepInEx demora vários minutos**. Não feche. Depois
 
 Abra `BepInEx/LogOutput.log` e procure:
 
-- `TaoStadiumMod 0.7.6` ✅ o mod dos estádios carregou
+- `TaoStadiumMod 0.1.3` ✅ o mod dos estádios carregou
 - `ganchos de peça por tribuna desligados` ✅ é a correção do fechamento no Windows
 - `estádio ... receita '...'` e `malha '...'` ✅ o estádio da partida foi aplicado
 - `TraducaoLog` e `DICIONARIO carregado` ✅ a tradução carregou
@@ -84,7 +84,7 @@ Abra `BepInEx/LogOutput.log` e procure:
 
 É a v0.1.3. **Novidades desta versão:**
 
-- 🛠️ **Correção do jogo fechando ao abrir a partida no Windows:** o plugin 0.7.6 desliga a troca de peça por tribuna, que era o passo em que os logs paravam. Se ainda fechar, siga o item "O jogo fecha sozinho" em *Problemas comuns*: precisamos saber se resolveu.
+- 🛠️ **Correção do jogo fechando ao abrir a partida no Windows:** o plugin desliga a troca de peça por tribuna, que era o passo em que os logs paravam. Se ainda fechar, siga o item "O jogo fecha sozinho" em *Problemas comuns*: precisamos saber se resolveu.
 - 🏟️ **Estádios novos:** Arruda (Santa Cruz) e Vila Capanema (Paraná).
 - 🏠 **Telhados mais altos, sobre pilares e escondidos pela câmera:** Arena Sicredi, Primeiro de Maio, Rei Pelé, 19 de Outubro, Aluizão, Annibal Batista de Toledo, Arena da Floresta, Zerão, Amigão, Francisco Vasques, Frasqueirão e Canindé. O Estádio Santa Cruz (Botafogo-SP) ficou maior.
 - 🔁 A Arena de Pernambuco agora é do **Retrô** (o Santa Cruz joga no Arruda).

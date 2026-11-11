@@ -8,7 +8,7 @@ Tutorial válido da **v0.1.0** em diante. Baixe tudo em **[Releases](../../relea
 
 ### 🆕 Última versão: [v0.1.3](https://github.com/AbreuApps/fm27-estadios-release/releases/tag/v0.1.3) (11/11/2026)
 
-- 🛠️ **Correção do jogo fechando ao abrir a partida no Windows** (`TaoStadiumMod 0.7.6`): a troca de peça por tribuna, onde os logs paravam, vem desligada. Se ainda fechar, mande o log: precisamos saber se resolveu.
+- 🛠️ **Correção do jogo fechando ao abrir a partida no Windows** (`TaoStadiumMod 0.1.3`): a troca de peça por tribuna, onde os logs paravam, vem desligada. Se ainda fechar, mande o log: precisamos saber se resolveu.
 - 🏟️ **Estádios novos:** Arruda (Santa Cruz) e Vila Capanema (Paraná). Agora são **136**.
 - 🏠 **Telhados mais altos e sobre pilares**, que não tapam mais a câmera: Arena Sicredi, Primeiro de Maio, Rei Pelé, 19 de Outubro, Aluizão, Annibal Batista de Toledo, Arena da Floresta, Zerão, Amigão, Francisco Vasques, Frasqueirão e Canindé. O Estádio Santa Cruz (Botafogo-SP) ficou maior.
 - 🔁 A Arena de Pernambuco agora é do **Retrô**; o Santa Cruz joga no Arruda.
