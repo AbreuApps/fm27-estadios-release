@@ -124,7 +124,7 @@ Apague a pasta `TaoMods` antiga em `BepInEx/plugins` e cole a nova. O save não 
 - **O jogo fecha sozinho ao iniciar a partida:** esta versão grava um diagnóstico. Abra uma [Issue](https://github.com/AbreuApps/fm27-estadios-release/issues) (ou mande por onde falou comigo) com estes arquivos, **antes de abrir o jogo de novo**:
   1. `BepInEx/LogOutput.log` (na pasta do jogo);
   2. o `diagnostico_...log` mais novo em `BepInEx/plugins/TaoMods/TaoStadiumMod/` (as linhas `[diag]` mostram em que passo o jogo parou);
-  3. `Player.log`, em `C:\Users\<você>\AppData\Local\Temp\Sports Interactive\Football Manager 27\`;
+  3. `Player.log`, em `C:\Users\<você>\AppData\LocalLow\Sports Interactive\Football Manager 27\` (cole `%USERPROFILE%\AppData\LocalLow` no Explorer);
   4. o nome do clube e do estádio da partida.
 - **Meu save quebra se eu remover o mod?** Não. O mod só troca o estádio e o texto na tela.
 
