@@ -6,7 +6,14 @@ Tutorial válido da **v0.1.0** em diante. Baixe tudo em **[Releases](../../relea
 <!-- ULTIMA-VERSAO:INICIO -->
 [![Última versão](https://img.shields.io/github/v/release/AbreuApps/fm27-estadios-release?label=vers%C3%A3o&color=2ea44f)](https://github.com/AbreuApps/fm27-estadios-release/releases/latest) [![Downloads](https://img.shields.io/github/downloads/AbreuApps/fm27-estadios-release/total?label=downloads&color=blue)](https://github.com/AbreuApps/fm27-estadios-release/releases) [![Issues](https://img.shields.io/github/issues/AbreuApps/fm27-estadios-release?label=issues)](https://github.com/AbreuApps/fm27-estadios-release/issues)
 
-### 🆕 Última versão: [v0.1.1](https://github.com/AbreuApps/fm27-estadios-release/releases/tag/v0.1.1) (11/11/2026)
+### 🆕 Última versão: [v0.1.2](https://github.com/AbreuApps/fm27-estadios-release/releases/tag/v0.1.2) (11/11/2026)
+
+- 🧪 **Versão de teste para o FM26** (zip separado, `FM26-Estadios-BR-teste-0.1.2.zip`): o plugin agora também roda no FM26. A torcida do jogo pode aparecer fora das arquibancadas. Quem joga FM27 não precisa atualizar: nada muda no que se vê.
+- 🔍 `TaoStadiumMod 0.7.5`, com os logs de diagnóstico da 0.1.1.
+
+O que veio na 0.1.1:
+
+### 🔙 v0.1.1 (11/11/2026)
 
 - 🔍 **A 0.1.1 só muda os logs**, para facilitar achar e resolver os crashes ao iniciar a partida. Nada muda no que se vê no jogo. Se o jogo fechar, mande o `BepInEx/LogOutput.log` (copie antes de abrir o jogo de novo). Detalhes em [INSTALAR.md](INSTALAR.md).
 - 🔌 O **pacote completo** agora traz o BepInEx `be.791` e o `winhttp.dll` (no Linux: `WINEDLLOVERRIDES="winhttp=n,b"`).

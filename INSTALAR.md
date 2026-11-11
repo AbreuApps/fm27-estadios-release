@@ -73,7 +73,7 @@ A **primeira abertura com o BepInEx demora vários minutos**. Não feche. Depois
 
 Abra `BepInEx/LogOutput.log` e procure:
 
-- `TaoStadiumMod 0.7.4` ✅ o mod dos estádios carregou
+- `TaoStadiumMod 0.7.5` ✅ o mod dos estádios carregou
 - `GUIDs do catálogo FM27: 90` ✅ as peças do jogo foram achadas
 - `estádio ... receita '...'` e `malha '...'` ✅ o estádio da partida foi aplicado
 - `TraducaoLog` e `DICIONARIO carregado` ✅ a tradução carregou
@@ -82,7 +82,7 @@ Abra `BepInEx/LogOutput.log` e procure:
 
 ## ⚠️ Problemas conhecidos
 
-É a v0.1.1. **Novidade desta versão:** só mudamos os logs, para facilitar achar e resolver os crashes. Nada muda no que se vê no jogo. Se o jogo fechar, siga o item "O jogo fecha sozinho" em *Problemas comuns*. Estes são os defeitos que já conhecemos:
+É a v0.1.2. **Novidade desta versão:** o plugin agora também compila para o **FM26** (zip separado `FM26-Estadios-BR-teste-0.1.2.zip`, versão de teste: a torcida do jogo pode aparecer fora das arquibancadas). Para o FM27 nada muda no que se vê no jogo; os logs de diagnóstico da v0.1.1 continuam. Se o jogo fechar, siga o item "O jogo fecha sozinho" em *Problemas comuns*. Estes são os defeitos que já conhecemos:
 
 - 🏠 **Telhado na frente da câmera tática:** Alfredo Jaconi, Arena Sicredi, Primeiro de Maio, Rei Pelé, 19 de Outubro, Aluizão, Annibal Batista de Toledo, Arena da Floresta, Zinho de Oliveira.
 - 👻 **Arquibancada vazia:** Independência, Jorjão (duas), Francisco Vasques.
