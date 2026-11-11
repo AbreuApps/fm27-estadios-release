@@ -1,17 +1,23 @@
 # Estádios do Brasil 3D — Football Manager 27 🏟️🇧🇷
 
-**134 estádios brasileiros** das séries A a D em 3D, com a torcida nos degraus, mais a **tradução Português (Brasil)**, a **câmera livre** e um **save pronto**. Tudo no mesmo pacote: baixe, descompacte e copie.
+**134 estádios brasileiros** das séries A a D em 3D, com a torcida nos degraus, mais a **tradução Português (Brasil)** e um **save pronto**. Tudo no mesmo pacote: baixe, descompacte e copie.
 Tutorial válido da **v0.1.0** em diante. Baixe tudo em **[Releases](../../releases/latest)**.
 
 <!-- ULTIMA-VERSAO:INICIO -->
 [![Última versão](https://img.shields.io/github/v/release/AbreuApps/fm27-estadios-release?label=vers%C3%A3o&color=2ea44f)](https://github.com/AbreuApps/fm27-estadios-release/releases/latest) [![Downloads](https://img.shields.io/github/downloads/AbreuApps/fm27-estadios-release/total?label=downloads&color=blue)](https://github.com/AbreuApps/fm27-estadios-release/releases) [![Issues](https://img.shields.io/github/issues/AbreuApps/fm27-estadios-release?label=issues)](https://github.com/AbreuApps/fm27-estadios-release/issues)
 
-### 🆕 Última versão: [v0.1.0](https://github.com/AbreuApps/fm27-estadios-release/releases/tag/v0.1.0) (10/11/2026)
+### 🆕 Última versão: [v0.1.1](https://github.com/AbreuApps/fm27-estadios-release/releases/tag/v0.1.1) (11/11/2026)
+
+- 🔍 **A 0.1.1 só muda os logs**, para facilitar achar e resolver os crashes ao iniciar a partida. Nada muda no que se vê no jogo. Se o jogo fechar, mande o `BepInEx/LogOutput.log` (copie antes de abrir o jogo de novo). Detalhes em [INSTALAR.md](INSTALAR.md).
+- 🔌 O **pacote completo** agora traz o BepInEx `be.791` e o `winhttp.dll` (no Linux: `WINEDLLOVERRIDES="winhttp=n,b"`).
+- 🎥 A **câmera livre saiu do pacote**: ficam só os estádios e a tradução.
+
+O que veio na 0.1.0:
+
 
 - 🏟️ **134 estádios em 3D:** Série A, B, C e D, cada um ligado ao clube pelo ID do jogo. A lista completa está em **[ESTADIOS.md](ESTADIOS.md)**.
 - 👥 **Torcida nos degraus:** a torcida senta nas cadeiras do estádio 3D, não em blocos soltos.
 - 🇧🇷 **Tradução Português (Brasil) 1.2.6** junto no pacote, já ligada.
-- 🎥 **Câmera livre** (FreeCam) junto no pacote: ajuda nos estádios que ficaram ruins na câmera padrão, ou para quem quiser olhar o estádio de perto. Tutorial em português.
 - 💾 **Save desempregado** (Brasil, séries A a H) para escolher qualquer clube. Database das séries A a H criada pelo **[D-Manager](https://www.youtube.com/@D-Manager)**; veja os [créditos](INSTALAR.md#créditos).
 - ⚠️ **É a primeira versão:** alguns estádios têm defeitos conhecidos (telhado na frente da câmera, arquibancada vazia). Veja em **[Problemas conhecidos](INSTALAR.md#️-problemas-conhecidos)**.
 
@@ -26,7 +32,7 @@ Baixe **`FM27-Estadios-BR-<versão>.zip`** em [Releases](../../releases/latest) 
 
 ## 2. Instale
 
-Feche o jogo e **extraia a pasta `TaoMods` dentro de `BepInEx/plugins/`** (na pasta do jogo). Pronto: estádios, plugin da tradução e câmera livre já estão instalados.
+Feche o jogo e **extraia a pasta `TaoMods` dentro de `BepInEx/plugins/`** (na pasta do jogo). Pronto: estádios e plugin da tradução já estão instalados.
 
 ```
 BepInEx/plugins/TaoMods/TaoStadiumMod/TaoStadiumMod.dll   ← deve existir
@@ -50,7 +56,7 @@ Dica: Steam → botão direito no jogo → *Gerenciar* → *Explorar arquivos lo
 Steam → FM27 → Propriedades → *Opções de inicialização*:
 
 ```
-WINEDLLOVERRIDES="version=n,b" %command%
+WINEDLLOVERRIDES="winhttp=n,b" %command%
 ```
 
 ## 5. Abra o jogo
