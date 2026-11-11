@@ -73,8 +73,9 @@ A **primeira abertura com o BepInEx demora vários minutos**. Não feche. Depois
 
 Abra `BepInEx/LogOutput.log` e procure:
 
-- `TaoStadiumMod 0.1.3` ✅ o mod dos estádios carregou
+- `TaoStadiumMod 0.1.4 (BepInEx 1.1.4)` ✅ o mod dos estádios carregou
 - `ganchos de peça por tribuna desligados` ✅ é a correção do fechamento no Windows
+- `Skipping [TaoStadiumMod ...]` ou `outra cópia do TaoStadiumMod` ❌ há uma versão antiga sobrando: apague a pasta que o log indicar
 - `estádio ... receita '...'` e `malha '...'` ✅ o estádio da partida foi aplicado
 - `TraducaoLog` e `DICIONARIO carregado` ✅ a tradução carregou
 
@@ -82,18 +83,18 @@ Abra `BepInEx/LogOutput.log` e procure:
 
 ## ⚠️ Problemas conhecidos
 
-É a v0.1.3. **Novidades desta versão:**
+É a v0.1.4. **Novidades desta versão:**
 
-- 🛠️ **Correção do jogo fechando ao abrir a partida no Windows:** o plugin desliga a troca de peça por tribuna, que era o passo em que os logs paravam. Se ainda fechar, siga o item "O jogo fecha sozinho" em *Problemas comuns*: precisamos saber se resolveu.
-- 🏟️ **Estádios novos:** Arruda (Santa Cruz) e Vila Capanema (Paraná).
-- 🏠 **Telhados mais altos, sobre pilares e escondidos pela câmera:** Arena Sicredi, Primeiro de Maio, Rei Pelé, 19 de Outubro, Aluizão, Annibal Batista de Toledo, Arena da Floresta, Zerão, Amigão, Francisco Vasques, Frasqueirão e Canindé. O Estádio Santa Cruz (Botafogo-SP) ficou maior.
-- 🔁 A Arena de Pernambuco agora é do **Retrô** (o Santa Cruz joga no Arruda).
-- 🤝 **Convive, por enquanto, com o pacote de estádios do BassyBoy:** onde ele tem estádio, ele manda e o nosso se desliga sozinho; nos outros, aparece o nosso.
+- 🛠️ **Mais uma correção do jogo fechando no Windows:** uma versão antiga do mod esquecida em `plugins` (pasta `TaoStadiumMod` solta, fora de `TaoMods`) passava na frente da nova e travava o jogo. Agora a versão nova sempre vence, o passo que travava saiu do plugin e o log avisa se houver cópia antiga. Testado por quem tinha o problema.
+- 🏟️ **Estádios corrigidos:** Amigão agora é oval, como o real; Arena Sicredi com telhado em arco alto sobre pilares; Arena das Dunas sem telhados flutuantes; Alfredo Jaconi e Zinho de Oliveira sem telhado na frente da câmera.
+- ⚙️ **Opcional:** em `BepInEx/config/tao.stadiummod.cfg`, `[Torcida] Lotacao = jogo` faz a torcida seguir o público do jogo (padrão `cheio`, estádio lotado). Ainda em teste.
+
+As duas últimas versões estão bem mais estáveis. Continue mandando o feedback: é com ele que eu acabo com os crashes.
 
 Defeitos que ainda conhecemos:
 
 - 👻 **Arquibancada vazia:** Independência, Jorjão (duas), Francisco Vasques.
-- 🎯 Alfredo Jaconi: câmera ruim. Arena das Dunas: telhados flutuantes. Amigão: formato diferente do real.
+- 🏠 Arena das Dunas: o estilo do telhado ainda não é igual ao real.
 - ➖ Sem clube ligado: João Saldanha, Nazarenão, VGD e Carlos Zamith.
 
 ## Instalar só alguns estádios
@@ -107,7 +108,8 @@ Apague sempre as duas coisas juntas. Mantenha `TaoStadiumMod.dll` e a pasta `atm
 
 ## Atualizar de uma versão antiga
 
-Apague a pasta `TaoMods` antiga em `BepInEx/plugins` e cole a nova. O save não é afetado.
+Apague a pasta `TaoMods` antiga em `BepInEx/plugins` e cole a nova. O save não é afetado. Se existir uma pasta
+`TaoStadiumMod` solta direto em `BepInEx/plugins` (de versões bem antigas, fora de `TaoMods`), apague também.
 
 ## Remover ou desligar
 
@@ -119,6 +121,7 @@ Apague a pasta `TaoMods` antiga em `BepInEx/plugins` e cole a nova. O save não 
 
 - **Não aparece "Português (Brasil)":** confira o caminho da pasta `languages` e reinicie o jogo por completo.
 - **Tela preta na 1ª abertura:** normal com BepInEx. Espere alguns minutos.
+- **Depois de o FM atualizar, nenhum mod carrega** (no log: `Failed to download Unity base libraries` e `no plugins will be loaded`): o BepInEx precisa baixar um arquivo do site dele, que às vezes fica fora do ar. Coloque o `.zip` com o número da versão do Unity que o log mostra (ex.: `6000.3.18.zip`), **sem descompactar**, em `BepInEx/unity-libs/` e abra o jogo de novo. Se o site não abrir, peça o arquivo numa [Issue](https://github.com/AbreuApps/fm27-estadios-release/issues).
 - **O estádio do meu time não mudou:** confira em [ESTADIOS.md](https://github.com/AbreuApps/fm27-estadios-release/blob/main/ESTADIOS.md) se o clube está ligado. Confira também se a pasta está em `BepInEx/plugins/TaoMods/TaoStadiumMod` (não solta, não em outro lugar) e se o `LogOutput.log` existe. Se não existe, o BepInEx não carregou: no Windows, confira se extraiu na pasta do `fm.exe`; no Linux, confira a opção de inicialização.
 - **O jogo não abre:** apague `BepInEx/plugins/TaoMods`; se abrir, abra uma [Issue](https://github.com/AbreuApps/fm27-estadios-release/issues) com o `LogOutput.log`.
 - **O jogo fecha sozinho ao iniciar a partida:** esta versão grava um diagnóstico. Abra uma [Issue](https://github.com/AbreuApps/fm27-estadios-release/issues) (ou mande por onde falou comigo) com estes arquivos, **antes de abrir o jogo de novo**:

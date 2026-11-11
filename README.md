@@ -6,26 +6,25 @@ Tutorial válido da **v0.1.0** em diante. Baixe tudo em **[Releases](../../relea
 <!-- ULTIMA-VERSAO:INICIO -->
 [![Última versão](https://img.shields.io/github/v/release/AbreuApps/fm27-estadios-release?label=vers%C3%A3o&color=2ea44f)](https://github.com/AbreuApps/fm27-estadios-release/releases/latest) [![Downloads](https://img.shields.io/github/downloads/AbreuApps/fm27-estadios-release/total?label=downloads&color=blue)](https://github.com/AbreuApps/fm27-estadios-release/releases) [![Issues](https://img.shields.io/github/issues/AbreuApps/fm27-estadios-release?label=issues)](https://github.com/AbreuApps/fm27-estadios-release/issues)
 
-### 🆕 Última versão: [v0.1.3](https://github.com/AbreuApps/fm27-estadios-release/releases/tag/v0.1.3) (11/11/2026)
+### 🆕 Última versão: [v0.1.4](https://github.com/AbreuApps/fm27-estadios-release/releases/tag/v0.1.4) (11/11/2026)
 
-- 🛠️ **Correção do jogo fechando ao abrir a partida no Windows** (`TaoStadiumMod 0.1.3`): a troca de peça por tribuna, onde os logs paravam, vem desligada. Se ainda fechar, mande o log: precisamos saber se resolveu.
-- 🏟️ **Estádios novos:** Arruda (Santa Cruz) e Vila Capanema (Paraná). Agora são **136**.
-- 🏠 **Telhados mais altos e sobre pilares**, que não tapam mais a câmera: Arena Sicredi, Primeiro de Maio, Rei Pelé, 19 de Outubro, Aluizão, Annibal Batista de Toledo, Arena da Floresta, Zerão, Amigão, Francisco Vasques, Frasqueirão e Canindé. O Estádio Santa Cruz (Botafogo-SP) ficou maior.
-- 🔁 A Arena de Pernambuco agora é do **Retrô**; o Santa Cruz joga no Arruda.
-- 🤝 **Convive, por enquanto, com o pacote de estádios do BassyBoy:** onde ele tem estádio, ele manda e o nosso se desliga sozinho; nos outros, aparece o nosso.
-- 📦 **Para atualizar:** apague a pasta `TaoMods` antiga em `BepInEx/plugins` e cole a nova. O zip `FM27-Estadios-BR-0.1.3.zip` traz só a pasta `TaoMods`.
+- 🛠️ **Mais uma correção do jogo fechando no Windows** (`TaoStadiumMod 0.1.4`): uma versão antiga do mod esquecida em `BepInEx/plugins` (pasta `TaoStadiumMod` solta, fora de `TaoMods`) passava na frente da nova e travava o jogo. Agora a nova sempre vence, o passo que travava saiu do plugin e o log avisa se sobrar cópia antiga. Já testado por quem tinha o problema.
+- 🏟️ **5 estádios corrigidos:** Amigão agora é **oval**, como o real; Arena Sicredi com telhado em arco alto sobre pilares; Arena das Dunas sem telhados flutuantes; Alfredo Jaconi e Zinho de Oliveira sem telhado na frente da câmera.
+- ⚙️ **Opcional:** `[Torcida] Lotacao = jogo` em `BepInEx/config/tao.stadiummod.cfg` faz a torcida seguir o público do jogo (padrão: estádio lotado). Ainda em teste.
+- 🙌 Atualizei coisas que vi que vocês precisavam. As duas últimas versões estão bem mais estáveis; continuem mandando feedback, é com ele que eu acabo com os crashes.
+- 📦 **Para atualizar:** apague a pasta `TaoMods` antiga em `BepInEx/plugins` e cole a nova (e a pasta `TaoStadiumMod` solta, se existir). O zip `FM27-Estadios-BR-0.1.4.zip` traz só a pasta `TaoMods`.
 
-### 📦 v0.1.3
+### 📦 v0.1.4
 
 | | |
 |---|---|
-| 🏟️ **Estádios** | **136 em 3D**, das séries A, B, C e D, cada um ligado ao clube pelo ID do jogo. Nesta versão: **2 novos** e **13 atualizados (v2)**. Lista completa, com a versão de cada um, em **[ESTADIOS.md](ESTADIOS.md)**. |
-| 👥 **Torcida** | Nos degraus: a torcida senta nas cadeiras do estádio 3D, não em blocos soltos. Todo estádio sai lotado. |
+| 🏟️ **Estádios** | **136 em 3D**, das séries A, B, C e D, cada um ligado ao clube pelo ID do jogo. Nesta versão: **5 atualizados**. Na anterior (0.1.3): 2 novos e 13 atualizados. Lista completa, com a versão de cada um, em **[ESTADIOS.md](ESTADIOS.md)**. |
+| 👥 **Torcida** | Nos degraus: a torcida senta nas cadeiras do estádio 3D, não em blocos soltos. Todo estádio sai lotado (ou, opcional, segue o público do jogo). |
 | 🇧🇷 **Tradução** | Português (Brasil) **1.2.6** junto no pacote, já ligada. |
 | 💾 **Save** | Desempregado (Brasil, séries A a H) para escolher qualquer clube. Database criada pelo **[D-Manager](https://www.youtube.com/@D-Manager)**; veja os [créditos](INSTALAR.md#créditos). |
-| 🔌 **Plugin** | `TaoStadiumMod 0.1.3`, com a mesma versão do pacote. Zip normal só com a pasta `TaoMods`; zip **Completo** com BepInEx be.791; zip de **teste para o FM26**. |
+| 🔌 **Plugin** | `TaoStadiumMod 0.1.4`, com a mesma versão do pacote (para o BepInEx ele é `1.1.4`, para vencer cópias antigas 0.7.x). Zip normal só com a pasta `TaoMods`; zip **Completo** com BepInEx be.791; zip de **teste para o FM26**. |
 | 🤝 **Outros mods** | Convive, por enquanto, com o pacote de estádios do BassyBoy. |
-| ⚠️ **Defeitos conhecidos** | Arquibancada vazia (Independência, Jorjão, Francisco Vasques); telhado na frente da câmera (Alfredo Jaconi, Zinho de Oliveira); telhados flutuantes (Arena das Dunas). Veja em **[Problemas conhecidos](INSTALAR.md#️-problemas-conhecidos)**. |
+| ⚠️ **Defeitos conhecidos** | Arquibancada vazia (Independência, Jorjão, Francisco Vasques); o estilo do telhado da Arena das Dunas ainda não é igual ao real. Depois de o FM atualizar, se nenhum mod carregar, é o site do BepInEx fora do ar (solução em *Problemas comuns*). Veja em **[Problemas conhecidos](INSTALAR.md#️-problemas-conhecidos)**. |
 
 🔌 O **BepInEx 6 (IL2CPP)** é obrigatório: é ele que carrega o mod. Não tem? O pacote completo da [tradução](https://github.com/AbreuApps/fm27-ptbr-release/releases/latest) já traz ele pronto.
 <!-- ULTIMA-VERSAO:FIM -->
@@ -96,30 +95,15 @@ Depois: **Preferências → Idioma → Português (Brasil)** e carregue o save o
 - ➖ sem clube nesta versão (o jogo usa o estádio padrão)
 - **Versão:** v1 é o estádio como saiu; cada mudança sobe a versão (entre parênteses, a release em que mudou)
 
-### 🔄 Atualizados na v0.1.3 (13)
+### 🔄 Atualizados na v0.1.4 (5)
 
 | Estádio | Clube | Versão | O que mudou |
 |---|---|---|---|
-| 19 de Outubro | Esporte Clube São Luiz | v2 (0.1.3) | telhado alto sobre pilares |
-| Aluízio Ferreira (Aluizão) | Gazin Porto Velho / mandantes rondonienses | v2 (0.1.3) | telhado alto, não tapa mais a câmera |
-| Arena da Floresta | Independência Futebol Clube (e demais mandantes estaduais) | v2 (0.1.3) | telhado alto com pilares (não flutua mais) e fora da frente da câmera |
-| Doutor Oswaldo Teixeira Duarte (Canindé) | Portuguesa | v2 (0.1.3) | telhado fora da frente da câmera |
-| Francisco Vasques | Tuna Luso Brasileira | v2 (0.1.3) | telhado alto sobre pilares |
-| Governador Ernani Sátyro (Amigão) | Treze Futebol Clube | v2 (0.1.3) | telhado alto com pilares, fora da frente da câmera |
-| Joaquim Portugal (Arena Sicredi) | Athletic Club (Minas Gerais) | v2 (0.1.3) | telhado não tapa mais a câmera |
-| Maria Lamas Farache (Frasqueirão) | ABC Futebol Clube | v2 (0.1.3) | telhado fora da frente da câmera |
-| Milton de Souza Corrêa (Zerão) | Independente / Trem (Amapá) | v2 (0.1.3) | telhado alto sobre pilares, fora da frente da câmera |
-| Municipal 1.º de Maio | São Bernardo | v2 (0.1.3) | telhado alto sobre pilares, não tapa mais a câmera |
-| Municipal Annibal Batista de Toledo | Associação Atlética Aparecidense | v2 (0.1.3) | telhado alto sobre pilares |
-| Rei Pelé | CSA / CRB | v2 (0.1.3) | telhados altos sobre pilares, não tapam mais a câmera |
-| Santa Cruz | Botafogo-SP | v2 (0.1.3) | estádio maior, coberturas altas |
-
-### 🆕 Novos na v0.1.3 (2)
-
-| Estádio | Clube |
-|---|---|
-| Durival Britto e Silva (Vila Capanema) | Paraná |
-| José do Rego Maciel (Arruda) | Santa Cruz |
+| Alfredo Jaconi | Esporte Clube Juventude | v2 (0.1.4) | teto do anel superior recuado, não avança mais sobre o campo na frente da câmera |
+| Arena das Dunas | ABC / América de Natal | v2 (0.1.4) | pétalas do teto apoiadas na fachada e em pilares (não flutuam mais) e escondidas com a câmera |
+| Governador Ernani Sátyro (Amigão) | Treze Futebol Clube | v3 (0.1.4) | forma oval como o real (anel contínuo); na 0.1.3: telhado alto com pilares |
+| Joaquim Portugal (Arena Sicredi) | Athletic Club (Minas Gerais) | v3 (0.1.4) | telhado em arco alto sobre pilares (antes baixo e sem apoio) |
+| Municipal Zinho de Oliveira | Águia de Marabá Futebol Clube | v2 (0.1.4) | telhado escondido junto com a tribuna quando a câmera fica atrás dela |
 
 ### Série A (19)
 
@@ -151,7 +135,7 @@ Depois: **Preferências → Idioma → Português (Brasil)** e carregue o save o
 |---|---|---|---|
 | Adelmar da Costa Carvalho (Ilha do Retiro) | Sport Club do Recife 🔗 | v1 | ✅ |
 | Aderbal Ramos da Silva (Ressacada) | Avaí 🔗 | v1 | ✅ |
-| Alfredo Jaconi | Esporte Clube Juventude 🔗 | v1 | ⚠️ telhado na frente da câmera |
+| Alfredo Jaconi | Esporte Clube Juventude 🔗 | v2 (0.1.4) | 🔧 corrigido na 0.1.4, falta reteste |
 | Antônio Accioly | Atlético Goianiense 🔗 | v1 | ✅ |
 | Arena Pantanal | Cuiabá 🔗 | v1 | ✅ |
 | Doutor Jorge Ismael de Biasi (Jorjão) | Grêmio Novorizontino 🔗 | v1 | ⚠️ duas arquibancadas vazias |
@@ -160,7 +144,7 @@ Depois: **Preferências → Idioma → Português (Brasil)** e carregue o save o
 | Governador Plácido Castelo (Arena Castelão) | Fortaleza / Ceará 🔗 | v1 | ✅ |
 | Hailé Pinheiro (Serrinha) | Goiás 🔗 | v1 | ✅ |
 | Heriberto Hülse | Criciúma 🔗 | v1 | ✅ |
-| Joaquim Portugal (Arena Sicredi) | Athletic Club (Minas Gerais) 🔗 | v2 (0.1.3) | 🔧 corrigido na 0.1.3, falta reteste |
+| Joaquim Portugal (Arena Sicredi) | Athletic Club (Minas Gerais) 🔗 | v3 (0.1.4) | 🔧 corrigido na 0.1.4, falta reteste |
 | Moisés Lucarelli (Majestoso) | Ponte Preta 🔗 | v1 | ✅ |
 | Municipal 1.º de Maio | São Bernardo 🔗 | v2 (0.1.3) | 🔧 corrigido na 0.1.3, falta reteste |
 | Municipal Jacy Scaff (Estádio do Café) | Londrina Esporte Clube 🔗 | v1 | ✅ |
@@ -206,7 +190,7 @@ Depois: **Preferências → Idioma → Português (Brasil)** e carregue o save o
 | Aniceto Moscoso (Conselheiro Galvão) | Madureira Esporte Clube 🔗 | v1 | ✅ |
 | Arena da Amazônia | Amazonas FC 🔗 | v1 | ✅ |
 | Arena da Floresta | Independência Futebol Clube (e demais mandantes estaduais) 🔗 | v2 (0.1.3) | 🔧 corrigido na 0.1.3, falta reteste |
-| Arena das Dunas | ABC / América de Natal 🔗 | v1 | ⚠️ telhados flutuantes; o estilo do telhado ainda não é igual ao real |
+| Arena das Dunas | ABC / América de Natal 🔗 | v2 (0.1.4) | 🔧 corrigido na 0.1.4, falta reteste |
 | Arena Inamar (José Batista Pereira Fernandes) | Esporte Clube Água Santa 🔗 | v1 | ✅ |
 | Arena Joinville | Joinville Esporte Clube (JEC) 🔗 | v1 | ✅ |
 | Bento Mendes de Freitas | Grêmio Esportivo Brasil (Brasil de Pelotas) 🔗 | v1 | ✅ |
@@ -226,7 +210,7 @@ Depois: **Preferências → Idioma → Português (Brasil)** e carregue o save o
 | Genervino Evangelista da Fonseca | CRAC 🔗 | v1 | ✅ |
 | Giulite Coutinho | America Football Club (RJ) 🔗 | v1 | ✅ |
 | Governador Alberto Tavares Silva (Albertão) | Piauí / Fluminense-PI (Teresina) 🔗 | v1 | ✅ |
-| Governador Ernani Sátyro (Amigão) | Treze Futebol Clube 🔗 | v2 (0.1.3) | 🔧 corrigido na 0.1.3, falta reteste |
+| Governador Ernani Sátyro (Amigão) | Treze Futebol Clube 🔗 | v3 (0.1.4) | 🔧 corrigido na 0.1.4, falta reteste |
 | Joaquim Henrique Nogueira | Democrata Futebol Clube (Democrata/SL) 🔗 | v1 | ✅ |
 | José Mammoud Abbas | Esporte Clube Democrata 🔗 | v1 | ✅ |
 | José Nazareno do Nascimento (Nazarenão) | a conferir ➖ | v1 | ✅ |
@@ -263,7 +247,7 @@ Depois: **Preferências → Idioma → Português (Brasil)** e carregue o save o
 | Municipal Olímpico Albino Turbay | Cianorte Futebol Clube 🔗 | v1 | ✅ |
 | Municipal Passo das Emas | Luverdense 🔗 | v1 | ✅ |
 | Municipal Vereador Benedito Laurindo de Souza (Dito Souza) | Clube Esportivo Operário Várzea-Grandense 🔗 | v1 | ✅ |
-| Municipal Zinho de Oliveira | Águia de Marabá Futebol Clube 🔗 | v1 | ⚠️ um pouco de telhado na frente da câmera |
+| Municipal Zinho de Oliveira | Águia de Marabá Futebol Clube 🔗 | v2 (0.1.4) | 🔧 corrigido na 0.1.4, falta reteste |
 | Nacional Mané Garrincha (Arena BRB) | Brasília FC / Capital-DF 🔗 | v1 | ✅ |
 | Olímpico Regional Jacy Miguel Scanagatta | Futebol Clube Cascavel 🔗 | v1 | ✅ |
 | Os Pioneiros (nome CBF; casa do São Joseense: Pinhão) | a conferir 🔗 | v1 | ✅ |

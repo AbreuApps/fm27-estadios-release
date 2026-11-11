@@ -8,30 +8,15 @@
 - ➖ sem clube nesta versão (o jogo usa o estádio padrão)
 - **Versão:** v1 é o estádio como saiu; cada mudança sobe a versão (entre parênteses, a release em que mudou)
 
-## 🔄 Atualizados na v0.1.3 (13)
+## 🔄 Atualizados na v0.1.4 (5)
 
 | Estádio | Clube | Versão | O que mudou |
 |---|---|---|---|
-| 19 de Outubro | Esporte Clube São Luiz | v2 (0.1.3) | telhado alto sobre pilares |
-| Aluízio Ferreira (Aluizão) | Gazin Porto Velho / mandantes rondonienses | v2 (0.1.3) | telhado alto, não tapa mais a câmera |
-| Arena da Floresta | Independência Futebol Clube (e demais mandantes estaduais) | v2 (0.1.3) | telhado alto com pilares (não flutua mais) e fora da frente da câmera |
-| Doutor Oswaldo Teixeira Duarte (Canindé) | Portuguesa | v2 (0.1.3) | telhado fora da frente da câmera |
-| Francisco Vasques | Tuna Luso Brasileira | v2 (0.1.3) | telhado alto sobre pilares |
-| Governador Ernani Sátyro (Amigão) | Treze Futebol Clube | v2 (0.1.3) | telhado alto com pilares, fora da frente da câmera |
-| Joaquim Portugal (Arena Sicredi) | Athletic Club (Minas Gerais) | v2 (0.1.3) | telhado não tapa mais a câmera |
-| Maria Lamas Farache (Frasqueirão) | ABC Futebol Clube | v2 (0.1.3) | telhado fora da frente da câmera |
-| Milton de Souza Corrêa (Zerão) | Independente / Trem (Amapá) | v2 (0.1.3) | telhado alto sobre pilares, fora da frente da câmera |
-| Municipal 1.º de Maio | São Bernardo | v2 (0.1.3) | telhado alto sobre pilares, não tapa mais a câmera |
-| Municipal Annibal Batista de Toledo | Associação Atlética Aparecidense | v2 (0.1.3) | telhado alto sobre pilares |
-| Rei Pelé | CSA / CRB | v2 (0.1.3) | telhados altos sobre pilares, não tapam mais a câmera |
-| Santa Cruz | Botafogo-SP | v2 (0.1.3) | estádio maior, coberturas altas |
-
-## 🆕 Novos na v0.1.3 (2)
-
-| Estádio | Clube |
-|---|---|
-| Durival Britto e Silva (Vila Capanema) | Paraná |
-| José do Rego Maciel (Arruda) | Santa Cruz |
+| Alfredo Jaconi | Esporte Clube Juventude | v2 (0.1.4) | teto do anel superior recuado, não avança mais sobre o campo na frente da câmera |
+| Arena das Dunas | ABC / América de Natal | v2 (0.1.4) | pétalas do teto apoiadas na fachada e em pilares (não flutuam mais) e escondidas com a câmera |
+| Governador Ernani Sátyro (Amigão) | Treze Futebol Clube | v3 (0.1.4) | forma oval como o real (anel contínuo); na 0.1.3: telhado alto com pilares |
+| Joaquim Portugal (Arena Sicredi) | Athletic Club (Minas Gerais) | v3 (0.1.4) | telhado em arco alto sobre pilares (antes baixo e sem apoio) |
+| Municipal Zinho de Oliveira | Águia de Marabá Futebol Clube | v2 (0.1.4) | telhado escondido junto com a tribuna quando a câmera fica atrás dela |
 
 ## Série A (19)
 
@@ -63,7 +48,7 @@
 |---|---|---|---|
 | Adelmar da Costa Carvalho (Ilha do Retiro) | Sport Club do Recife 🔗 | v1 | ✅ |
 | Aderbal Ramos da Silva (Ressacada) | Avaí 🔗 | v1 | ✅ |
-| Alfredo Jaconi | Esporte Clube Juventude 🔗 | v1 | ⚠️ telhado na frente da câmera |
+| Alfredo Jaconi | Esporte Clube Juventude 🔗 | v2 (0.1.4) | 🔧 corrigido na 0.1.4, falta reteste |
 | Antônio Accioly | Atlético Goianiense 🔗 | v1 | ✅ |
 | Arena Pantanal | Cuiabá 🔗 | v1 | ✅ |
 | Doutor Jorge Ismael de Biasi (Jorjão) | Grêmio Novorizontino 🔗 | v1 | ⚠️ duas arquibancadas vazias |
@@ -72,7 +57,7 @@
 | Governador Plácido Castelo (Arena Castelão) | Fortaleza / Ceará 🔗 | v1 | ✅ |
 | Hailé Pinheiro (Serrinha) | Goiás 🔗 | v1 | ✅ |
 | Heriberto Hülse | Criciúma 🔗 | v1 | ✅ |
-| Joaquim Portugal (Arena Sicredi) | Athletic Club (Minas Gerais) 🔗 | v2 (0.1.3) | 🔧 corrigido na 0.1.3, falta reteste |
+| Joaquim Portugal (Arena Sicredi) | Athletic Club (Minas Gerais) 🔗 | v3 (0.1.4) | 🔧 corrigido na 0.1.4, falta reteste |
 | Moisés Lucarelli (Majestoso) | Ponte Preta 🔗 | v1 | ✅ |
 | Municipal 1.º de Maio | São Bernardo 🔗 | v2 (0.1.3) | 🔧 corrigido na 0.1.3, falta reteste |
 | Municipal Jacy Scaff (Estádio do Café) | Londrina Esporte Clube 🔗 | v1 | ✅ |
@@ -118,7 +103,7 @@
 | Aniceto Moscoso (Conselheiro Galvão) | Madureira Esporte Clube 🔗 | v1 | ✅ |
 | Arena da Amazônia | Amazonas FC 🔗 | v1 | ✅ |
 | Arena da Floresta | Independência Futebol Clube (e demais mandantes estaduais) 🔗 | v2 (0.1.3) | 🔧 corrigido na 0.1.3, falta reteste |
-| Arena das Dunas | ABC / América de Natal 🔗 | v1 | ⚠️ telhados flutuantes; o estilo do telhado ainda não é igual ao real |
+| Arena das Dunas | ABC / América de Natal 🔗 | v2 (0.1.4) | 🔧 corrigido na 0.1.4, falta reteste |
 | Arena Inamar (José Batista Pereira Fernandes) | Esporte Clube Água Santa 🔗 | v1 | ✅ |
 | Arena Joinville | Joinville Esporte Clube (JEC) 🔗 | v1 | ✅ |
 | Bento Mendes de Freitas | Grêmio Esportivo Brasil (Brasil de Pelotas) 🔗 | v1 | ✅ |
@@ -138,7 +123,7 @@
 | Genervino Evangelista da Fonseca | CRAC 🔗 | v1 | ✅ |
 | Giulite Coutinho | America Football Club (RJ) 🔗 | v1 | ✅ |
 | Governador Alberto Tavares Silva (Albertão) | Piauí / Fluminense-PI (Teresina) 🔗 | v1 | ✅ |
-| Governador Ernani Sátyro (Amigão) | Treze Futebol Clube 🔗 | v2 (0.1.3) | 🔧 corrigido na 0.1.3, falta reteste |
+| Governador Ernani Sátyro (Amigão) | Treze Futebol Clube 🔗 | v3 (0.1.4) | 🔧 corrigido na 0.1.4, falta reteste |
 | Joaquim Henrique Nogueira | Democrata Futebol Clube (Democrata/SL) 🔗 | v1 | ✅ |
 | José Mammoud Abbas | Esporte Clube Democrata 🔗 | v1 | ✅ |
 | José Nazareno do Nascimento (Nazarenão) | a conferir ➖ | v1 | ✅ |
@@ -175,7 +160,7 @@
 | Municipal Olímpico Albino Turbay | Cianorte Futebol Clube 🔗 | v1 | ✅ |
 | Municipal Passo das Emas | Luverdense 🔗 | v1 | ✅ |
 | Municipal Vereador Benedito Laurindo de Souza (Dito Souza) | Clube Esportivo Operário Várzea-Grandense 🔗 | v1 | ✅ |
-| Municipal Zinho de Oliveira | Águia de Marabá Futebol Clube 🔗 | v1 | ⚠️ um pouco de telhado na frente da câmera |
+| Municipal Zinho de Oliveira | Águia de Marabá Futebol Clube 🔗 | v2 (0.1.4) | 🔧 corrigido na 0.1.4, falta reteste |
 | Nacional Mané Garrincha (Arena BRB) | Brasília FC / Capital-DF 🔗 | v1 | ✅ |
 | Olímpico Regional Jacy Miguel Scanagatta | Futebol Clube Cascavel 🔗 | v1 | ✅ |
 | Os Pioneiros (nome CBF; casa do São Joseense: Pinhão) | a conferir 🔗 | v1 | ✅ |
