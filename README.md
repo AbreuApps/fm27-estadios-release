@@ -98,7 +98,13 @@ Depois: **Preferências → Idioma → Português (Brasil)** e carregue o save o
 
 ## 🏟️ Estádios incluídos (136)
 
-✅ aprovado em jogo · 🔧 corrigido, falta testar em jogo · ⚠️ funciona, com um defeito (descrito) · ❌ não aprovado (vai no pacote, mas tapa o gramado) · 🔗 clube ligado · ➖ sem clube nesta versão (o jogo usa o estádio padrão). **Versão:** v1 é o estádio como saiu; cada mudança sobe a versão (entre parênteses, a release em que mudou).
+- ✅ aprovado em jogo
+- 🔧 corrigido, falta testar em jogo
+- ⚠️ funciona, com um defeito (descrito)
+- ❌ não aprovado (vai no pacote, mas tapa o gramado)
+- 🔗 clube ligado
+- ➖ sem clube nesta versão (o jogo usa o estádio padrão)
+- **Versão:** v1 é o estádio como saiu; cada mudança sobe a versão (entre parênteses, a release em que mudou)
 
 ### 🔄 Atualizados na v0.1.3 (13)
 
@@ -140,7 +146,7 @@ Depois: **Preferências → Idioma → Português (Brasil)** e carregue o save o
 | Jornalista Mário Filho (Maracanã) | Flamengo / Fluminense 🔗 | v1 | ✅ |
 | Major Antônio Couto Pereira | Coritiba Foot Ball Club 🔗 | v1 | ✅ |
 | Manoel Barradas (Barradão) | Esporte Clube Vitória 🔗 | v1 | ✅ |
-| Municipal Cícero de Souza Marques | Red Bull Bragantino 🔗 | v1 | ⚠️ v4, a melhorar depois |
+| Municipal Cícero de Souza Marques | Red Bull Bragantino 🔗 | v1 | ⚠️ modelo simples, a melhorar depois |
 | Municipal José Maria de Campos Maia (Maião) | Mirassol FC 🔗 | v1 | ✅ |
 | Neo Química Arena | Sport Club Corinthians Paulista 🔗 | v1 | ✅ |
 | Nubank Parque | Sociedade Esportiva Palmeiras 🔗 | v1 | ✅ |
@@ -155,7 +161,7 @@ Depois: **Preferências → Idioma → Português (Brasil)** e carregue o save o
 |---|---|---|---|
 | Adelmar da Costa Carvalho (Ilha do Retiro) | Sport Club do Recife 🔗 | v1 | ✅ |
 | Aderbal Ramos da Silva (Ressacada) | Avaí 🔗 | v1 | ✅ |
-| Alfredo Jaconi | Esporte Clube Juventude 🔗 | v1 | ⚠️ câmera ruim, telhado na frente |
+| Alfredo Jaconi | Esporte Clube Juventude 🔗 | v1 | ⚠️ telhado na frente da câmera |
 | Antônio Accioly | Atlético Goianiense 🔗 | v1 | ✅ |
 | Arena Pantanal | Cuiabá 🔗 | v1 | ✅ |
 | Doutor Jorge Ismael de Biasi (Jorjão) | Grêmio Novorizontino 🔗 | v1 | ⚠️ duas arquibancadas vazias |
@@ -210,7 +216,7 @@ Depois: **Preferências → Idioma → Português (Brasil)** e carregue o save o
 | Aniceto Moscoso (Conselheiro Galvão) | Madureira Esporte Clube 🔗 | v1 | ✅ |
 | Arena da Amazônia | Amazonas FC 🔗 | v1 | ✅ |
 | Arena da Floresta | Independência Futebol Clube (e demais mandantes estaduais) 🔗 | v2 (0.1.3) | 🔧 corrigido na 0.1.3, falta reteste |
-| Arena das Dunas | ABC / América de Natal 🔗 | v1 | ⚠️ telhados flutuantes; melhorar estilo do telhado pra ficar idêntico ao real |
+| Arena das Dunas | ABC / América de Natal 🔗 | v1 | ⚠️ telhados flutuantes; o estilo do telhado ainda não é igual ao real |
 | Arena Inamar (José Batista Pereira Fernandes) | Esporte Clube Água Santa 🔗 | v1 | ✅ |
 | Arena Joinville | Joinville Esporte Clube (JEC) 🔗 | v1 | ✅ |
 | Bento Mendes de Freitas | Grêmio Esportivo Brasil (Brasil de Pelotas) 🔗 | v1 | ✅ |
