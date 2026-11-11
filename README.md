@@ -15,27 +15,17 @@ Tutorial válido da **v0.1.0** em diante. Baixe tudo em **[Releases](../../relea
 - 🤝 **Convive, por enquanto, com o pacote de estádios do BassyBoy:** onde ele tem estádio, ele manda e o nosso se desliga sozinho; nos outros, aparece o nosso.
 - 📦 **Para atualizar:** apague a pasta `TaoMods` antiga em `BepInEx/plugins` e cole a nova. O zip `FM27-Estadios-BR-0.1.3.zip` traz só a pasta `TaoMods`.
 
-### 🔙 v0.1.2 (11/11/2026)
+### 📦 v0.1.3
 
-- 🧪 **Versão de teste para o FM26** (zip separado, `FM26-Estadios-BR-teste-0.1.2.zip`): o plugin agora também roda no FM26. A torcida do jogo pode aparecer fora das arquibancadas.
-- 🔍 `TaoStadiumMod 0.7.5`, com os logs de diagnóstico da 0.1.1.
-
-O que veio na 0.1.1:
-
-### 🔙 v0.1.1 (11/11/2026)
-
-- 🔍 **A 0.1.1 só muda os logs**, para facilitar achar e resolver os crashes ao iniciar a partida. Nada muda no que se vê no jogo. Se o jogo fechar, mande o `BepInEx/LogOutput.log` (copie antes de abrir o jogo de novo). Detalhes em [INSTALAR.md](INSTALAR.md).
-- 🔌 O **pacote completo** agora traz o BepInEx `be.791` e o `winhttp.dll` (no Linux: `WINEDLLOVERRIDES="winhttp=n,b"`).
-- 🎥 A **câmera livre saiu do pacote**: ficam só os estádios e a tradução.
-
-O que veio na 0.1.0:
-
-
-- 🏟️ **134 estádios em 3D:** Série A, B, C e D, cada um ligado ao clube pelo ID do jogo. A lista completa está em **[ESTADIOS.md](ESTADIOS.md)**.
-- 👥 **Torcida nos degraus:** a torcida senta nas cadeiras do estádio 3D, não em blocos soltos.
-- 🇧🇷 **Tradução Português (Brasil) 1.2.6** junto no pacote, já ligada.
-- 💾 **Save desempregado** (Brasil, séries A a H) para escolher qualquer clube. Database das séries A a H criada pelo **[D-Manager](https://www.youtube.com/@D-Manager)**; veja os [créditos](INSTALAR.md#créditos).
-- ⚠️ **É a primeira versão:** alguns estádios têm defeitos conhecidos (telhado na frente da câmera, arquibancada vazia). Veja em **[Problemas conhecidos](INSTALAR.md#️-problemas-conhecidos)**.
+| | |
+|---|---|
+| 🏟️ **Estádios** | **136 em 3D**, das séries A, B, C e D, cada um ligado ao clube pelo ID do jogo. Nesta versão: **2 novos** e **13 atualizados (v2)**. Lista completa, com a versão de cada um, em **[ESTADIOS.md](ESTADIOS.md)**. |
+| 👥 **Torcida** | Nos degraus: a torcida senta nas cadeiras do estádio 3D, não em blocos soltos. Todo estádio sai lotado. |
+| 🇧🇷 **Tradução** | Português (Brasil) **1.2.6** junto no pacote, já ligada. |
+| 💾 **Save** | Desempregado (Brasil, séries A a H) para escolher qualquer clube. Database criada pelo **[D-Manager](https://www.youtube.com/@D-Manager)**; veja os [créditos](INSTALAR.md#créditos). |
+| 🔌 **Plugin** | `TaoStadiumMod 0.1.3`, com a mesma versão do pacote. Zip normal só com a pasta `TaoMods`; zip **Completo** com BepInEx be.791; zip de **teste para o FM26**. |
+| 🤝 **Outros mods** | Convive, por enquanto, com o pacote de estádios do BassyBoy. |
+| ⚠️ **Defeitos conhecidos** | Arquibancada vazia (Independência, Jorjão, Francisco Vasques); telhado na frente da câmera (Alfredo Jaconi, Zinho de Oliveira); telhados flutuantes (Arena das Dunas). Veja em **[Problemas conhecidos](INSTALAR.md#️-problemas-conhecidos)**. |
 
 🔌 O **BepInEx 6 (IL2CPP)** é obrigatório: é ele que carrega o mod. Não tem? O pacote completo da [tradução](https://github.com/AbreuApps/fm27-ptbr-release/releases/latest) já traz ele pronto.
 <!-- ULTIMA-VERSAO:FIM -->
