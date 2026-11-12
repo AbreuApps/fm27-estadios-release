@@ -31,7 +31,7 @@ Dica: Steam → botão direito no jogo → *Gerenciar* → *Explorar arquivos lo
 2. Baixe `TraducaoLog-completo-<versão>.zip` e descompacte.
 3. Copie o **conteúdo** de `1_COPIAR_PARA_PASTA_DO_JOGO` para a pasta do jogo (ao lado do `fm.exe`).
 
-> Não precisa copiar o `portuguese_br.ltc` desse pacote: o nosso já vem com a tradução 1.2.6.
+> Não precisa copiar o `portuguese_br.ltc` desse pacote: o nosso já vem com a tradução 1.2.7.
 
 **Manual:** BepInEx **6, build be.791, Unity IL2CPP, Windows x64** (`BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.791…zip`, em <https://builds.bepinex.dev/projects/bepinex_be>), extraído na pasta do jogo. Cuidado: a página de Releases do GitHub mostra a série 5.x no topo, que **não funciona** no FM27.
 
@@ -73,7 +73,7 @@ A **primeira abertura com o BepInEx demora vários minutos**. Não feche. Depois
 
 Abra `BepInEx/LogOutput.log` e procure:
 
-- `TaoStadiumMod 0.1.4 (BepInEx 1.1.4)` ✅ o mod dos estádios carregou
+- `TaoStadiumMod 0.1.5 (BepInEx 1.1.5)` ✅ o mod dos estádios carregou
 - `ganchos de peça por tribuna desligados` ✅ é a correção do fechamento no Windows
 - `Skipping [TaoStadiumMod ...]` ou `outra cópia do TaoStadiumMod` ❌ há uma versão antiga sobrando: apague a pasta que o log indicar
 - `estádio ... receita '...'` e `malha '...'` ✅ o estádio da partida foi aplicado
@@ -83,23 +83,24 @@ Abra `BepInEx/LogOutput.log` e procure:
 
 ## ⚠️ Problemas conhecidos
 
-É a v0.1.4. **Novidades desta versão:**
+É a v0.1.5. **Novidades desta versão:**
 
-- 🛠️ **Mais uma correção do jogo fechando no Windows:** uma versão antiga do mod esquecida em `plugins` (pasta `TaoStadiumMod` solta, fora de `TaoMods`) passava na frente da nova e travava o jogo. Agora a versão nova sempre vence, o passo que travava saiu do plugin e o log avisa se houver cópia antiga. Testado por quem tinha o problema.
-- 🏟️ **Estádios corrigidos:** Amigão agora é oval, como o real; Arena Sicredi com telhado em arco alto sobre pilares; Arena das Dunas sem telhados flutuantes; Alfredo Jaconi e Zinho de Oliveira sem telhado na frente da câmera.
-- ⚙️ **Opcional:** em `BepInEx/config/tao.stadiummod.cfg`, `[Torcida] Lotacao = jogo` faz a torcida seguir o público do jogo (padrão `cheio`, estádio lotado). Ainda em teste.
-
-As duas últimas versões estão bem mais estáveis. Continue mandando o feedback: é com ele que eu acabo com os crashes.
+- 🆕 **2 estádios novos:** Emirates Stadium (Arsenal), o primeiro de fora do Brasil, e Parque do Bacurau (Cametá).
+- 🏟️ **10 estádios atualizados:** Ressacada, Heriberto Hülse e Nubank Parque refeitos (teto alto sobre pilares, fachada em painéis); Vila Capanema com teto plano alto; Alfredão com a pista afinando nos cantos; Alfredo Jaconi, Arena Sicredi e Zinho de Oliveira sem teto na frente da câmera da TV; Arena das Dunas com as aletas do teto encorpadas; Amigão sem pilar no meio da torcida.
+- 🎨 **Todos os estádios:** material fosco (o teto não brilha mais como metal) e concreto em tom sujo, mais perto do real.
+- 🎥 **Câmera:** o estádio não some mais da tela (nem na câmera livre); o teto do lado da câmera some só na câmera da TV.
+- 👥 **Torcida:** tribuna da malha que o jogo deixava com capacidade 0 agora recebe torcida (ex.: tobogã do Serrinha).
+- 🤝 **Mods do BassyBoy (Stadium Injection):** onde ele tem estádio instalado em `plugins/CustomStadium`, o estádio dele vale e o nosso fica de fora; nos outros clubes, vale o nosso.
+- 🇧🇷 **Tradução 1.2.7** junto.
 
 Defeitos que ainda conhecemos:
 
 - 👻 **Arquibancada vazia:** Independência, Jorjão (duas), Francisco Vasques.
-- 🏠 Arena das Dunas: o estilo do telhado ainda não é igual ao real.
-- ➖ Sem clube ligado: João Saldanha, Nazarenão, VGD e Carlos Zamith.
+- ➖ Sem clube ligado: João Saldanha, Nazarenão, VGD, Carlos Zamith e Parque do Bacurau.
 
 ## Instalar só alguns estádios
 
-Não precisa ficar com os 136. Cada estádio é independente. Dentro de `BepInEx/plugins/TaoMods/TaoStadiumMod`:
+Não precisa ficar com os 138. Cada estádio é independente. Dentro de `BepInEx/plugins/TaoMods/TaoStadiumMod`:
 
 - apague de `estadios/` o `<estádio>.json` dos que não quer;
 - apague de `estadios3d/` a pasta com o mesmo nome (`<estádio>/`).

@@ -8,15 +8,27 @@
 - ➖ sem clube nesta versão (o jogo usa o estádio padrão)
 - **Versão:** v1 é o estádio como saiu; cada mudança sobe a versão (entre parênteses, a release em que mudou)
 
-## 🔄 Atualizados na v0.1.4 (5)
+## 🔄 Atualizados na v0.1.5 (10)
 
 | Estádio | Clube | Versão | O que mudou |
 |---|---|---|---|
-| Alfredo Jaconi | Esporte Clube Juventude | v2 (0.1.4) | teto do anel superior recuado, não avança mais sobre o campo na frente da câmera |
-| Arena das Dunas | ABC / América de Natal | v2 (0.1.4) | pétalas do teto apoiadas na fachada e em pilares (não flutuam mais) e escondidas com a câmera |
-| Governador Ernani Sátyro (Amigão) | Treze Futebol Clube | v3 (0.1.4) | forma oval como o real (anel contínuo); na 0.1.3: telhado alto com pilares |
-| Joaquim Portugal (Arena Sicredi) | Athletic Club (Minas Gerais) | v3 (0.1.4) | telhado em arco alto sobre pilares (antes baixo e sem apoio) |
-| Municipal Zinho de Oliveira | Águia de Marabá Futebol Clube | v2 (0.1.4) | telhado escondido junto com a tribuna quando a câmera fica atrás dela |
+| Aderbal Ramos da Silva (Ressacada) | Avaí | v2 (0.1.5) | refeito: teto alto sobre pilares brancos, fachada em painéis azuis, cadeiras azuis com faixas brancas |
+| Alfredo Jaconi | Esporte Clube Juventude | v3 (0.1.5) | sem o teto leste do lado da câmera da TV, teto oeste de volta; na 0.1.4: teto do anel superior recuado |
+| Arena das Dunas | ABC / América de Natal | v3 (0.1.5) | aletas do teto com espessura; na 0.1.4: pétalas apoiadas na fachada e em pilares |
+| Doutor Alfredo de Castilho (Alfredão) | Esporte Clube Noroeste | v2 (0.1.5) | pista afina nos cantos e encosta no gramado |
+| Durival Britto e Silva (Vila Capanema) | Paraná | v2 (0.1.5) | teto plano alto sobre pilares (a laje branca da foto aérea era o teto) |
+| Governador Ernani Sátyro (Amigão) | Treze Futebol Clube | v4 (0.1.5) | pilares da marquise atrás da torcida (antes no meio dela); na 0.1.4: forma oval como o real |
+| Heriberto Hülse | Criciúma | v2 (0.1.5) | refeito: teto contínuo alto sobre pilares escuros, cadeiras abelha, fachada branca com janelas |
+| Joaquim Portugal (Arena Sicredi) | Athletic Club (Minas Gerais) | v4 (0.1.5) | o arco do lado da câmera some só na câmera da TV; na 0.1.4: telhado em arco alto sobre pilares |
+| Municipal Zinho de Oliveira | Águia de Marabá Futebol Clube | v3 (0.1.5) | sem o teto da lateral coberta do lado da câmera da TV; na 0.1.4: telhado escondido com a tribuna |
+| Nubank Parque | Sociedade Esportiva Palmeiras | v2 (0.1.5) | refeito: cobertura escura alta com anel claro, arcos de treliça nos cantos, fachada em escamas, letreiro |
+
+## 🆕 Novos na v0.1.5 (2)
+
+| Estádio | Clube |
+|---|---|
+| Emirates Stadium | Arsenal |
+| Municipal Orfelino Martins Valente (Parque do Bacurau) | Cametá Sport Club |
 
 ## Série A (19)
 
@@ -36,7 +48,7 @@
 | Municipal Cícero de Souza Marques | Red Bull Bragantino 🔗 | v1 | ⚠️ modelo simples, a melhorar depois |
 | Municipal José Maria de Campos Maia (Maião) | Mirassol FC 🔗 | v1 | ✅ |
 | Neo Química Arena | Sport Club Corinthians Paulista 🔗 | v1 | ✅ |
-| Nubank Parque | Sociedade Esportiva Palmeiras 🔗 | v1 | ✅ |
+| Nubank Parque | Sociedade Esportiva Palmeiras 🔗 | v2 (0.1.5) | ✅ |
 | Olímpico do Pará (Mangueirão) | Paysandu / Clube do Remo 🔗 | v1 | ✅ |
 | Olímpico Nilton Santos | Botafogo de Futebol e Regatas 🔗 | v1 | ✅ |
 | São Januário | Club de Regatas Vasco da Gama 🔗 | v1 | ✅ |
@@ -47,8 +59,8 @@
 | Estádio | Clube | Versão | Situação |
 |---|---|---|---|
 | Adelmar da Costa Carvalho (Ilha do Retiro) | Sport Club do Recife 🔗 | v1 | ✅ |
-| Aderbal Ramos da Silva (Ressacada) | Avaí 🔗 | v1 | ✅ |
-| Alfredo Jaconi | Esporte Clube Juventude 🔗 | v2 (0.1.4) | 🔧 corrigido na 0.1.4, falta reteste |
+| Aderbal Ramos da Silva (Ressacada) | Avaí 🔗 | v2 (0.1.5) | ✅ |
+| Alfredo Jaconi | Esporte Clube Juventude 🔗 | v3 (0.1.5) | ✅ |
 | Antônio Accioly | Atlético Goianiense 🔗 | v1 | ✅ |
 | Arena Pantanal | Cuiabá 🔗 | v1 | ✅ |
 | Doutor Jorge Ismael de Biasi (Jorjão) | Grêmio Novorizontino 🔗 | v1 | ⚠️ duas arquibancadas vazias |
@@ -56,8 +68,8 @@
 | Germano Krüger | Operário Ferroviário 🔗 | v1 | ✅ |
 | Governador Plácido Castelo (Arena Castelão) | Fortaleza / Ceará 🔗 | v1 | ✅ |
 | Hailé Pinheiro (Serrinha) | Goiás 🔗 | v1 | ✅ |
-| Heriberto Hülse | Criciúma 🔗 | v1 | ✅ |
-| Joaquim Portugal (Arena Sicredi) | Athletic Club (Minas Gerais) 🔗 | v3 (0.1.4) | 🔧 corrigido na 0.1.4, falta reteste |
+| Heriberto Hülse | Criciúma 🔗 | v2 (0.1.5) | ✅ |
+| Joaquim Portugal (Arena Sicredi) | Athletic Club (Minas Gerais) 🔗 | v4 (0.1.5) | ⚠️ telhado na frente da câmera; arco baixo, sem pilares |
 | Moisés Lucarelli (Majestoso) | Ponte Preta 🔗 | v1 | ✅ |
 | Municipal 1.º de Maio | São Bernardo 🔗 | v2 (0.1.3) | 🔧 corrigido na 0.1.3, falta reteste |
 | Municipal Jacy Scaff (Estádio do Café) | Londrina Esporte Clube 🔗 | v1 | ✅ |
@@ -93,27 +105,27 @@
 | Orlando Scarpelli | Figueirense Futebol Clube 🔗 | v1 | ✅ |
 | Regional Willie Davids | Maringá Futebol Clube 🔗 | v1 | ✅ |
 
-## Série D (76)
+## Série D (77)
 
 | Estádio | Clube | Versão | Situação |
 |---|---|---|---|
-| 19 de Outubro | Esporte Clube São Luiz 🔗 | v2 (0.1.3) | 🔧 corrigido na 0.1.3, falta reteste |
+| 19 de Outubro | Esporte Clube São Luiz 🔗 | v2 (0.1.3) | ✅ |
 | Adauto Moraes | Sociedade Desportiva Juazeirense 🔗 | v1 | ✅ |
-| Aluízio Ferreira (Aluizão) | Gazin Porto Velho / mandantes rondonienses 🔗 | v2 (0.1.3) | 🔧 corrigido na 0.1.3, falta reteste |
+| Aluízio Ferreira (Aluizão) | Gazin Porto Velho / mandantes rondonienses 🔗 | v2 (0.1.3) | ✅ |
 | Aniceto Moscoso (Conselheiro Galvão) | Madureira Esporte Clube 🔗 | v1 | ✅ |
 | Arena da Amazônia | Amazonas FC 🔗 | v1 | ✅ |
 | Arena da Floresta | Independência Futebol Clube (e demais mandantes estaduais) 🔗 | v2 (0.1.3) | 🔧 corrigido na 0.1.3, falta reteste |
-| Arena das Dunas | ABC / América de Natal 🔗 | v2 (0.1.4) | 🔧 corrigido na 0.1.4, falta reteste |
+| Arena das Dunas | ABC / América de Natal 🔗 | v3 (0.1.5) | ✅ |
 | Arena Inamar (José Batista Pereira Fernandes) | Esporte Clube Água Santa 🔗 | v1 | ✅ |
 | Arena Joinville | Joinville Esporte Clube (JEC) 🔗 | v1 | ✅ |
 | Bento Mendes de Freitas | Grêmio Esportivo Brasil (Brasil de Pelotas) 🔗 | v1 | ✅ |
 | Centro Esportivo Dirceu Mendes Arcoverde | Parnahyba Sport Club 🔗 | v1 | ✅ |
 | Complexo Esportivo da Família | Blumenau Esporte Clube (BEC) / SESI Bernardo Wolfgang Werner 🔗 | v1 | ✅ |
 | Domingos Silveira Gonzales | a conferir 🔗 | v1 | ✅ |
-| Doutor Alfredo de Castilho (Alfredão) | Esporte Clube Noroeste 🔗 | v1 | ✅ |
+| Doutor Alfredo de Castilho (Alfredão) | Esporte Clube Noroeste 🔗 | v2 (0.1.5) | ✅ |
 | Doutor Hercílio Luz | Clube Náutico Marcílio Dias (também Barra em alguns jogos) 🔗 | v1 | ✅ |
 | Doutor Oswaldo Teixeira Duarte (Canindé) | Portuguesa 🔗 | v2 (0.1.3) | ✅ |
-| Durival Britto e Silva (Vila Capanema) | Paraná 🔗 | v1 (0.1.3) | ✅ |
+| Durival Britto e Silva (Vila Capanema) | Paraná 🔗 | v2 (0.1.5) | ✅ |
 | Elmo Serejo Farias (Serejão) | Brasiliense 🔗 | v1 | ✅ |
 | Estadual Kleber José de Andrade | Rio Branco Atlético Clube (ES) 🔗 | v1 | ✅ |
 | Estrela D'Alva | Guarany Futebol Clube 🔗 | v1 | ✅ |
@@ -123,7 +135,7 @@
 | Genervino Evangelista da Fonseca | CRAC 🔗 | v1 | ✅ |
 | Giulite Coutinho | America Football Club (RJ) 🔗 | v1 | ✅ |
 | Governador Alberto Tavares Silva (Albertão) | Piauí / Fluminense-PI (Teresina) 🔗 | v1 | ✅ |
-| Governador Ernani Sátyro (Amigão) | Treze Futebol Clube 🔗 | v3 (0.1.4) | 🔧 corrigido na 0.1.4, falta reteste |
+| Governador Ernani Sátyro (Amigão) | Treze Futebol Clube 🔗 | v4 (0.1.5) | ❌ tapa o gramado |
 | Joaquim Henrique Nogueira | Democrata Futebol Clube (Democrata/SL) 🔗 | v1 | ✅ |
 | José Mammoud Abbas | Esporte Clube Democrata 🔗 | v1 | ✅ |
 | José Nazareno do Nascimento (Nazarenão) | a conferir ➖ | v1 | ✅ |
@@ -135,9 +147,9 @@
 | Luiz José de Lacerda (Lacerdão) | Central Sport Club 🔗 | v1 | ✅ |
 | Luso-Brasileiro | Associação Atlética Portuguesa (RJ) 🔗 | v1 | ✅ |
 | Maria de Lourdes Abadia (Abadião) | Ceilândia Esporte Clube 🔗 | v1 | ✅ |
-| Maria Lamas Farache (Frasqueirão) | ABC Futebol Clube 🔗 | v2 (0.1.3) | 🔧 corrigido na 0.1.3, falta reteste |
+| Maria Lamas Farache (Frasqueirão) | ABC Futebol Clube 🔗 | v2 (0.1.3) | ✅ |
 | Milton de Souza Corrêa (Zerão) | Independente / Trem (Amapá) 🔗 | v2 (0.1.3) | 🔧 corrigido na 0.1.3, falta reteste |
-| Municipal Annibal Batista de Toledo | Associação Atlética Aparecidense 🔗 | v2 (0.1.3) | 🔧 corrigido na 0.1.3, falta reteste |
+| Municipal Annibal Batista de Toledo | Associação Atlética Aparecidense 🔗 | v2 (0.1.3) | ✅ |
 | Municipal Antônio Carlos Magalhães (Agnaldo Bento dos Santos) | Porto Sport Club 🔗 | v1 | ✅ |
 | Municipal Antônio de Figueiredo Carneiro (Carneirão) | Atlético de Alagoinhas 🔗 | v1 | ✅ |
 | Municipal Antônio Moreno de Mello (Morenão / Morony Furtado) | Associação Desportiva Iguatu 🔗 | v1 | ✅ |
@@ -158,9 +170,10 @@
 | Municipal Luiz Saraiva Vieira (Saraivão) | Ivinhema Futebol Clube 🔗 | v1 | ✅ |
 | Municipal Nhozinho Santos | Sampaio Corrêa, Maranhão, Moto Club 🔗 | v1 | ✅ |
 | Municipal Olímpico Albino Turbay | Cianorte Futebol Clube 🔗 | v1 | ✅ |
+| Municipal Orfelino Martins Valente (Parque do Bacurau) | Cametá Sport Club ➖ | v1 (0.1.5) | ✅ |
 | Municipal Passo das Emas | Luverdense 🔗 | v1 | ✅ |
 | Municipal Vereador Benedito Laurindo de Souza (Dito Souza) | Clube Esportivo Operário Várzea-Grandense 🔗 | v1 | ✅ |
-| Municipal Zinho de Oliveira | Águia de Marabá Futebol Clube 🔗 | v2 (0.1.4) | 🔧 corrigido na 0.1.4, falta reteste |
+| Municipal Zinho de Oliveira | Águia de Marabá Futebol Clube 🔗 | v3 (0.1.5) | ✅ |
 | Nacional Mané Garrincha (Arena BRB) | Brasília FC / Capital-DF 🔗 | v1 | ✅ |
 | Olímpico Regional Jacy Miguel Scanagatta | Futebol Clube Cascavel 🔗 | v1 | ✅ |
 | Os Pioneiros (nome CBF; casa do São Joseense: Pinhão) | a conferir 🔗 | v1 | ✅ |
@@ -173,3 +186,9 @@
 | Universitário Pedro Pedrossian (Morenão) | Operário-MS / Comercial (Campo Grande) 🔗 | v1 | ✅ |
 | Valmir Campelo Bezerra (Bezerrão) | Sociedade Esportiva do Gama 🔗 | v1 | ✅ |
 | Zico Brandão (Zeca Melo) | Inhumas Esporte Clube 🔗 | v1 | ✅ |
+
+## Inglaterra — Premier League (1)
+
+| Estádio | Clube | Versão | Situação |
+|---|---|---|---|
+| Emirates Stadium | Arsenal 🔗 | v1 (0.1.5) | ✅ |
