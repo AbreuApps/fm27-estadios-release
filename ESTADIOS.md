@@ -229,7 +229,7 @@
 | Salvador Venâncio da Costa | Vitória (ES) 🔗 | v1 | ✅ |
 | Soares de Azevedo | Nacional Atlético Clube; Tombense Futebol Clube (uso) 🔗 | v1 | ✅ |
 | São Benedito (Diogão) | Bragantino (PA) | — | ⏳ v0.1.6 |
-| Ulrico Mursa | Portuguesa Santista | — | ⏳ v0.1.6 |
+| Ulrico Mursa | Associação Atlética Portuguesa (Santos) | — | ⏳ v0.1.6 |
 | Universitário Pedro Pedrossian (Morenão) | Operário-MS / Comercial (Campo Grande) 🔗 | v1 | ✅ |
 | Valdeir José de Oliveira | Goianésia | — | ⏳ v0.1.6 |
 | Valdir Doilho Wons | Nova Mutum | — | ⏳ v0.1.6 |
@@ -288,7 +288,7 @@
 | São Benedito | Caeté | ❌ |
 | Municipal Dr. Ronaldo Junqueira | Caldense | ❌ |
 | Orlando Scarpelli | Camboriú | ❌ |
-| — | Capital (TO) | ❌ sem estádio no jogo |
+| — | Capital (TO) | ❌ (estádio não lido do save) |
 | Arena Capivari | Capivariano | ❌ |
 | Estádio da Montanha | Caravaggio (SC) | ❌ |
 | Arena Romeirão | Cariri | ❌ |
@@ -317,10 +317,10 @@
 | Altos da Glória | Glória | ❌ |
 | Jonas Duarte | Grêmio Anápolis | ❌ |
 | Paulo Constantino | Grêmio Prudente | ❌ |
-| — | Guarani de Juazeiro | ❌ sem estádio no jogo |
+| — | Guarani de Juazeiro | ❌ (estádio não lido do save) |
 | Rezendão | Gurupi | ❌ |
 | Nhozinho Santos | IAPE | ❌ |
-| — | Icasa | ❌ sem estádio no jogo |
+| — | Icasa | ❌ (estádio não lido do save) |
 | Presidente Vargas | Inter SM | ❌ |
 | Estádio Ferreirão | Iporá | ❌ |
 | Municipal Luiz Viana Filho | Itabuna | ❌ |
@@ -338,7 +338,7 @@
 | Rua Bariri | Olaria | ❌ |
 | Morenão | Operário (MS) | ❌ |
 | Gilberto Mestrinho | Operário Manacapuru | ❌ |
-| — | Oratório | ❌ sem estádio no jogo |
+| — | Oratório | ❌ (estádio não lido do save) |
 | Nílton Santos | Palmas | ❌ |
 | Estádio Arena Verde | Paragominas | ❌ |
 | Vermelhão da Serra | Passo Fundo | ❌ |
@@ -351,12 +351,12 @@
 | Ubirajara Medeiros | PSTC | ❌ |
 | Defelê | Real Brasilia | ❌ |
 | José Olímpio da Rocha | Real Noroeste | ✅ |
-| — | Rio Negro (AM) | ❌ sem estádio no jogo |
+| — | Rio Negro (AM) | ❌ (estádio não lido do save) |
 | Estádio Municipal Francisco Garcia | RPE Parintins | ❌ |
 | Alfredo João Krieck | Santa Catarina | ❌ |
 | Plátanos | Santa Cruz (RS) | ❌ |
 | Abelardo Conduru | Santa Rosa (PA) | ❌ |
-| — | Santos (AP) | ❌ sem estádio no jogo |
+| — | Santos (AP) | ❌ (estádio não lido do save) |
 | Amigão | Serra Branca | ❌ |
 | Estádio Municipal Carlos Zamith | Sete | ❌ |
 | Gigante do Norte | Sport Sinop | ❌ |
@@ -386,7 +386,7 @@
 | Estádio da Noroeste | Aquidauanense | ❌ |
 | Zeca Costa | Araguaia | ❌ |
 | Estádio Nivaldo Pereira | Artsul | ❌ |
-| — | Atlético Acreano | ❌ sem estádio no jogo |
+| — | Atlético Acreano | ❌ (estádio não lido do save) |
 | Perpetão | Atlético de Cajazeiras | ❌ |
 | Estádio Edton Oliveira Maia | Atlético Gloriense | ❌ |
 | Dutrinha | Ação | ❌ |
@@ -394,7 +394,7 @@
 | Pedro Marin Berbel | Bandeirante (SP) | ❌ |
 | João Cruz | Barra (SE) | ❌ |
 | Nílton Santos | Batalhão (TO) | ❌ |
-| — | Boa | ❌ sem estádio no jogo |
+| — | Boa | ❌ (estádio não lido do save) |
 | Estádio das Castanheiras | Brasil de Farroupilha | ❌ |
 | Benezão | Canaã (PA) | ❌ |
 | Estádio Gavião Real | Capitão Poço | ❌ |
@@ -473,7 +473,7 @@
 | Atílio Marotti | Serrano (RJ) | ❌ |
 | Frederico Dalmaso | Sertãozinho | ❌ |
 | Gigante do Norte | Sinop (MT) | ❌ |
-| — | Sobradinho | ❌ sem estádio no jogo |
+| — | Sobradinho | ❌ (estádio não lido do save) |
 | Anacleto Campanella | São Caetano | ❌ |
 | Sílvio de Faria Corrêa | São Gabriel (RS) | ❌ |
 | CE Mauá | São Gonçalo (RJ) | ❌ |
@@ -488,7 +488,7 @@
 | Francisco Marques Figueira | União Suzano | ❌ |
 | Israel Pinheiro | Valeriodoce | ❌ |
 | Melão | Varginha | ❌ |
-| — | Vasco (AC) | ❌ sem estádio no jogo |
+| — | Vasco (AC) | ❌ (estádio não lido do save) |
 | Djalma Campos | Viana | ❌ |
 | Portal da Amazônia | Vilhena | ❌ |
 
@@ -505,11 +505,11 @@
 | Valdir Cândido de Queiroz | ASEEV | ❌ |
 | Engenheiro Mário Balsini | Atlético Catarinense | ❌ |
 | Lindolfinho | Atlético Piauiense | ❌ |
-| — | Atlético Roraima | ❌ sem estádio no jogo |
+| — | Atlético Roraima | ❌ (estádio não lido do save) |
 | José Liberatti | Audax (SP) | ❌ |
 | Correão | Bacabal | ❌ |
 | Antônio Gomes Martins | Barretos | ❌ |
-| — | Baré (RR) | ❌ sem estádio no jogo |
+| — | Baré (RR) | ❌ (estádio não lido do save) |
 | Waldomiro Gelinski | Batel | ❌ |
 | Complexo Esportivo da Família | Blumenau Esporte Clube (BEC) / SESI Bernardo Wolfgang Werner | ✅ |
 | Geraldo Oliveira | Boca Júnior (SE) | ❌ |
@@ -572,7 +572,7 @@
 | Abelardo Conduru | Pinheirense (PA) | ❌ |
 | João Soares de Moura Filho | Pinheiros (ES) | ❌ |
 | Adonir Guimarães | Planaltina | ❌ |
-| — | Portuguesa (AP) | ❌ sem estádio no jogo |
+| — | Portuguesa (AP) | ❌ (estádio não lido do save) |
 | Estádio Municipal Newton Agibert | Prudentopolis | ❌ |
 | Carlos Ernesto | Queimadense | ❌ |
 | Ismael Benigno | RB do Norte | ❌ |
@@ -582,11 +582,11 @@
 | Canarinho | River (RR) | ❌ |
 | Engenheiro Lutero Lopes | Rondonópolis | ❌ |
 | Pedro Romualdo Cabral | Santa Helena | ❌ |
-| — | Santa Maria (DF) | ❌ sem estádio no jogo |
+| — | Santa Maria (DF) | ❌ (estádio não lido do save) |
 | Estádio Augusto Antunes | Santana (AP) | ❌ |
 | Wellington Elias | Socorrense | ❌ |
 | Estádio Mirandão | Sparta (TO) | ❌ |
-| — | Sul América | ❌ sem estádio no jogo |
+| — | Sul América | ❌ (estádio não lido do save) |
 | Figueira de Melo (Ronaldo Luís Nazário de Lima) | São Cristóvão (RJ) | ✅ |
 | Nhozinho Santos | São Luís (MA) | ❌ |
 | Aldo Dapuzzo | São Paulo (RS) | ❌ |
@@ -601,7 +601,7 @@
 | Antônio Guimarães | União Barbarense | ❌ |
 | Anilado | União Beltrão | ❌ |
 | Hermínio Ometto | União São João | ❌ |
-| — | Vilavelhense | ❌ sem estádio no jogo |
+| — | Vilavelhense | ❌ (estádio não lido do save) |
 | Barbosão | Vitória (PE) | ❌ |
 | Estádio Municipal Dito Souza | Várzea Grande | ❌ |
 | Zezinho Magalhães | XV de Jaú | ❌ |
@@ -619,7 +619,7 @@
 | Tonicão | Andirá | ❌ |
 | Annibal Batista de Toledo | Aparecida (GO) | ❌ |
 | Arena Taça | Araguacema | ❌ |
-| — | Araguaia de Palmas | ❌ sem estádio no jogo |
+| — | Araguaia de Palmas | ❌ (estádio não lido do save) |
 | Estádio dos Pássaros | Arapongas | ❌ |
 | Estádio Municipal do Pinhão (Xingu) | Araucária | ❌ |
 | Adhemar de Barros | Araçatuba | ❌ |
@@ -638,12 +638,12 @@
 | Andrezão | Canindé | ❌ |
 | Estádio Antônio Ferreira de Medeiros | Carapebus | ❌ |
 | Emílio Nemer | Castelo | ❌ |
-| — | Centro Limoeirense | ❌ sem estádio no jogo |
+| — | Centro Limoeirense | ❌ (estádio não lido do save) |
 | Estádio Municipal Carlos Ferracini | Colorado Caieiras | ❌ |
 | Toca do Papão | Confiança de Sapé | ❌ |
 | Campo do Frigoarnaldo | Contagem | ❌ |
 | Juvenal Melo | Crateús | ❌ |
-| — | Cristal (AP) | ❌ sem estádio no jogo |
+| — | Cristal (AP) | ❌ (estádio não lido do save) |
 | Glicério de Souza Marques | Cruzeiro (AP) | ❌ |
 | Zezão | Cruzeiro de Itaporanga | ❌ |
 | Justiniano de Mello e Silva | CTE Colatina | ❌ |
@@ -669,7 +669,7 @@
 | Amintas de Freitas | Jaraguá (GO) | ❌ |
 | Floro de Mendonça | JC | ❌ |
 | Estádio José Olímpio da Rocha | Linhares | ❌ |
-| — | Macapá | ❌ sem estádio no jogo |
+| — | Macapá | ❌ (estádio não lido do save) |
 | Estádio Manoel Ferreira de Amorim (Ferreirão) | Miguelense | ❌ |
 | Odilon Flores | Mineiros | ❌ |
 | Estádio Vail Chaves | Mogi Mirim | ❌ |
@@ -689,7 +689,7 @@
 | Arena Esperança | QFC | ❌ |
 | Arthur Lawson | Rio Grande | ❌ |
 | Tenente Luiz Gonzaga | Rio Grande (RN) | ❌ |
-| — | Rio Negro (RR) | ❌ sem estádio no jogo |
+| — | Rio Negro (RR) | ❌ (estádio não lido do save) |
 | Estádio dos Eucaliptos | Riograndense SM | ❌ |
 | Cassolão | Rolim de Moura | ❌ |
 | Aluízio Ferreira | Rondoniense | ❌ |
@@ -708,7 +708,7 @@
 | Nílton Santos | São José (TO) | ❌ |
 | Manoel Moreira Sobrinho | São Mateus | ❌ |
 | Zerão | São Paulo (AP) | ❌ |
-| — | Tarumã | ❌ sem estádio no jogo |
+| — | Tarumã | ❌ (estádio não lido do save) |
 | Lourival Cunha | Tiradentes (PA) | ❌ |
 | Municipal Rubro-Negro | Tupi (RS) | ❌ |
 | Toca do Índio | Tupy (ES) | ❌ |
@@ -732,9 +732,9 @@
 | Estádio de Los Larios | 7 de abril | ❌ |
 | José de Araújo Cintra | Amparo | ❌ |
 | Evandro Brembatti Calvoso | Andradina | ❌ |
-| — | Angra dos Reis | ❌ sem estádio no jogo |
+| — | Angra dos Reis | ❌ (estádio não lido do save) |
 | Estádio Vasconcelos Montes | Araguari | ❌ |
-| — | Araxá | ❌ sem estádio no jogo |
+| — | Araxá | ❌ (estádio não lido do save) |
 | Tonicão | Assisense | ❌ |
 | Estádio Kleber Andrade | Aster Brasil | ❌ |
 | Ildeu SIlvestre do Carmo | Aster Itaquá | ❌ |
@@ -746,7 +746,7 @@
 | Osvaldo Scatena | Batatais | ❌ |
 | Municipal José Mapa Filho | Betis (MG) | ❌ |
 | Juscelino Kubitschek | Boston City (MG) | ❌ |
-| — | Brasileirinho | ❌ sem estádio no jogo |
+| — | Brasileirinho | ❌ (estádio não lido do save) |
 | Municipal Leonardo Barbieri | Brasilis | ❌ |
 | Campo da SEB | Búzios | ❌ |
 | Anchieta | CAAC Brasil | ❌ |
@@ -774,7 +774,7 @@
 | Conselheiro Galvão | Império Serrano | ❌ |
 | Olavo Bilac de Resende | Inter SG | ❌ |
 | Louzadão | Itaboraí Profute | ❌ |
-| — | Itaquaquecetuba | ❌ sem estádio no jogo |
+| — | Itaquaquecetuba | ❌ (estádio não lido do save) |
 | Virgínio Holtz | Itararé | ❌ |
 | Estádio Antônio Pereira Braga | José Bonifácio | ❌ |
 | João Francisco dos Santos | Juventus (RJ) | ❌ |
@@ -782,10 +782,10 @@
 | Alzirão | Mageense | ❌ |
 | Romário de Souza Faria | Magé Brescia | ❌ |
 | Radialista Mário Helênio | Manchester JF | ❌ |
-| — | Manthiqueira | ❌ sem estádio no jogo |
+| — | Manthiqueira | ❌ (estádio não lido do save) |
 | Pedro Benedetti | Mauaense | ❌ |
-| — | Mauá | ❌ sem estádio no jogo |
-| — | Mesquita | ❌ sem estádio no jogo |
+| — | Mauá | ❌ (estádio não lido do save) |
+| — | Mesquita | ❌ (estádio não lido do save) |
 | Arena do Jacaré | Minas Boca | ❌ |
 | Uberabão | Nacional de Uberaba | ❌ |
 | Concha Acústica | Niterói | ❌ |
@@ -794,7 +794,7 @@
 | Estádio Marcelo Moraes e Souza | Paraiba do Sul | ❌ |
 | Jair Carneiro Toscano de Brito | Paraty | ❌ |
 | Starling Soares | Passos | ❌ |
-| — | Paulínia Universitário | ❌ sem estádio no jogo |
+| — | Paulínia Universitário | ❌ (estádio não lido do save) |
 | Estádio Otaviano Alckmin | Pirapora | ❌ |
 | Municipal Dr. Ronaldo Junqueira | Poços de Caldas | ❌ |
 | Hermínio Espósito | Referência | ❌ |
@@ -807,11 +807,11 @@
 | Municipal Deputado Leônidas Camarinha | Santacruzense | ❌ |
 | Erasmo Cabral | Santarritense | ❌ |
 | Arena dos Calçados | Serranense | ❌ |
-| — | Sfera | ❌ sem estádio no jogo |
+| — | Sfera | ❌ (estádio não lido do save) |
 | Senador José Ermírio de Moraes | Sharjah Brasil | ❌ |
 | Estádio Municipal Gabriel Marques da Silva | SKA Brasil | ❌ |
 | Louis Ensch | Social | ❌ |
-| — | Sport Capixaba | ❌ sem estádio no jogo |
+| — | Sport Capixaba | ❌ (estádio não lido do save) |
 | Estádio Municipal José Pereira | Sumaré | ❌ |
 | Plínio Bastos Barros | São José (RJ) | ❌ |
 | Vicente Zenaro Manin | Talentos 10 | ❌ |
@@ -819,8 +819,8 @@
 | Estádio de Los Larios | Tigres do Brasil | ❌ |
 | Municipal Urbano Adjunto | Unaí | ❌ |
 | Joaquim Almeida Flores | Uni Souza | ❌ |
-| — | União Central | ❌ sem estádio no jogo |
-| — | União Mogi | ❌ sem estádio no jogo |
+| — | União Central | ❌ (estádio não lido do save) |
+| — | União Mogi | ❌ (estádio não lido do save) |
 | Atílio Marotti | Vera Cruz (RJ) | ❌ |
 | Estádio Municipal Walter Mattos Reis | Villa Real (MG) | ❌ |
 | Estádio Municipal Domênico Paolo Metidieri | Votoraty | ❌ |
@@ -843,13 +843,13 @@
 | Trindadão | Boquinhense | ❌ |
 | Estádio Pedro Amorim Duarte | Botafogo (BA) | ❌ |
 | Geraldão | Botafogo (SE) | ❌ |
-| — | Calouros do Ar | ❌ sem estádio no jogo |
+| — | Calouros do Ar | ❌ (estádio não lido do save) |
 | Municipal Armando Oliveira | Camaçariense | ❌ |
 | Antônio Inácio de Souza | Caruaru City | ❌ |
 | Barbosão | Chã Grande | ❌ |
 | Lomanto Júnior | Conquista | ❌ |
 | Estádio Etelvino Mendonça | Coritiba (SE) | ❌ |
-| — | Cotinguiba | ❌ sem estádio no jogo |
+| — | Cotinguiba | ❌ (estádio não lido do save) |
 | Cleto Marques Luz | Dínamo (AL) | ❌ |
 | Tenente Luiz Gonzaga | Estrela Potiguar | ❌ |
 | Joia da Princesa | Feirense (BA) | ❌ |
@@ -865,8 +865,8 @@
 | Arena Romeirão | Juazeiro (CE) | ❌ |
 | José Trinidade Lobo | Leônico | ❌ |
 | Fernando França | Maruinense | ❌ |
-| — | Miramar (PB) | ❌ sem estádio no jogo |
-| — | Parnamirim | ❌ sem estádio no jogo |
+| — | Miramar (PB) | ❌ (estádio não lido do save) |
+| — | Parnamirim | ❌ (estádio não lido do save) |
 | Amigão | Perilima | ❌ |
 | Durval Feitosa | Propriá | ❌ |
 | Estádio Juvenal Lamartine | Riachuelo (RN) | ❌ |
@@ -881,7 +881,7 @@
 | Estádio Municipal José Correia de Oliveira | Sete de Setembro | ❌ |
 | Wellington Elias | Socorro Sport | ❌ |
 | Toscanão | Sport Lucena | ❌ |
-| — | São Domingos (AL) | ❌ sem estádio no jogo |
+| — | São Domingos (AL) | ❌ (estádio não lido do save) |
 | Tomatão | Teixeira de Freitas | ❌ |
 | Luiz Cezário | Terra e Mar | ❌ |
 | Tancredo Nunes | Tianguá | ❌ |
@@ -891,7 +891,7 @@
 | Arena Castelão | União (CE) | ❌ |
 | Almeidão | VF4 | ❌ |
 | Estádio do Junco | Vila Real (CE) | ❌ |
-| — | Visão Celeste | ❌ sem estádio no jogo |
+| — | Visão Celeste | ❌ (estádio não lido do save) |
 | Vila Canário | Ypiranga (BA) | ❌ |
 
 ## Pré C (1 de 64 clubes com estádio)
@@ -917,14 +917,14 @@
 | Salézio Kindermann | Caçadorense | ❌ |
 | Chavinha | Ceart | ❌ |
 | Annibal Batista de Toledo | Cerrado (GO) | ❌ |
-| — | Comercial TL | ❌ sem estádio no jogo |
+| — | Comercial TL | ❌ (estádio não lido do save) |
 | Estádio Morenão | CR Aquidauana | ❌ |
 | Olímpico de Goiânia | Crixás | ❌ |
 | Estádio Morro dos Ventos Uivantes | Cruz Alta | ❌ |
 | Ninho do Carcará | Cruzeiro (DF) | ❌ |
 | Estádio da Zona Sul | Elite (RS) | ❌ |
 | Arena Ninho do Cardeal | Farroupilha | ❌ |
-| — | Garibaldi | ❌ sem estádio no jogo |
+| — | Garibaldi | ❌ (estádio não lido do save) |
 | Estádio Municipal Luiz Alfredo | Grêmio Valparaíso | ❌ |
 | Breno Guimarães | Guaíba | ❌ |
 | Emília Mendes Rodrigues | Imbituba | ❌ |
@@ -947,9 +947,9 @@
 | Alcides Santa Rosa | PRS | ❌ |
 | Rorizão | Riacho City | ❌ |
 | Estádio Municipal Amaro Cassep | Riopardense | ❌ |
-| — | Rioverdense | ❌ sem estádio no jogo |
+| — | Rioverdense | ❌ (estádio não lido do save) |
 | Serra do Lago | Royal de Luziânia | ❌ |
-| — | Santo Ângelo | ❌ sem estádio no jogo |
+| — | Santo Ângelo | ❌ (estádio não lido do save) |
 | Arthur Mesquita Dias | Sapucaiense | ❌ |
 | Estádio Universitário da PUCRS | SC 12 Horas | ❌ |
 | Estádio Municipal Aldo Gonçalves Porto | Soledade | ❌ |
@@ -967,39 +967,39 @@
 
 | Estádio no jogo | Clube | Situação |
 |---|---|---|
-| — | ADEC | ❌ sem estádio no jogo |
+| — | ADEC | ❌ (estádio não lido do save) |
 | Bandeirão | Altamira (PA) | ❌ |
 | Estádio João Ribeiro | Arsenal (TO) | ❌ |
 | Ismael Benigno | Atlético Amazonense | ❌ |
-| — | Atlético Cerrado | ❌ sem estádio no jogo |
+| — | Atlético Cerrado | ❌ (estádio não lido do save) |
 | Rosenão | Atlético Paraense | ❌ |
 | Estádio Cazuza Ribeiro | Balsas (MA) | ❌ |
 | CT do Belenense | Belenense (PA) | ❌ |
-| — | Canário (AP) | ❌ sem estádio no jogo |
+| — | Canário (AP) | ❌ (estádio não lido do save) |
 | Estádio Pereirão | Central Paraíso | ❌ |
 | Bigodão | Colinas | ❌ |
 | Nelson Peixoto Feijó | Corinthians Alagoano | ❌ |
 | Nhozinho Santos | Expressinho | ❌ |
 | Floro de Mendonça | Itacoatiara | ❌ |
 | Estádio Municipal Marcos Pinheiro Neto | Lago Verde | ❌ |
-| — | Lagoa (AP) | ❌ sem estádio no jogo |
+| — | Lagoa (AP) | ❌ (estádio não lido do save) |
 | Glicério de Souza Marques | Latitude Zero | ❌ |
 | Estádio Municipal Carlos Zamith | Librade | ❌ |
 | Zerão | Mazagão | ❌ |
 | Zizão | Miranorte | ❌ |
-| — | NC/Paraíso | ❌ sem estádio no jogo |
+| — | NC/Paraíso | ❌ (estádio não lido do save) |
 | Estádio Francisco Vasques | Paraense | ❌ |
-| — | Paraíso (TO) | ❌ sem estádio no jogo |
+| — | Paraíso (TO) | ❌ (estádio não lido do save) |
 | Estádio Alves Barreto | Paulistano (MT) | ❌ |
 | São Sebastião | Pedreira | ❌ |
 | Luiz Alves Athaíde | Pimentense | ❌ |
 | Villelão | Renovação | ❌ |
 | Duque de Caxias | Sabiá (MA) | ❌ |
-| — | Santa Cruz (AC) | ❌ sem estádio no jogo |
+| — | Santa Cruz (AC) | ❌ (estádio não lido do save) |
 | Raimundão | Santa Cruz (MT) | ❌ |
 | Tonicão | Sena Madureira | ❌ |
-| — | Sport Belém | ❌ sem estádio no jogo |
-| — | São José (AP) | ❌ sem estádio no jogo |
+| — | Sport Belém | ❌ (estádio não lido do save) |
+| — | São José (AP) | ❌ (estádio não lido do save) |
 | Taquaruçu | Taquarussú | ❌ |
 | Albertão | Teresina | ❌ |
 | Mangueirão | Tesla | ❌ |
