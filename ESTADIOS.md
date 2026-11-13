@@ -142,6 +142,7 @@
 | do Trabalhador | Resende / Pérolas Negras | — | ⏳ v0.1.6 |
 | do Vale | Esporte Clube Novo Hamburgo 🔗 | v1 (0.1.6) | ✅ |
 | Domingos Silveira Gonzales | a conferir 🔗 | v1 | ✅ |
+| dos Eucaliptos | Avenida | — | ⏳ v0.1.6 |
 | Doutor Alfredo de Castilho (Alfredão) | Esporte Clube Noroeste 🔗 | v2 (0.1.5) | ✅ |
 | Doutor Hercílio Luz | Clube Náutico Marcílio Dias (também Barra em alguns jogos) 🔗 | v1 | ✅ |
 | Doutor Oswaldo Teixeira Duarte (Canindé) | Portuguesa 🔗 | v2 (0.1.3) | ✅ |
@@ -151,7 +152,6 @@
 | Elmo Serejo Farias (Serejão) | Brasiliense 🔗 | v1 | ✅ |
 | Estadual Kleber José de Andrade | Rio Branco Atlético Clube (ES) 🔗 | v1 | ✅ |
 | Estrela D'Alva | Guarany Futebol Clube 🔗 | v1 | ✅ |
-| Estádio dos Eucaliptos | Avenida | — | ⏳ v0.1.6 |
 | Estádio Municipal Cilmar Pedro Goergen | São Joseense | — | ⏳ v0.1.6 |
 | Feliciano Belmont; oficialmente Municipal Felipe Raulino (CBF) | Associação Atlética de Altos 🔗 | v1 | ✅ |
 | Flamarion Vasconcelos | São Raimundo-RR (também GAS, Progresso-RR e River-RR no jogo) | — | ⏳ v0.1.6 |
@@ -178,7 +178,6 @@
 | Maria de Lourdes Abadia (Abadião) | Ceilândia Esporte Clube 🔗 | v1 | ✅ |
 | Maria Lamas Farache (Frasqueirão) | ABC Futebol Clube 🔗 | v2 (0.1.3) | ✅ |
 | Milton de Souza Corrêa (Zerão) | Independente / Trem (Amapá) 🔗 | v3 (0.1.6) | ✅ |
-| Montanha dos Vinhedos | Esportivo | — | ⏳ v0.1.6 |
 | Municipal Annibal Batista de Toledo | Associação Atlética Aparecidense 🔗 | v2 (0.1.3) | ✅ |
 | Municipal Antônio Carlos Magalhães (Agnaldo Bento dos Santos) | Porto Sport Club 🔗 | v1 | ✅ |
 | Municipal Antônio de Figueiredo Carneiro (Carneirão) | Atlético de Alagoinhas 🔗 | v1 | ✅ |
@@ -213,6 +212,7 @@
 | Municipal Passo das Emas | Luverdense 🔗 | v1 | ✅ |
 | Municipal Valdemar Viana de Araújo (Vianão) | Afogados da Ingazeira | — | ⏳ v0.1.6 |
 | Municipal Vereador Benedito Laurindo de Souza (Dito Souza) | Clube Esportivo Operário Várzea-Grandense 🔗 | v1 | ✅ |
+| Municipal Walter Ribeiro | São Bento | — | ⏳ v0.1.6 |
 | Municipal Zinho de Oliveira | Águia de Marabá Futebol Clube 🔗 | v3 (0.1.5) | ✅ |
 | Mário Pessoa | Barcelona de Ilhéus | — | ⏳ v0.1.6 |
 | Nacional Mané Garrincha (Arena BRB) | Brasília FC / Capital-DF 🔗 | v1 | ✅ |
@@ -221,6 +221,7 @@
 | Olímpico Regional Jacy Miguel Scanagatta | Futebol Clube Cascavel 🔗 | v1 | ✅ |
 | Os Pioneiros (nome CBF; casa do São Joseense: Pinhão) | a conferir 🔗 | v1 | ✅ |
 | Parque do Sabiá | Uberlândia 🔗 | v1 | ✅ |
+| Parque Esportivo Montanha dos Vinhedos (Estádio Darcy Pozza) | Esportivo | — | ⏳ v0.1.6 |
 | Paulo Barreto de Menezes | Lagarto Futebol Clube 🔗 | v1 | ✅ |
 | Prefeito Almir Dutra | Maracanã Esporte Clube | — | ⏳ v0.1.6 |
 | Presidente Vargas | Ferroviário Atlético Clube (CE) 🔗 | v1 | ✅ |
@@ -235,7 +236,6 @@
 | Valdir Doilho Wons | Nova Mutum | — | ⏳ v0.1.6 |
 | Valmir Campelo Bezerra (Bezerrão) | Sociedade Esportiva do Gama 🔗 | v1 | ✅ |
 | Waldomiro Borges | Jequié | — | ⏳ v0.1.6 |
-| Walter Ribeiro | São Bento | — | ⏳ v0.1.6 |
 | Zico Brandão (Zeca Melo) | Inhumas Esporte Clube 🔗 | v1 | ✅ |
 
 ## Rio de Janeiro — Carioca (1)
@@ -260,7 +260,7 @@
 | La Bombonera | Boca Juniors | — | ⏳ v0.1.6 |
 | Más Monumental | River Plate | — | ⏳ v0.1.6 |
 
-## Série E (30 de 110 clubes com estádio)
+## Série E (32 de 110 clubes com estádio)
 
 | Estádio no jogo | Clube | Situação |
 |---|---|---|
@@ -288,7 +288,7 @@
 | São Benedito (Diogão) | Bragantino (PA) | ✅ |
 | Alair Corrêa | Cabofriense | ❌ |
 | Municipal Dr. Ronaldo Junqueira | Caldense | ❌ |
-| — | Capital (TO) | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Nílton Santos | Capital (TO) | ❌ |
 | Arena Capivari | Capivariano | ❌ |
 | Estádio da Montanha | Caravaggio (SC) | ❌ |
 | Arena Romeirão | Cariri | ❌ |
@@ -313,9 +313,11 @@
 | Arena Be8 | Gaúcho | ❌ |
 | Altos da Glória | Glória | ❌ |
 | Paulo Constantino | Grêmio Prudente | ❌ |
-| — | Guarani de Juazeiro | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Arena Romeirão | Guarani de Juazeiro | ❌ |
 | Rezendão | Gurupi | ❌ |
-| — | Icasa | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Arena Romeirão | Icasa | ❌ |
+| Milton de Souza Corrêa (Zerão) | Independente / Trem (Amapá) | ✅ |
+| Milton de Souza Corrêa (Zerão) | Independente / Trem (Amapá) | ✅ |
 | Milton de Souza Corrêa (Zerão) | Independente / Trem (Amapá) | ✅ |
 | Zico Brandão (Zeca Melo) | Inhumas Esporte Clube | ✅ |
 | Presidente Vargas | Inter SM | ❌ |
@@ -336,7 +338,6 @@
 | Rua Bariri | Olaria | ❌ |
 | Gilberto Mestrinho | Operário Manacapuru | ❌ |
 | Universitário Pedro Pedrossian (Morenão) | Operário-MS / Comercial (Campo Grande) | ✅ |
-| — | Oratório | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
 | Nílton Santos | Palmas | ❌ |
 | Estádio Arena Verde | Paragominas | ❌ |
 | Vermelhão da Serra | Passo Fundo | ❌ |
@@ -349,13 +350,12 @@
 | Ubirajara Medeiros | PSTC | ❌ |
 | Defelê | Real Brasilia | ❌ |
 | José Olímpio da Rocha | Real Noroeste | ✅ |
-| — | Rio Negro (AM) | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Estádio Municipal Carlos Zamith | Rio Negro (AM) | ❌ |
 | Estádio Municipal Francisco Garcia | RPE Parintins | ❌ |
 | Municipal Nhozinho Santos | Sampaio Corrêa, Maranhão, Moto Club | ✅ |
 | Alfredo João Krieck | Santa Catarina | ❌ |
 | Plátanos | Santa Cruz (RS) | ❌ |
 | Abelardo Conduru | Santa Rosa (PA) | ❌ |
-| — | Santos (AP) | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
 | Governador Ernani Sátyro (Amigão) | Serra Branca | ✅ |
 | Estádio Municipal Carlos Zamith | Sete | ❌ |
 | Gigante do Norte | Sport Sinop | ❌ |
@@ -375,7 +375,7 @@
 | Lomanto Júnior | Vitória da Conquista | ❌ |
 | Arena Plínio Marin | Votuporanguense | ❌ |
 
-## Série F (22 de 112 clubes com estádio)
+## Série F (24 de 112 clubes com estádio)
 
 | Estádio no jogo | Clube | Situação |
 |---|---|---|
@@ -387,7 +387,6 @@
 | Estádio da Noroeste | Aquidauanense | ❌ |
 | Zeca Costa | Araguaia | ❌ |
 | Estádio Nivaldo Pereira | Artsul | ❌ |
-| — | Atlético Acreano | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
 | Perpetão | Atlético de Cajazeiras | ❌ |
 | Estádio Edton Oliveira Maia | Atlético Gloriense | ❌ |
 | Dutrinha | Ação | ❌ |
@@ -396,7 +395,7 @@
 | João Cruz | Barra (SE) | ❌ |
 | Nílton Santos | Batalhão (TO) | ❌ |
 | Complexo Esportivo da Família | Blumenau Esporte Clube (BEC) / SESI Bernardo Wolfgang Werner | ✅ |
-| — | Boa | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Melão | Boa | ❌ |
 | Estádio das Castanheiras | Brasil de Farroupilha | ❌ |
 | Elmo Serejo Farias (Serejão) | Brasiliense | ✅ |
 | Elmo Serejo Farias (Serejão) | Brasiliense | ✅ |
@@ -431,6 +430,7 @@
 | Estádio do Junco | Guarany de Sobral | ❌ |
 | Estádio Municipal Antiocho Pereira | Iguaçu | ❌ |
 | Estádio Augusto Antunes | Independente (AP) | ❌ |
+| Arena da Floresta | Independência Futebol Clube (e demais mandantes estaduais) | ✅ |
 | Vidal Ramos Júnior | Inter de Lages | ❌ |
 | General Sampaio | Interporto | ❌ |
 | Municipal Luiz Saraiva Vieira (Saraivão) | Ivinhema Futebol Clube | ✅ |
@@ -474,7 +474,7 @@
 | Atílio Marotti | Serrano (RJ) | ❌ |
 | Frederico Dalmaso | Sertãozinho | ❌ |
 | Gigante do Norte | Sinop (MT) | ❌ |
-| — | Sobradinho | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Defelê | Sobradinho | ❌ |
 | Anacleto Campanella | São Caetano | ❌ |
 | Municipal Colosso do Tapajós | São Francisco (PA) e São Raimundo (PA) | ✅ |
 | Sílvio de Faria Corrêa | São Gabriel (RS) | ❌ |
@@ -488,16 +488,17 @@
 | Francisco Marques Figueira | União Suzano | ❌ |
 | Israel Pinheiro | Valeriodoce | ❌ |
 | Melão | Varginha | ❌ |
-| — | Vasco (AC) | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Arena da Floresta | Vasco (AC) | ✅ |
 | Djalma Campos | Viana | ❌ |
 | Portal da Amazônia | Vilhena | ❌ |
 
-## Série G (22 de 111 clubes com estádio)
+## Série G (27 de 110 clubes com estádio)
 
 | Estádio no jogo | Clube | Situação |
 |---|---|---|
 | Nabor Júnior | ADESG | ❌ |
 | Ninho do Periquito | Alecrim | ❌ |
+| Arena da Amazônia | Amazonas FC / Manauara | ✅ |
 | Arena da Amazônia | Amazonas FC / Manauara | ✅ |
 | Arena da Amazônia | Amazonas FC / Manauara | ✅ |
 | CT da Desportiva Paraense | Amazônia IFC | ❌ |
@@ -508,11 +509,9 @@
 | Valdir Cândido de Queiroz | ASEEV | ❌ |
 | Engenheiro Mário Balsini | Atlético Catarinense | ❌ |
 | Governador Alberto Tavares Silva (Albertão) | Atlético Piauiense | ✅ |
-| — | Atlético Roraima | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
 | José Liberatti | Audax (SP) | ❌ |
 | Correão | Bacabal | ❌ |
 | Antônio Gomes Martins | Barretos | ❌ |
-| — | Baré (RR) | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
 | Waldomiro Gelinski | Batel | ❌ |
 | Complexo Esportivo da Família | Blumenau Esporte Clube (BEC) / SESI Bernardo Wolfgang Werner | ✅ |
 | Geraldo Oliveira | Boca Júnior (SE) | ❌ |
@@ -522,7 +521,6 @@
 | Gileno de Carli | Cabense | ❌ |
 | Estádio Geraldão | Cacerense | ❌ |
 | Ítalo del Cima | Campo Grande (RJ) | ❌ |
-| Toca do Índio | Capixaba | ❌ |
 | Municipal Vereador Benedito Laurindo de Souza (Dito Souza) | CEO | ✅ |
 | Estádio do Café | City London | ❌ |
 | Raimundo Sampaio (Arena Independência) | Coimbra | ✅ |
@@ -544,6 +542,7 @@
 | Renato Silveira | Guarani de Palhoça | ❌ |
 | Edmundo Feix | Guarani VA | ❌ |
 | Delfinão | Guaraí | ❌ |
+| Milton de Souza Corrêa (Zerão) | Independente / Trem (Amapá) | ✅ |
 | Estádio Sócrates Stamato | Inter de Bebedouro | ❌ |
 | Municipal Doutor Antônio Dourado Neto | Ipojuca | ❌ |
 | Primaverão | Itapetinga | ❌ |
@@ -573,7 +572,6 @@
 | Abelardo Conduru | Pinheirense (PA) | ❌ |
 | João Soares de Moura Filho | Pinheiros (ES) | ❌ |
 | Adonir Guimarães | Planaltina | ❌ |
-| — | Portuguesa (AP) | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
 | Estádio Municipal Newton Agibert | Prudentopolis | ❌ |
 | Carlos Ernesto | Queimadense | ❌ |
 | Estádio Municipal | Real (RR) | ❌ |
@@ -581,14 +579,15 @@
 | Mozart Veloso do Carmo | Rio Verde (GO) | ❌ |
 | Municipal Nhozinho Santos | Sampaio Corrêa, Maranhão, Moto Club | ✅ |
 | Pedro Romualdo Cabral | Santa Helena | ❌ |
-| — | Santa Maria (DF) | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
 | Estádio Augusto Antunes | Santana (AP) | ❌ |
+| Valmir Campelo Bezerra (Bezerrão) | Sociedade Esportiva do Gama | ✅ |
 | Valmir Campelo Bezerra (Bezerrão) | Sociedade Esportiva do Gama | ✅ |
 | Municipal Frei Epifânio D'Abadia | Sociedade Imperatriz de Desportos | ✅ |
 | Wellington Elias | Socorrense | ❌ |
-| — | Sul América | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
 | Figueira de Melo (Ronaldo Luís Nazário de Lima) | São Cristóvão (RJ) | ✅ |
 | Aldo Dapuzzo | São Paulo (RS) | ❌ |
+| Flamarion Vasconcelos | São Raimundo-RR (também GAS, Progresso-RR e River-RR no jogo) | ✅ |
+| Flamarion Vasconcelos | São Raimundo-RR (também GAS, Progresso-RR e River-RR no jogo) | ✅ |
 | Flamarion Vasconcelos | São Raimundo-RR (também GAS, Progresso-RR e River-RR no jogo) | ✅ |
 | Luiz Augusto de Oliveira | São-Carlense | ❌ |
 | Adail Nunes da Silva | Taquaritinga | ❌ |
@@ -601,14 +600,14 @@
 | Anilado | União Beltrão | ❌ |
 | Municipal Engenheiro Luthero Lopes | União Esporte Clube (Rondonópolis) | ✅ |
 | Hermínio Ometto | União São João | ❌ |
-| — | Vilavelhense | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Toca do Índio | Vilavelhense | ❌ |
 | Barbosão | Vitória (PE) | ❌ |
 | Estádio Municipal Dito Souza | Várzea Grande | ❌ |
 | Zezinho Magalhães | XV de Jaú | ❌ |
 | Limeirão | Ypiranga (PE) | ❌ |
 | Estádio Orlando Gomes de Barros (Orlandão) | Zumbi | ❌ |
 
-## Série H (12 de 111 clubes com estádio)
+## Série H (15 de 111 clubes com estádio)
 
 | Estádio no jogo | Clube | Situação |
 |---|---|---|
@@ -618,7 +617,7 @@
 | Teixeirão | América (SP) | ❌ |
 | Tonicão | Andirá | ❌ |
 | Arena Taça | Araguacema | ❌ |
-| — | Araguaia de Palmas | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Nílton Santos | Araguaia de Palmas | ❌ |
 | Estádio dos Pássaros | Arapongas | ❌ |
 | Estádio Municipal do Pinhão (Xingu) | Araucária | ❌ |
 | Adhemar de Barros | Araçatuba | ❌ |
@@ -639,12 +638,11 @@
 | Andrezão | Canindé | ❌ |
 | Estádio Antônio Ferreira de Medeiros | Carapebus | ❌ |
 | Emílio Nemer | Castelo | ❌ |
-| — | Centro Limoeirense | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Varedão | Centro Limoeirense | ❌ |
 | Estádio Municipal Carlos Ferracini | Colorado Caieiras | ❌ |
 | Toca do Papão | Confiança de Sapé | ❌ |
 | Campo do Frigoarnaldo | Contagem | ❌ |
 | Juvenal Melo | Crateús | ❌ |
-| — | Cristal (AP) | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
 | Glicério de Souza Marques | Cruzeiro (AP) | ❌ |
 | Zezão | Cruzeiro de Itaporanga | ❌ |
 | Justiniano de Mello e Silva | CTE Colatina | ❌ |
@@ -662,6 +660,8 @@
 | Albano Franco | Independente (SE) | ❌ |
 | Agostinho Prada | Independente (SP) | ❌ |
 | Milton de Souza Corrêa (Zerão) | Independente / Trem (Amapá) | ✅ |
+| Milton de Souza Corrêa (Zerão) | Independente / Trem (Amapá) | ✅ |
+| Milton de Souza Corrêa (Zerão) | Independente / Trem (Amapá) | ✅ |
 | Estádio Municipal José Flávio de Carvalho | Inter de Minas | ❌ |
 | Tenente Álvaro Maranhão | Iranduba | ❌ |
 | Emílio Gomes | Iraty | ❌ |
@@ -670,7 +670,6 @@
 | Amintas de Freitas | Jaraguá (GO) | ❌ |
 | Floro de Mendonça | JC | ❌ |
 | Estádio José Olímpio da Rocha | Linhares | ❌ |
-| — | Macapá | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
 | Regional Willie Davids | Maringá Futebol Clube | ✅ |
 | Estádio Manoel Ferreira de Amorim (Ferreirão) | Miguelense | ❌ |
 | Odilon Flores | Mineiros | ❌ |
@@ -690,7 +689,6 @@
 | Arena Esperança | QFC | ❌ |
 | Arthur Lawson | Rio Grande | ❌ |
 | Tenente Luiz Gonzaga | Rio Grande (RN) | ❌ |
-| — | Rio Negro (RR) | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
 | Estádio dos Eucaliptos | Riograndense SM | ❌ |
 | Cassolão | Rolim de Moura | ❌ |
 | Rezendão | Rosário Central (SE) | ❌ |
@@ -708,7 +706,8 @@
 | Nílton Santos | São José (TO) | ❌ |
 | Manoel Moreira Sobrinho | São Mateus | ❌ |
 | Flamarion Vasconcelos | São Raimundo-RR (também GAS, Progresso-RR e River-RR no jogo) | ✅ |
-| — | Tarumã | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Flamarion Vasconcelos | São Raimundo-RR (também GAS, Progresso-RR e River-RR no jogo) | ✅ |
+| Floro de Mendonça | Tarumã | ❌ |
 | Lourival Cunha | Tiradentes (PA) | ❌ |
 | Francisco Vasques | Tuna Luso Brasileira | ✅ |
 | Municipal Rubro-Negro | Tupi (RS) | ❌ |
@@ -724,16 +723,16 @@
 | Municipal Zinho de Oliveira | Águia de Marabá Futebol Clube | ✅ |
 | Estádio Ademir Cunha | Íbis | ❌ |
 
-## Pré A (5 de 95 clubes com estádio)
+## Pré A (7 de 95 clubes com estádio)
 
 | Estádio no jogo | Clube | Situação |
 |---|---|---|
 | Estádio de Los Larios | 7 de abril | ❌ |
 | José de Araújo Cintra | Amparo | ❌ |
 | Evandro Brembatti Calvoso | Andradina | ❌ |
-| — | Angra dos Reis | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Jair Carneiro Toscano de Brito | Angra dos Reis | ❌ |
 | Estádio Vasconcelos Montes | Araguari | ❌ |
-| — | Araxá | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Municipal Fausto Alvim | Araxá | ❌ |
 | Tonicão | Assisense | ❌ |
 | Estadual Kleber José de Andrade | Aster Brasil | ✅ |
 | Ildeu SIlvestre do Carmo | Aster Itaquá | ❌ |
@@ -745,7 +744,7 @@
 | Osvaldo Scatena | Batatais | ❌ |
 | Municipal José Mapa Filho | Betis (MG) | ❌ |
 | Juscelino Kubitschek | Boston City (MG) | ❌ |
-| — | Brasileirinho | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Rua Bariri | Brasileirinho | ❌ |
 | Municipal Leonardo Barbieri | Brasilis | ❌ |
 | Campo da SEB | Búzios | ❌ |
 | Anchieta | CAAC Brasil | ❌ |
@@ -772,7 +771,7 @@
 | Ibrachina Arena | Ibrachina | ❌ |
 | Olavo Bilac de Resende | Inter SG | ❌ |
 | Louzadão | Itaboraí Profute | ❌ |
-| — | Itaquaquecetuba | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Dário Rodrigues Leite | Itaquaquecetuba | ❌ |
 | Virgínio Holtz | Itararé | ❌ |
 | Estádio Antônio Pereira Braga | José Bonifácio | ❌ |
 | João Francisco dos Santos | Juventus (RJ) | ❌ |
@@ -781,10 +780,10 @@
 | Alzirão | Mageense | ❌ |
 | Romário de Souza Faria | Magé Brescia | ❌ |
 | Radialista Mário Helênio | Manchester JF | ❌ |
-| — | Manthiqueira | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Dário Rodrigues Leite | Manthiqueira | ❌ |
 | Pedro Benedetti | Mauaense | ❌ |
-| — | Mauá | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
-| — | Mesquita | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Pedro Benedetti | Mauá | ❌ |
+| Louzadão | Mesquita | ❌ |
 | Uberabão | Nacional de Uberaba | ❌ |
 | Concha Acústica | Niterói | ❌ |
 | Estádio Itabirinha | Novo Esporte | ❌ |
@@ -792,8 +791,8 @@
 | Estádio Marcelo Moraes e Souza | Paraiba do Sul | ❌ |
 | Jair Carneiro Toscano de Brito | Paraty | ❌ |
 | Starling Soares | Passos | ❌ |
-| — | Paulínia Universitário | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
 | Estádio Otaviano Alckmin | Pirapora | ❌ |
+| Moisés Lucarelli (Majestoso) | Ponte Preta | ✅ |
 | Municipal Dr. Ronaldo Junqueira | Poços de Caldas | ❌ |
 | Hermínio Espósito | Referência | ❌ |
 | Romário de Souza Faria | Rio de Janeiro | ❌ |
@@ -805,11 +804,11 @@
 | Municipal Deputado Leônidas Camarinha | Santacruzense | ❌ |
 | Erasmo Cabral | Santarritense | ❌ |
 | Arena dos Calçados | Serranense | ❌ |
-| — | Sfera | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Amadeu Mosca | Sfera | ❌ |
 | Senador José Ermírio de Moraes | Sharjah Brasil | ❌ |
 | Estádio Municipal Gabriel Marques da Silva | SKA Brasil | ❌ |
 | Louis Ensch | Social | ❌ |
-| — | Sport Capixaba | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Estadual Kleber José de Andrade | Sport Capixaba | ✅ |
 | Estádio Municipal José Pereira | Sumaré | ❌ |
 | Plínio Bastos Barros | São José (RJ) | ❌ |
 | Vicente Zenaro Manin | Talentos 10 | ❌ |
@@ -818,13 +817,13 @@
 | Parque do Sabiá | Uberlândia | ✅ |
 | Municipal Urbano Adjunto | Unaí | ❌ |
 | Joaquim Almeida Flores | Uni Souza | ❌ |
-| — | União Central | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
-| — | União Mogi | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Joaquim Almeida Flores | União Central | ❌ |
+| Nogueirão | União Mogi | ❌ |
 | Atílio Marotti | Vera Cruz (RJ) | ❌ |
 | Estádio Municipal Walter Mattos Reis | Villa Real (MG) | ❌ |
 | Estádio Municipal Domênico Paolo Metidieri | Votoraty | ❌ |
 
-## Pré B (11 de 64 clubes com estádio)
+## Pré B (14 de 64 clubes com estádio)
 
 | Estádio no jogo | Clube | Situação |
 |---|---|---|
@@ -840,14 +839,14 @@
 | Estádio Pedro Amorim Duarte | Botafogo (BA) | ❌ |
 | Geraldão | Botafogo (SE) | ❌ |
 | José Américo de Almeida Filho (Almeidão) | Botafogo-PB | ✅ |
-| — | Calouros do Ar | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| José Américo de Almeida Filho (Almeidão) | Botafogo-PB | ✅ |
 | Municipal Armando Oliveira | Camaçariense | ❌ |
 | Antônio Inácio de Souza | Caruaru City | ❌ |
 | Barbosão | Chã Grande | ❌ |
 | Estadual Lourival Baptista (Batistão) | Confiança / Sergipe | ✅ |
+| Estadual Lourival Baptista (Batistão) | Confiança / Sergipe | ✅ |
 | Lomanto Júnior | Conquista | ❌ |
 | Etelvino Mendonça | Coritiba (SE) | ✅ |
-| — | Cotinguiba | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
 | Cleto Marques Luz | Dínamo (AL) | ❌ |
 | Tenente Luiz Gonzaga | Estrela Potiguar | ❌ |
 | Joia da Princesa | Feirense (BA) | ❌ |
@@ -855,6 +854,7 @@
 | Gileno de Carli | Ferroviário do Cabo | ❌ |
 | Estádio Adolfo Rollemberg | Flamengo (SE) | ❌ |
 | Estádio Dois de Julho | Flamengo de Guanambi | ❌ |
+| Olímpico Horácio Domingos de Sousa (Domingão) | Floresta / Horizonte | ✅ |
 | Olímpico Horácio Domingos de Sousa (Domingão) | Floresta / Horizonte | ✅ |
 | Governador Plácido Castelo (Arena Castelão) | Fortaleza / Ceará | ✅ |
 | Manuel Porto | Força Jovem Aquidabã | ❌ |
@@ -864,9 +864,8 @@
 | Arena Romeirão | Juazeiro (CE) | ❌ |
 | José Trinidade Lobo | Leônico | ❌ |
 | Fernando França | Maruinense | ❌ |
-| — | Miramar (PB) | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
 | Centro Esportivo Dirceu Mendes Arcoverde | Parnahyba Sport Club | ✅ |
-| — | Parnamirim | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Tenente Luiz Gonzaga | Parnamirim | ❌ |
 | Governador Ernani Sátyro (Amigão) | Perilima | ✅ |
 | Governador Alberto Tavares Silva (Albertão) | Piauí / Fluminense-PI / River (Teresina) | ✅ |
 | Durval Feitosa | Propriá | ❌ |
@@ -883,14 +882,14 @@
 | Estádio Municipal José Correia de Oliveira | Sete de Setembro | ❌ |
 | Wellington Elias | Socorro Sport | ❌ |
 | Toscanão | Sport Lucena | ❌ |
-| — | São Domingos (AL) | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Estádio Manoel Ferreira de Amorim (Ferreirão) | São Domingos (AL) | ❌ |
 | Tomatão | Teixeira de Freitas | ❌ |
 | Luiz Cezário | Terra e Mar | ❌ |
 | Tancredo Nunes | Tianguá | ❌ |
 | Estádio João Ferreira Lima | Timbaúba | ❌ |
 | Antônio Lopes Filho | UNIVAP | ❌ |
 | Estádio do Junco | Vila Real (CE) | ❌ |
-| — | Visão Celeste | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Tenente Luiz Gonzaga | Visão Celeste | ❌ |
 | Vila Canário | Ypiranga (BA) | ❌ |
 
 ## Pré C (5 de 64 clubes com estádio)
@@ -916,14 +915,14 @@
 | Salézio Kindermann | Caçadorense | ❌ |
 | Chavinha | Ceart | ❌ |
 | Maria de Lourdes Abadia (Abadião) | Ceilândia Esporte Clube | ✅ |
-| — | Comercial TL | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Benedito Soares Mota | Comercial TL | ❌ |
 | Olímpico de Goiânia | Crixás | ❌ |
 | Estádio Morro dos Ventos Uivantes | Cruz Alta | ❌ |
 | Ninho do Carcará | Cruzeiro (DF) | ❌ |
 | Arena Pantanal | Cuiabá | ✅ |
 | Estádio da Zona Sul | Elite (RS) | ❌ |
 | Arena Ninho do Cardeal | Farroupilha | ❌ |
-| — | Garibaldi | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Alcides Santa Rosa | Garibaldi | ❌ |
 | Estádio Municipal Luiz Alfredo | Grêmio Valparaíso | ❌ |
 | Breno Guimarães | Guaíba | ❌ |
 | Emília Mendes Rodrigues | Imbituba | ❌ |
@@ -946,9 +945,9 @@
 | Alcides Santa Rosa | PRS | ❌ |
 | Rorizão | Riacho City | ❌ |
 | Estádio Municipal Amaro Cassep | Riopardense | ❌ |
-| — | Rioverdense | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Mozart Veloso do Carmo | Rioverdense | ❌ |
 | Serra do Lago | Royal de Luziânia | ❌ |
-| — | Santo Ângelo | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Estádio da Zona Sul | Santo Ângelo | ❌ |
 | Arthur Mesquita Dias | Sapucaiense | ❌ |
 | Estádio Universitário da PUCRS | SC 12 Horas | ❌ |
 | Estádio Municipal Aldo Gonçalves Porto | Soledade | ❌ |
@@ -962,42 +961,42 @@
 | Zico Brandão (Zeca Melo) | União Inhumas | ✅ |
 | Estádio Serra Grande | Uruaçu | ❌ |
 
-## Pré D (7 de 39 clubes com estádio)
+## Pré D (9 de 39 clubes com estádio)
 
 | Estádio no jogo | Clube | Situação |
 |---|---|---|
-| — | ADEC | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Glicério de Souza Marques | ADEC | ❌ |
 | Bandeirão | Altamira (PA) | ❌ |
 | João Ribeiro | Arsenal (TO) | ✅ |
 | Arena da Amazônia | Atlético Amazonense | ✅ |
-| — | Atlético Cerrado | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Estádio Pereirão | Atlético Cerrado | ❌ |
 | Estádio Cazuza Ribeiro | Balsas (MA) | ❌ |
 | CT do Belenense | Belenense (PA) | ❌ |
-| — | Canário (AP) | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Milton de Souza Corrêa (Zerão) | Canário (AP) | ✅ |
 | Estádio Pereirão | Central Paraíso | ❌ |
 | Bigodão | Colinas | ❌ |
 | Nelson Peixoto Feijó | Corinthians Alagoano | ❌ |
 | Municipal Nhozinho Santos | Expressinho | ✅ |
 | Floro de Mendonça | Itacoatiara | ❌ |
 | Estádio Municipal Marcos Pinheiro Neto | Lago Verde | ❌ |
-| — | Lagoa (AP) | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Glicério de Souza Marques | Lagoa (AP) | ❌ |
 | Glicério de Souza Marques | Latitude Zero | ❌ |
 | Estádio Municipal Carlos Zamith | Librade | ❌ |
 | Milton de Souza Corrêa (Zerão) | Mazagão | ✅ |
 | Zizão | Miranorte | ❌ |
-| — | NC/Paraíso | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Estádio Pereirão | NC/Paraíso | ❌ |
 | Francisco Vasques | Paraense | ✅ |
-| — | Paraíso (TO) | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Estádio Pereirão | Paraíso (TO) | ❌ |
 | Estádio Alves Barreto | Paulistano (MT) | ❌ |
 | São Sebastião | Pedreira | ❌ |
 | Luiz Alves Athaíde | Pimentense | ❌ |
 | Villelão | Renovação | ❌ |
 | Duque de Caxias | Sabiá (MA) | ❌ |
-| — | Santa Cruz (AC) | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Tonicão | Santa Cruz (AC) | ❌ |
 | Raimundão | Santa Cruz (MT) | ❌ |
 | Tonicão | Sena Madureira | ❌ |
-| — | Sport Belém | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
-| — | São José (AP) | ❌ sem estádio próprio no jogo (não aparece na aba Estádios da divisão) |
+| Mangueirão | Sport Belém | ❌ |
+| Milton de Souza Corrêa (Zerão) | São José (AP) | ✅ |
 | Taquaruçu | Taquarussú | ❌ |
 | Governador Alberto Tavares Silva (Albertão) | Teresina | ✅ |
 | Mangueirão | Tesla | ❌ |
