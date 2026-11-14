@@ -1,6 +1,7 @@
 # 🏟️ Lista de estádios
 
 - ✅ aprovado em jogo
+- 🧪 no pacote, ainda sem teste em jogo
 - 🔧 corrigido, falta testar em jogo
 - ⚠️ funciona, com um defeito (descrito)
 - 🚫 não aprovado (vai no pacote, mas tapa o gramado)
@@ -10,7 +11,7 @@
 - ➖ sem clube nesta versão (o jogo usa o estádio padrão)
 - **Versão:** v1 é o estádio como saiu; cada mudança sobe a versão (entre parênteses, a release em que mudou)
 
-## 🔄 Atualizados na v0.1.6 ⏳ (ainda não publicada) (19)
+## 🔄 Atualizados na v0.1.6 ⏳ (ainda não publicada) (21)
 
 | Estádio | Clube | Versão | O que mudou |
 |---|---|---|---|
@@ -32,40 +33,82 @@
 | Municipal Cícero de Souza Marques | Red Bull Bragantino | v2 (0.1.6) | principal com teto reto branco, oposta com abóbada prateada, fundos descobertos azul e branco, alambrado preto, pilares atrás da torcida |
 | Municipal Jacy Scaff (Estádio do Café) | Londrina Esporte Clube | v2 (0.1.6) | refeito no padrão dos modelos de perfeição: lados pelo satélite (curva no norte, sul aberto), pista inteira, coberta oeste em xadrez azul/vermelho/rosa de frente para a TV com teto alto e testeira da prefeitura, leste azul com escadas amarelas descendo no sudeste, torres treliçadas atrás das laterais |
 | Municipal Orfelino Martins Valente (Parque do Bacurau) | Cametá Sport Club | v2 (0.1.6) | refeito com fotos de jogador: duas arquibancadas frente a frente (uma colorida com alambrado atrás, outra coberta), sem o chão cinza, ligado ao Cametá; na 0.1.5: estádio novo, sem clube |
+| Onésio Brasileiro Alvarenga (OBA) | Vila Nova | v2 (0.1.6) | refeito no padrão dos modelos de perfeição: ferradura sem pista, leste descoberto com VILA NOVA F.C. nas cadeiras vermelhas, tobogã sul com o 12, teto só no meio do oeste (dúvidas: o 12 pode ser no fim do leste; teto do oeste ~46 m) |
 | Raimundo Sampaio (Arena Independência) | América Mineiro | v2 (0.1.6) | treliça branca na beira do teto, tenda de lona no fundo aberto; torcida em todas as tribunas (antes uma vazia) |
+| Vitorino Gonçalves Dias (VGD) | Londrina | v2 (0.1.6) | refeito no padrão dos modelos de perfeição: coberta oeste no top com teto branco alto, leste funda no bottom, curva sul com abertura no escanteio SE, norte aberto com tenda, sede e portal, Moringão (padrão ginasio_redondo) a sudeste (dúvidas: chave, o Londrina tem o VGD no jogo como estádio 352323752 e o Café usa club:900678; só 2 das 4 torres no render) |
 
-## 🆕 Novos na v0.1.6 ⏳ (ainda não publicada) (4)
+## 🆕 Novos na v0.1.6 ⏳ (ainda não publicada) (44)
 
 | Estádio | Clube |
 |---|---|
+| Antônio Guimarães de Almeida | Tombense |
+| Aníbal Torres Costa | Hercílio Luz |
+| Boca do Lobo | Pelotas |
+| Conde Rodolfo Crespi | Juventus (SP) |
+| Costa Rodrigues | Pinheiro |
+| do Trabalhador | Resende / Pérolas Negras |
 | do Vale | Esporte Clube Novo Hamburgo |
+| dos Eucaliptos | Avenida |
+| Elcyr Resende de Mendonça | Boavista e Audax Rio |
+| Estadio Alberto J. Armando (La Bombonera) | Boca Juniors |
+| Estadio Centenario | Uruguai (seleção) |
+| Estadio Más Monumental Antonio Vespucio Liberti | River Plate |
+| Estadio Presidente Juan Domingo Perón | Racing Club |
 | Figueira de Melo (Ronaldo Luís Nazário de Lima) | São Cristóvão de Futebol e Regatas |
+| Flamarion Vasconcelos | São Raimundo-RR (também GAS, Progresso-RR e River-RR no jogo) |
+| Francisco Antônio da Costa | Potiguar de Mossoró |
+| Ismael Benigno | São Raimundo-AM |
+| Manoel Dantas Barretto (Barrettão) | Globo Futebol Clube |
+| Municipal Antônio Dias (Navegantão) | Independente Atlético Clube |
 | Municipal Bruno José Daniel (Brunão) | Esporte Clube Santo André |
+| Municipal Castor Cifuentes | Villa Nova Atlético Clube e Itabirito |
+| Municipal Cilmar Pedro Goergen | Independente Futebol São Joseense / Araucária |
+| Municipal Colosso do Tapajós | São Francisco (PA) e São Raimundo (PA) |
+| Municipal Domício da Silva | Santa Cruz de Natal |
+| Municipal Doutor Augusto Schmidt Filho | Rio Claro Futebol Clube |
+| Municipal Dr. Alfredo Leahy | Penedense |
+| Municipal João Lamego Netto | Ipatinga |
+| Municipal Maximino Porpino Filho («Modelão») | Castanhal Esporte Clube |
+| Municipal Valdeir José de Oliveira | Goianésia |
+| Municipal Valdemar Viana de Araújo (Vianão) | Afogados da Ingazeira |
+| Municipal Valdir Doilho Wons | Nova Mutum Esporte Clube |
+| Municipal Walter Ribeiro | São Bento |
+| Mário Pessoa | Barcelona de Ilhéus |
+| Nelson Medrado Dias | Rio Branco-PR |
+| Olímpico Municipal Gilberto Mestrinho | Princesa do Solimões |
+| Olímpico Pedro Ludovico Teixeira | Goiânia |
+| Parque Esportivo Montanha dos Vinhedos (Estádio Darcy Pozza) | Esportivo |
+| Prefeito Almir Dutra | Maracanã Esporte Clube |
+| Presidente Eurico Gaspar Dutra | Operário VG e Ação |
+| Proletário Guilherme da Silveira | Bangu Atlético Clube |
 | Stamford Bridge | Chelsea |
+| São Benedito (Diogão) | Bragantino (PA) |
+| Ulrico Mursa | Associação Atlética Portuguesa (Santos) |
+| Waldomiro Borges | Jequié |
 
 ## Série A (19)
 
 | Estádio | Clube | Versão | Situação |
 |---|---|---|---|
-| Arena Condá | Associação Chapecoense de Futebol 🔗 | v1 | ✅ |
-| Arena da Baixada | Club Athletico Paranaense 🔗 | v2 (0.1.6) | ✅ |
-| Arena do Grêmio | Grêmio Foot-Ball Porto Alegrense 🔗 | v1 | ✅ |
-| Arena MRV | Clube Atlético Mineiro 🔗 | v1 | ✅ |
-| Beira-Rio | Sport Club Internacional 🔗 | v1 | ✅ |
-| Casa de Apostas Arena Fonte Nova | Esporte Clube Bahia 🔗 | v1 | ✅ |
-| Cícero Pompeu de Toledo (Morumbi) | São Paulo Futebol Clube 🔗 | v1 | ✅ |
-| Governador Magalhães Pinto (Mineirão) | Cruzeiro 🔗 | v1 | ✅ |
-| Jornalista Mário Filho (Maracanã) | Flamengo / Fluminense 🔗 | v2 (0.1.6) | ✅ |
-| Major Antônio Couto Pereira | Coritiba Foot Ball Club 🔗 | v1 | ✅ |
-| Manoel Barradas (Barradão) | Esporte Clube Vitória 🔗 | v1 | ✅ |
-| Municipal Cícero de Souza Marques | Red Bull Bragantino 🔗 | v2 (0.1.6) | ✅ |
-| Municipal José Maria de Campos Maia (Maião) | Mirassol FC 🔗 | v1 | ✅ |
-| Neo Química Arena | Sport Club Corinthians Paulista 🔗 | v1 | ✅ |
-| Nubank Parque | Sociedade Esportiva Palmeiras 🔗 | v2 (0.1.5) | ✅ |
-| Olímpico do Pará (Mangueirão) | Paysandu / Clube do Remo 🔗 | v1 | ✅ |
-| Olímpico Nilton Santos | Botafogo de Futebol e Regatas 🔗 | v1 | ✅ |
+| Arena Condá | Associação Chapecoense de Futebol 🔗 | v1 | ✅ · ⏳ versão nova na v0.1.6 |
+| Arena da Baixada | Club Athletico Paranaense 🔗 | v2 (0.1.6) | ✅ · ⏳ versão nova na v0.1.6 |
+| Arena do Grêmio | Grêmio Foot-Ball Porto Alegrense 🔗 | v1 | ✅ · ⏳ versão nova na v0.1.6 |
+| Arena MRV | Clube Atlético Mineiro 🔗 | v1 | ✅ · ⏳ versão nova na v0.1.6 |
+| Beira-Rio | Sport Club Internacional 🔗 | v1 | ✅ · ⏳ versão nova na v0.1.6 |
+| Casa de Apostas Arena Fonte Nova | Esporte Clube Bahia 🔗 | v1 | ✅ · ⏳ versão nova na v0.1.6 |
+| Cícero Pompeu de Toledo (Morumbi) | São Paulo Futebol Clube 🔗 | v1 | ✅ · ⏳ versão nova na v0.1.6 |
+| Governador Magalhães Pinto (Mineirão) | Cruzeiro 🔗 | v1 | ✅ · ⏳ versão nova na v0.1.6 |
+| Jornalista Mário Filho (Maracanã) | Flamengo / Fluminense 🔗 | v2 (0.1.6) | ✅ · ⏳ versão nova na v0.1.6 |
+| Major Antônio Couto Pereira | Coritiba Foot Ball Club 🔗 | v1 | ✅ · ⏳ versão nova na v0.1.6 |
+| Manoel Barradas (Barradão) | Esporte Clube Vitória 🔗 | v1 | ✅ · ⏳ versão nova na v0.1.6 |
+| Municipal Cícero de Souza Marques | Red Bull Bragantino 🔗 | v2 (0.1.6) | ✅ · ⏳ versão nova na v0.1.6 |
+| Municipal José Maria de Campos Maia (Maião) | Mirassol FC 🔗 | v1 | ✅ · ⏳ versão nova na v0.1.6 |
+| Neo Química Arena | Sport Club Corinthians Paulista 🔗 | v1 | ✅ · ⏳ versão nova na v0.1.6 |
+| Nubank Parque | Sociedade Esportiva Palmeiras 🔗 | v2 (0.1.5) | ✅ · ⏳ versão nova na v0.1.6 |
+| Olímpico do Pará (Mangueirão) | Paysandu / Clube do Remo 🔗 | v1 | ✅ · ⏳ versão nova na v0.1.6 |
+| Olímpico Nilton Santos | Botafogo de Futebol e Regatas 🔗 | v1 | ✅ · ⏳ versão nova na v0.1.6 |
 | São Januário | Club de Regatas Vasco da Gama 🔗 | v1 | ✅ |
-| Urbano Caldeira (Vila Belmiro) | Santos Futebol Clube 🔗 | v1 | ✅ |
+| Urbano Caldeira (Vila Belmiro) | Santos Futebol Clube 🔗 | v1 | ✅ · ⏳ versão nova na v0.1.6 |
 
 ## Série B (20)
 
@@ -86,11 +129,11 @@
 | Moisés Lucarelli (Majestoso) | Ponte Preta 🔗 | v2 (0.1.6) | ✅ |
 | Municipal 1.º de Maio | São Bernardo 🔗 | v2 (0.1.3) | ✅ |
 | Municipal Jacy Scaff (Estádio do Café) | Londrina Esporte Clube 🔗 | v2 (0.1.6) | ✅ |
-| Onésio Brasileiro Alvarenga (OBA) | Vila Nova 🔗 | v1 | ✅ · ⏳ versão nova na v0.1.6 |
+| Onésio Brasileiro Alvarenga (OBA) | Vila Nova 🔗 | v2 (0.1.6) | 🧪 falta testar em jogo |
 | Raimundo Sampaio (Arena Independência) | América Mineiro 🔗 | v2 (0.1.6) | ✅ |
 | Rei Pelé | CSA / CRB 🔗 | v2 (0.1.3) | ✅ |
 | Santa Cruz | Botafogo-SP 🔗 | v2 (0.1.3) | ✅ |
-| Vitorino Gonçalves Dias (VGD) | Londrina ➖ | v1 | ✅ · ⏳ versão nova na v0.1.6 |
+| Vitorino Gonçalves Dias (VGD) | Londrina ➖ | v2 (0.1.6) | 🧪 falta testar em jogo |
 
 ## Série C (21)
 
@@ -126,44 +169,41 @@
 | Adauto Moraes | Sociedade Desportiva Juazeirense 🔗 | v1 | ✅ |
 | Aluízio Ferreira (Aluizão) | Gazin Porto Velho / mandantes rondonienses 🔗 | v2 (0.1.3) | ✅ |
 | Aniceto Moscoso (Conselheiro Galvão) | Madureira Esporte Clube 🔗 | v1 | ✅ |
-| Antônio Guimarães de Almeida | Tombense | — | ⏳ v0.1.6 |
-| Aníbal Torres Costa | Hercílio Luz | — | ⏳ v0.1.6 |
+| Antônio Guimarães de Almeida | Tombense 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Aníbal Torres Costa | Hercílio Luz 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | Arena da Amazônia | Amazonas FC / Manauara 🔗 | v1 | ✅ |
-| Arena da Floresta | Independência Futebol Clube (e demais mandantes estaduais) 🔗 | v3 (0.1.6) | ✅ · ⏳ versão nova na v0.1.6 |
+| Arena da Floresta | Independência Futebol Clube (e demais mandantes estaduais) 🔗 | v3 (0.1.6) | 🧪 falta testar em jogo |
 | Arena das Dunas | ABC / América de Natal 🔗 | v3 (0.1.5) | ✅ |
 | Arena Inamar (José Batista Pereira Fernandes) | Esporte Clube Água Santa 🔗 | v1 | ✅ |
 | Arena Joinville | Joinville Esporte Clube (JEC) 🔗 | v1 | ✅ |
 | Bento Mendes de Freitas | Grêmio Esportivo Brasil (Brasil de Pelotas) 🔗 | v1 | ✅ |
-| Boca do Lobo | Pelotas | — | ⏳ v0.1.6 |
+| Boca do Lobo | Pelotas 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | Centro Esportivo Dirceu Mendes Arcoverde | Parnahyba Sport Club 🔗 | v2 (0.1.6) | ✅ |
 | Complexo Esportivo da Família | Blumenau Esporte Clube (BEC) / SESI Bernardo Wolfgang Werner 🔗 | v1 | ✅ |
-| Conde Rodolfo Crespi | Juventus (SP) | — | ⏳ v0.1.6 |
-| Costa Rodrigues | Pinheiro | — | ⏳ v0.1.6 |
-| do Trabalhador | Resende / Pérolas Negras | — | ⏳ v0.1.6 |
+| Conde Rodolfo Crespi | Juventus (SP) 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Costa Rodrigues | Pinheiro 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| do Trabalhador | Resende / Pérolas Negras 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | do Vale | Esporte Clube Novo Hamburgo 🔗 | v1 (0.1.6) | ✅ |
 | Domingos Silveira Gonzales | a conferir 🔗 | v1 | ✅ |
-| dos Eucaliptos | Avenida | — | ⏳ v0.1.6 |
+| dos Eucaliptos | Avenida 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | Doutor Alfredo de Castilho (Alfredão) | Esporte Clube Noroeste 🔗 | v2 (0.1.5) | ✅ |
 | Doutor Hercílio Luz | Clube Náutico Marcílio Dias (também Barra em alguns jogos) 🔗 | v1 | ✅ |
 | Doutor Oswaldo Teixeira Duarte (Canindé) | Portuguesa 🔗 | v2 (0.1.3) | ✅ |
 | Durival Britto e Silva (Vila Capanema) | Paraná 🔗 | v2 (0.1.5) | ✅ |
-| Dutrinha | Operário VG | — | ⏳ v0.1.6 |
-| Elcyr Resende de Mendonça | Boavista e Audax Rio | — | ⏳ v0.1.6 |
+| Elcyr Resende de Mendonça | Boavista e Audax Rio 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | Elmo Serejo Farias (Serejão) | Brasiliense 🔗 | v1 | ✅ |
 | Estadual Kleber José de Andrade | Rio Branco Atlético Clube (ES) 🔗 | v1 | ✅ |
 | Estrela D'Alva | Guarany Futebol Clube 🔗 | v1 | ✅ |
-| Estádio Municipal Cilmar Pedro Goergen | São Joseense | — | ⏳ v0.1.6 |
 | Feliciano Belmont; oficialmente Municipal Felipe Raulino (CBF) | Associação Atlética de Altos 🔗 | v1 | ✅ |
-| Flamarion Vasconcelos | São Raimundo-RR (também GAS, Progresso-RR e River-RR no jogo) | — | ⏳ v0.1.6 |
-| Francisco Antônio da Costa | Potiguar de Mossoró | — | ⏳ v0.1.6 |
+| Flamarion Vasconcelos | São Raimundo-RR (também GAS, Progresso-RR e River-RR no jogo) 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Francisco Antônio da Costa | Potiguar de Mossoró 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | Francisco Novelletto Neto (Passo D'Areia) | Esporte Clube São José 🔗 | v1 | ✅ |
 | Francisco Vasques | Tuna Luso Brasileira 🔗 | v2 (0.1.3) | ✅ |
 | Genervino Evangelista da Fonseca | CRAC 🔗 | v1 | ✅ |
-| Gilberto Mestrinho | Princesa do Solimões | — | ⏳ v0.1.6 |
 | Giulite Coutinho | America Football Club (RJ) 🔗 | v1 | ✅ |
 | Governador Alberto Tavares Silva (Albertão) | Piauí / Fluminense-PI / River (Teresina) 🔗 | v1 | ✅ |
 | Governador Ernani Sátyro (Amigão) | Treze / Campinense 🔗 | v4 (0.1.5) | ✅ |
-| Ismael Benigno | São Raimundo-AM | — | ⏳ v0.1.6 |
+| Ismael Benigno | São Raimundo-AM 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | Joaquim Henrique Nogueira | Democrata Futebol Clube (Democrata/SL) 🔗 | v1 | ✅ |
 | José Mammoud Abbas | Esporte Clube Democrata 🔗 | v1 | ✅ |
 | José Nazareno do Nascimento (Nazarenão) | Laguna (RN) 🔗 | v1 | ✅ |
@@ -174,68 +214,71 @@
 | Lourival Gomes de Almeida (Lourivalzão) | Sampaio Corrêa Futebol e Esporte 🔗 | v1 | ✅ |
 | Luiz José de Lacerda (Lacerdão) | Central Sport Club 🔗 | v1 | ✅ |
 | Luso-Brasileiro | Associação Atlética Portuguesa (RJ) 🔗 | v1 | ✅ |
-| Manoel Dantas Barretto (Barrettão) | Globo Futebol Clube | — | ⏳ v0.1.6 |
+| Manoel Dantas Barretto (Barrettão) | Globo Futebol Clube 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | Maria de Lourdes Abadia (Abadião) | Ceilândia Esporte Clube 🔗 | v1 | ✅ |
 | Maria Lamas Farache (Frasqueirão) | ABC Futebol Clube 🔗 | v2 (0.1.3) | ✅ |
 | Milton de Souza Corrêa (Zerão) | Independente / Trem (Amapá) 🔗 | v3 (0.1.6) | ✅ |
 | Municipal Annibal Batista de Toledo | Associação Atlética Aparecidense 🔗 | v2 (0.1.3) | ✅ |
 | Municipal Antônio Carlos Magalhães (Agnaldo Bento dos Santos) | Porto Sport Club 🔗 | v1 | ✅ |
 | Municipal Antônio de Figueiredo Carneiro (Carneirão) | Atlético de Alagoinhas 🔗 | v1 | ✅ |
-| Municipal Antônio Dias (Navegantão) | Independente Atlético Clube | — | ⏳ v0.1.6 |
+| Municipal Antônio Dias (Navegantão) | Independente Atlético Clube 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | Municipal Antônio Moreno de Mello (Morenão / Morony Furtado) | Associação Desportiva Iguatu 🔗 | v1 | ✅ |
 | Municipal Antônio Santo Renosto (Cerradão) | Primavera Atlético Clube 🔗 | v1 | ✅ |
 | Municipal Barão da Serra Negra | XV de Piracicaba 🔗 | v1 | ✅ |
 | Municipal Benito Agnelo Castellano | AE Velo Clube Rioclarense 🔗 | v2 (0.1.6) | ✅ |
 | Municipal Bruno José Daniel (Brunão) | Esporte Clube Santo André 🔗 | v1 (0.1.6) | ✅ |
-| Municipal Castor Cifuentes | Villa Nova Atlético Clube e Itabirito | — | ⏳ v0.1.6 |
+| Municipal Castor Cifuentes | Villa Nova Atlético Clube e Itabirito 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Municipal Cilmar Pedro Goergen | Independente Futebol São Joseense / Araucária 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | Municipal Coaracy da Mata Fonseca (Fumeirão) | Agremiação Sportiva Arapiraquense 🔗 | v1 | ✅ |
-| Municipal Colosso do Tapajós | São Francisco (PA) e São Raimundo (PA) | — | ⏳ v0.1.6 |
+| Municipal Colosso do Tapajós | São Francisco (PA) e São Raimundo (PA) 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | Municipal Divino Garcia Rosa (Divinão) | Goiatuba Esporte Clube 🔗 | v1 | ✅ |
-| Municipal Domício da Silva | Santa Cruz de Natal | — | ⏳ v0.1.6 |
-| Municipal Doutor Augusto Schmidt Filho | Rio Claro Futebol Clube | — | ⏳ v0.1.6 |
-| Municipal Dr. Alfredo Leahy | Penedense | — | ⏳ v0.1.6 |
+| Municipal Domício da Silva | Santa Cruz de Natal 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Municipal Doutor Augusto Schmidt Filho | Rio Claro Futebol Clube 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Municipal Dr. Alfredo Leahy | Penedense 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | Municipal Eliel Martins (Valfredão) | Esporte Clube Jacuipense 🔗 | v1 | ✅ |
 | Municipal Engenheiro Luthero Lopes | União Esporte Clube (Rondonópolis) 🔗 | v1 | ✅ |
 | Municipal Frei Epifânio D'Abadia | Sociedade Imperatriz de Desportos 🔗 | v1 | ✅ |
 | Municipal Governador Antônio Mariz | Sousa Esporte Clube (administrador) 🔗 | v1 | ✅ |
 | Municipal Irmão Gino Maria Rossi (Manduzão) | Pouso Alegre Futebol Clube 🔗 | v1 | ✅ |
-| Municipal João Lamego Netto | Ipatinga | — | ⏳ v0.1.6 |
+| Municipal João Lamego Netto | Ipatinga 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | Municipal João Saldanha | Maricá Futebol Clube 🔗 | v1 | ✅ |
 | Municipal João Saldanha | a conferir (série D — Guaporé manda no Cassolão) ➖ | v1 | ✅ |
 | Municipal Juca Sampaio | Clube Sociedade Esportiva (CSE) 🔗 | v1 | ✅ |
 | Municipal Luiz Benedito (ABECAT Ouvidor) | ABECAT Ouvidorense 🔗 | v1 | ✅ |
 | Municipal Luiz Saraiva Vieira (Saraivão) | Ivinhema Futebol Clube 🔗 | v1 | ✅ |
-| Municipal Maximino Porpino Filho («Modelão») | Castanhal Esporte Clube | — | ⏳ v0.1.6 |
+| Municipal Maximino Porpino Filho («Modelão») | Castanhal Esporte Clube 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | Municipal Nhozinho Santos | Sampaio Corrêa, Maranhão, Moto Club 🔗 | v1 | ✅ |
 | Municipal Olímpico Albino Turbay | Cianorte Futebol Clube 🔗 | v1 | ✅ |
 | Municipal Orfelino Martins Valente (Parque do Bacurau) | Cametá Sport Club 🔗 | v2 (0.1.6) | ✅ |
 | Municipal Passo das Emas | Luverdense 🔗 | v1 | ✅ |
-| Municipal Valdemar Viana de Araújo (Vianão) | Afogados da Ingazeira | — | ⏳ v0.1.6 |
+| Municipal Valdeir José de Oliveira | Goianésia 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Municipal Valdemar Viana de Araújo (Vianão) | Afogados da Ingazeira 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Municipal Valdir Doilho Wons | Nova Mutum Esporte Clube 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | Municipal Vereador Benedito Laurindo de Souza (Dito Souza) | Clube Esportivo Operário Várzea-Grandense 🔗 | v1 | ✅ |
-| Municipal Walter Ribeiro | São Bento | — | ⏳ v0.1.6 |
+| Municipal Walter Ribeiro | São Bento 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | Municipal Zinho de Oliveira | Águia de Marabá Futebol Clube 🔗 | v3 (0.1.5) | ✅ |
-| Mário Pessoa | Barcelona de Ilhéus | — | ⏳ v0.1.6 |
+| Mário Pessoa | Barcelona de Ilhéus 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | Nacional Mané Garrincha (Arena BRB) | Brasília FC / Capital-DF 🔗 | v1 | ✅ |
-| Nelson Medrado Dias | Rio Branco-PR | — | ⏳ v0.1.6 |
-| Olímpico de Goiânia | Goiânia | — | ⏳ v0.1.6 |
+| Nelson Medrado Dias | Rio Branco-PR 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Olímpico Municipal Gilberto Mestrinho | Princesa do Solimões 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Olímpico Pedro Ludovico Teixeira | Goiânia 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | Olímpico Regional Jacy Miguel Scanagatta | Futebol Clube Cascavel 🔗 | v1 | ✅ |
 | Os Pioneiros (nome CBF; casa do São Joseense: Pinhão) | a conferir 🔗 | v1 | ✅ |
 | Parque do Sabiá | Uberlândia 🔗 | v1 | ✅ |
-| Parque Esportivo Montanha dos Vinhedos (Estádio Darcy Pozza) | Esportivo | — | ⏳ v0.1.6 |
+| Parque Esportivo Montanha dos Vinhedos (Estádio Darcy Pozza) | Esportivo 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | Paulo Barreto de Menezes | Lagarto Futebol Clube 🔗 | v1 | ✅ |
-| Prefeito Almir Dutra | Maracanã Esporte Clube | — | ⏳ v0.1.6 |
+| Prefeito Almir Dutra | Maracanã Esporte Clube 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Presidente Eurico Gaspar Dutra | Operário VG e Ação 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | Presidente Vargas | Ferroviário Atlético Clube (CE) 🔗 | v1 | ✅ |
-| Proletário Guilherme da Silveira | Bangu Atlético Clube | — | ⏳ v0.1.6 |
+| Proletário Guilherme da Silveira | Bangu Atlético Clube 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | Raimundo Ribeiro de Souza (Ribeirão) | Monte Roraima Futebol Clube 🔗 | v1 | ✅ |
 | Salvador Venâncio da Costa | Vitória (ES) 🔗 | v1 | ✅ |
 | Soares de Azevedo | Nacional Atlético Clube; Tombense Futebol Clube (uso) 🔗 | v1 | ✅ |
-| São Benedito (Diogão) | Bragantino (PA) | — | ⏳ v0.1.6 |
-| Ulrico Mursa | Associação Atlética Portuguesa (Santos) | — | ⏳ v0.1.6 |
+| São Benedito (Diogão) | Bragantino (PA) 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Ulrico Mursa | Associação Atlética Portuguesa (Santos) 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | Universitário Pedro Pedrossian (Morenão) | Operário-MS / Comercial (Campo Grande) 🔗 | v1 | ✅ |
-| Valdeir José de Oliveira | Goianésia | — | ⏳ v0.1.6 |
-| Valdir Doilho Wons | Nova Mutum | — | ⏳ v0.1.6 |
 | Valmir Campelo Bezerra (Bezerrão) | Sociedade Esportiva do Gama 🔗 | v1 | ✅ |
-| Waldomiro Borges | Jequié | — | ⏳ v0.1.6 |
+| Waldomiro Borges | Jequié 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | Zico Brandão (Zeca Melo) | Inhumas Esporte Clube 🔗 | v1 | ✅ |
 
 ## Rio de Janeiro — Carioca (1)
@@ -255,10 +298,10 @@
 
 | Estádio | Clube | Versão | Situação |
 |---|---|---|---|
-| El Cilindro | Racing Club | — | ⏳ v0.1.6 |
-| Estadio Centenario | Uruguai (seleção) | — | ⏳ v0.1.6 |
-| La Bombonera | Boca Juniors | — | ⏳ v0.1.6 |
-| Más Monumental | River Plate | — | ⏳ v0.1.6 |
+| Estadio Alberto J. Armando (La Bombonera) | Boca Juniors 🔗 | v1 (0.1.6) | ✅ |
+| Estadio Centenario | Uruguai (seleção) 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Estadio Más Monumental Antonio Vespucio Liberti | River Plate 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Estadio Presidente Juan Domingo Perón | Racing Club 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 
 ## Série E (32 de 110 clubes com estádio)
 
