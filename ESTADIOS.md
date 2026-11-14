@@ -7,6 +7,7 @@
 - 🚫 não aprovado (vai no pacote, mas tapa o gramado)
 - ⏳ em produção: chega na v0.1.6
 - ❌ ainda não existe (o jogo usa o estádio padrão)
+- 🔜 prometido: vem nas próximas versões
 - 🔗 clube ligado
 - ➖ sem clube nesta versão (o jogo usa o estádio padrão)
 - **Versão:** v1 é o estádio como saiu; cada mudança sobe a versão (entre parênteses, a release em que mudou)
@@ -326,6 +327,125 @@
 | Estadio Centenario | Uruguai (seleção) 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
 | Estadio Más Monumental Antonio Vespucio Liberti | River Plate 🔗 | v1 (0.1.6) | ✅ |
 | Estadio Presidente Juan Domingo Perón | Racing Club 🔗 | v1 (0.1.6) | ✅ |
+
+## 🔜 Premier League (2 de 20 prontos)
+
+| Estádio | Clube | Situação |
+|---|---|---|
+| Emirates Stadium | Arsenal | ✅ |
+| Villa Park | Aston Villa | 🔜 |
+| Vitality Stadium | Bournemouth | 🔜 |
+| Gtech Community Stadium | Brentford | 🔜 |
+| Amex Stadium | Brighton | 🔜 |
+| Turf Moor | Burnley | 🔜 |
+| Stamford Bridge | Chelsea | ✅ |
+| Selhurst Park | Crystal Palace | 🔜 |
+| Hill Dickinson Stadium | Everton | 🔜 |
+| Craven Cottage | Fulham | 🔜 |
+| Elland Road | Leeds United | 🔜 |
+| Anfield | Liverpool | 🔜 |
+| Etihad Stadium | Manchester City | 🔜 |
+| Old Trafford | Manchester United | 🔜 |
+| St James' Park | Newcastle United | 🔜 |
+| City Ground | Nottingham Forest | 🔜 |
+| Stadium of Light | Sunderland | 🔜 |
+| Tottenham Hotspur Stadium | Tottenham | 🔜 |
+| London Stadium | West Ham United | 🔜 |
+| Molineux | Wolverhampton | 🔜 |
+
+## 🔜 La Liga (0 de 20 prontos)
+
+| Estádio | Clube | Situação |
+|---|---|---|
+| Mendizorroza | Alavés | 🔜 |
+| San Mamés | Athletic Club | 🔜 |
+| Riyadh Air Metropolitano | Atlético de Madrid | 🔜 |
+| Spotify Camp Nou | Barcelona | 🔜 |
+| Balaídos | Celta de Vigo | 🔜 |
+| Martínez Valero | Elche | 🔜 |
+| RCDE Stadium | Espanyol | 🔜 |
+| Coliseum | Getafe | 🔜 |
+| Montilivi | Girona | 🔜 |
+| Ciutat de València | Levante | 🔜 |
+| Son Moix | Mallorca | 🔜 |
+| El Sadar | Osasuna | 🔜 |
+| Vallecas | Rayo Vallecano | 🔜 |
+| Benito Villamarín | Real Betis | 🔜 |
+| Santiago Bernabéu | Real Madrid | 🔜 |
+| Carlos Tartiere | Real Oviedo | 🔜 |
+| Anoeta (Reale Arena) | Real Sociedad | 🔜 |
+| Ramón Sánchez-Pizjuán | Sevilla | 🔜 |
+| Mestalla | Valencia | 🔜 |
+| Estadio de la Cerámica | Villarreal | 🔜 |
+
+## 🔜 Argentina — Liga Profesional (3 de 30 prontos)
+
+| Estádio | Clube | Situação |
+|---|---|---|
+| José María Minella | Aldosivi | 🔜 |
+| Diego Armando Maradona | Argentinos Juniors | 🔜 |
+| Monumental José Fierro | Atlético Tucumán | 🔜 |
+| Florencio Sola | Banfield | 🔜 |
+| Claudio Chiqui Tapia | Barracas Central | 🔜 |
+| Julio César Villagra (Gigante de Alberdi) | Belgrano | 🔜 |
+| Alberto J. Armando (La Bombonera) | Boca Juniors | ✅ |
+| Único Madre de Ciudades | Central Córdoba (SdE) | 🔜 |
+| Norberto Tomaghello | Defensa y Justicia | 🔜 |
+| Jorge Luis Hirschi (UNO) | Estudiantes de La Plata | 🔜 |
+| Juan Carmelo Zerillo (El Bosque) | Gimnasia y Esgrima La Plata | 🔜 |
+| Malvinas Argentinas | Godoy Cruz | 🔜 |
+| Tomás Adolfo Ducó | Huracán | 🔜 |
+| Libertadores de América - Ricardo Enrique Bochini | Independiente | 🔜 |
+| Bautista Gargantini | Independiente Rivadavia | 🔜 |
+| Juan Domingo Perón (Alta Córdoba) | Instituto | 🔜 |
+| Ciudad de Lanús - Néstor Díaz Pérez | Lanús | 🔜 |
+| Marcelo Bielsa | Newell's Old Boys | 🔜 |
+| Ciudad de Vicente López | Platense | 🔜 |
+| Presidente Perón (El Cilindro) | Racing Club | ✅ |
+| Guillermo Laza | Deportivo Riestra | 🔜 |
+| Más Monumental | River Plate | ✅ |
+| Gigante de Arroyito | Rosario Central | 🔜 |
+| Pedro Bidegain (Nuevo Gasómetro) | San Lorenzo | 🔜 |
+| Hilario Sánchez | San Martín de San Juan | 🔜 |
+| Eva Perón | Sarmiento | 🔜 |
+| Mario Alberto Kempes | Talleres | 🔜 |
+| José Dellagiovanna | Tigre | 🔜 |
+| 15 de Abril | Unión de Santa Fe | 🔜 |
+| José Amalfitani | Vélez Sarsfield | 🔜 |
+
+## 🔜 Uruguai — Primera División (1 de 14 prontos)
+
+| Estádio | Clube | Situação |
+|---|---|---|
+| Estadio Centenario | Seleção e clássicos | ✅ |
+| Campeón del Siglo | Peñarol | 🔜 |
+| Gran Parque Central | Nacional | 🔜 |
+| Luis Franzini | Defensor Sporting | 🔜 |
+| Jardines del Hipódromo | Danubio | 🔜 |
+| Belvedere | Liverpool (URU) | 🔜 |
+| Parque Alfredo Víctor Viera | Montevideo Wanderers | 🔜 |
+| Parque Federico Omar Saroldi | River Plate (URU) | 🔜 |
+| Osvaldo Roberto | Racing (URU) | 🔜 |
+| Luis Tróccoli | Cerro | 🔜 |
+| Parque Abraham Paladino | Progreso | 🔜 |
+| Parque Artigas (Las Piedras) | Juventud | 🔜 |
+| Arquitecto Antonio Eleuterio Ubilla | Cerro Largo | 🔜 |
+| Parque Prandi | Plaza Colonia | 🔜 |
+
+## 🔜 América do Sul — principais clubes (0 de 10 prontos)
+
+| Estádio | Clube | Situação |
+|---|---|---|
+| Monumental David Arellano | Colo-Colo (CHI) | 🔜 |
+| Nacional Julio Martínez Prádanos | Universidad de Chile (CHI) | 🔜 |
+| Defensores del Chaco | Olimpia (PAR) | 🔜 |
+| General Pablo Rojas (La Nueva Olla) | Cerro Porteño (PAR) | 🔜 |
+| Rodrigo Paz Delgado | LDU Quito (EQU) | 🔜 |
+| Monumental Banco Pichincha | Barcelona SC (EQU) | 🔜 |
+| Atanasio Girardot | Atlético Nacional (COL) | 🔜 |
+| Nemesio Camacho El Campín | Millonarios (COL) | 🔜 |
+| Monumental de Lima | Universitario (PER) | 🔜 |
+| Alejandro Villanueva (Matute) | Alianza Lima (PER) | 🔜 |
 
 ## Série E (32 de 110 clubes com estádio)
 
