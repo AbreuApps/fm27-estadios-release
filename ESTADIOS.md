@@ -31,7 +31,7 @@
 | Cícero Pompeu de Toledo | São Paulo Futebol Clube | v2 (0.1.6) | refeito no fluxo novo: tigela oval vermelha de altura igual em volta (inferior, faixa escura e superior com escadas, vomitórios e blocos rosados), pista com ondas preta, branca e vermelha atrás dos gols, grades de luz sobre mastros nos cantos, telões nos fundos e fachada em faixas com o letreiro na curva norte; top = oeste (a v1 tinha leste) |
 | Doutor Jorge Ismael de Biasi | Grêmio Novorizontino | v2 (0.1.6) | refeito no fluxo novo: social coberta só em 52 m com cabines, teto alto e prédio amarelo e preto atrás; oposta em blocos amarelos e pretos com a cara de tigre e escudos; fundo SE alto de cadeiras brancas, fundo NO baixo, cantos do NE em curva com listras de tigre |
 | Eládio de Barros Carvalho (Aflitos) | Clube Náutico Capibaribe | v2 (0.1.6) | refeito no padrão dos modelos de perfeição: Vermelho (leste) de frente para a TV com CNC, NÁUTICO com acento, 1901 e listras em V nos degraus; Social (oeste) coberta por teto alto em segmentos com nervuras, que segue pelos cantos; curvas vermelhas salpicadas de branco; HEXA É LUXO por fora da curva sul; torres de apartamentos coladas, piscina e oito torres de luz |
-| Emirates Stadium | Arsenal | v2 (0.1.6) | escudo do clube em relevo no meio dos murais; na 0.1.5: estádio novo (Arsenal), feito pelo pipeline local |
+| Emirates Stadium | Arsenal | v3 (0.1.6) | refeito no fluxo novo: no fluxo novo: tigela vermelha fechada em quatro faixas (Club Level de frente branca e camarotes escuros), teto oval branco com faixa translúcida e quatro treliças em cerquilha sobre tripés, relógio do Clock End e fachada de vidro com murais vermelhos e escudo |
 | Germano Krüger | Operário Ferroviário | v2 (0.1.6) | refeito no padrão dos modelos de perfeição: lados trocados (a Plaza de frente para a TV); Plaza coberta no meio-norte do oeste com térreo de vidro, cadeiras pretas com OFEC branco, escadas amarelas, cabines e teto alto claro por cima e preto por baixo com ARENA ESPACO SMART e refletores na beira; tribuna baixa com camarotes envidraçados ao sul; Prata de concreto emendada pela curva larga do SE ao fundo sul com alambrado e faixas; norte baixo (Tobogã demolido); quatro torres de luz, piscina, prédios, casas e o pátio ferroviário |
 | Governador Magalhães Pinto | Cruzeiro | v2 (0.1.6) | refeito no fluxo novo: refeita, elipse de dois anéis com camarotes, 88 pórticos inclinados com costelas sobre o teto, anel de placas solares e membrana branca lisa, telões nos fundos, Mineirinho e Lagoa no entorno |
 | Governador Plácido Castelo (Arena Castelão) | Fortaleza / Ceará | v2 (0.1.6) | refeito no padrão dos modelos de perfeição: dois anéis com camarotes, teto branco alto com faixa translúcida, coroa de mastros em arco de treliça, pele escura, telões nos fundos |
@@ -316,7 +316,7 @@
 
 | Estádio | Clube | Versão | Situação |
 |---|---|---|---|
-| Emirates Stadium | Arsenal 🔗 | v2 (0.1.6) | ✅ · ⏳ versão nova na v0.1.6 |
+| Emirates Stadium | Arsenal 🔗 | v3 (0.1.6) | ✅ |
 | Stamford Bridge | Chelsea 🔗 | v1 (0.1.6) | ✅ · ⏳ versão nova na v0.1.6 |
 
 ## América do Sul — Libertadores (4)
