@@ -12,7 +12,7 @@
 - ➖ sem clube nesta versão (o jogo usa o estádio padrão)
 - **Versão:** v1 é o estádio como saiu; cada mudança sobe a versão (entre parênteses, a release em que mudou)
 
-## 🔄 Atualizados na v0.1.6 ⏳ (ainda não publicada) (45)
+## 🔄 Atualizados na v0.1.6 ⏳ (ainda não publicada) (46)
 
 | Estádio | Clube | Versão | O que mudou |
 |---|---|---|---|
@@ -59,10 +59,11 @@
 | Onésio Brasileiro Alvarenga (OBA) | Vila Nova | v2 (0.1.6) | refeito no padrão dos modelos de perfeição: ferradura sem pista, leste descoberto com VILA NOVA F.C. nas cadeiras vermelhas, tobogã sul com o 12, teto só no meio do oeste (dúvidas: o 12 pode ser no fim do leste; teto do oeste ~46 m) |
 | Rei Pelé | CSA / CRB | v3 (0.1.6) | refeito no fluxo novo: em D com o eixo certo: curva funda no oeste e fundos sob a marquise escura de placas dobradas com mastros laranja, fachada de pilares brancos inclinados, leste descoberto com faixas azuis e vermelhas, seis mastros brancos e o ginásio atrás |
 | Santa Cruz | Botafogo-SP | v3 (0.1.6) | refeito no fluxo novo: refeita pelas fotos de 2024-2026: tigela oval funda em volta da pista, Arena Nicnet Eurobike no leste (cadeiras tricolores, camarotes e teto claro largo, vista da TV), oeste com telhado dobrado de tijolo, curvas com escadas amarelas |
+| Stamford Bridge | Chelsea | v2 (0.1.6) | refeito no fluxo novo: tetos refeitos pelas fotos: West em chapa translúcida clara com costelas brancas, faixa opaca no fundo e testeira branca com filete azul, Shed End e Matthew Harding em chapa cinza, cantos mais baixos em chapa cinza-escura com vigas azuis radiais, East com 8 módulos verde-claros sob a treliça branca e diagonais azuis na beira; interior com CHELSEA igual |
 | Urbano Caldeira | Santos Futebol Clube | v2 (0.1.6) | refeito no fluxo novo: lados corrigidos (a TV agora mostra o SE de dois lances com SANTOS nas cadeiras e trilho de luz no teto; social com SFC e prédio do clube atrás da câmera), placar preto no fundo NNE, fundo SSO coberto, cantos curvos fechados e muro branco com faixas pretas de janela |
 | Vitorino Gonçalves Dias (VGD) | Londrina | v2 (0.1.6) | refeito no padrão dos modelos de perfeição: coberta oeste no top com teto branco alto, leste funda no bottom, curva sul com abertura no escanteio SE, norte aberto com tenda, sede e portal, Moringão (padrão ginasio_redondo) a sudeste (dúvidas: chave, o Londrina tem o VGD no jogo como estádio 352323752 e o Café usa club:900678; só 2 das 4 torres no render) |
 
-## 🆕 Novos na v0.1.6 ⏳ (ainda não publicada) (44)
+## 🆕 Novos na v0.1.6 ⏳ (ainda não publicada) (43)
 
 | Estádio | Clube |
 |---|---|
@@ -106,7 +107,6 @@
 | Prefeito Almir Dutra | Maracanã Esporte Clube |
 | Presidente Eurico Gaspar Dutra | Operário VG e Ação |
 | Proletário Guilherme da Silveira | Bangu Atlético Clube |
-| Stamford Bridge | Chelsea |
 | São Benedito (Diogão) | Bragantino (PA) |
 | Ulrico Mursa | Associação Atlética Portuguesa (Santos) |
 | Waldomiro Borges | Jequié |
@@ -317,7 +317,7 @@
 | Estádio | Clube | Versão | Situação |
 |---|---|---|---|
 | Emirates Stadium | Arsenal 🔗 | v3 (0.1.6) | ✅ |
-| Stamford Bridge | Chelsea 🔗 | v1 (0.1.6) | ✅ · ⏳ versão nova na v0.1.6 |
+| Stamford Bridge | Chelsea 🔗 | v2 (0.1.6) | ✅ |
 
 ## América do Sul — Libertadores (4)
 
