@@ -11,7 +11,7 @@
 - ➖ sem clube nesta versão (o jogo usa o estádio padrão)
 - **Versão:** v1 é o estádio como saiu; cada mudança sobe a versão (entre parênteses, a release em que mudou)
 
-## 🔄 Atualizados na v0.1.6 ⏳ (ainda não publicada) (44)
+## 🔄 Atualizados na v0.1.6 ⏳ (ainda não publicada) (45)
 
 | Estádio | Clube | Versão | O que mudou |
 |---|---|---|---|
@@ -38,9 +38,10 @@
 | Heriberto Hülse | Criciúma | v3 (0.1.6) | refeito no fluxo novo: com planta medida (gramado longo, octógono chanfrado), teto cinza-claro que cai para a fachada branca de base amarela e preta, blocos amarelo/branco com escadas pretas, social com miolo de cadeiras pretas e CRICIÚMA ESPORTE CLUBE, telões nos fundos e ginásio Colombo Salles colado no fundo sudoeste |
 | Joaquim Portugal (Arena Sicredi) | Athletic Club (Minas Gerais) | v5 (0.1.6) | refeito no fluxo novo: pela zenital de 2025: fundo oeste alto de degraus terracota com barras vermelhas, dois blocos terracota na metade leste do norte, fita preta coberta no sul (a TV mostra) com testeira de placas e a estrutura dos bancos com o lema, fita preta do visitante no leste e quatro torres de treliça |
 | Jornalista Mário Filho | Flamengo / Fluminense | v3 (0.1.6) | refeito no fluxo novo: refeita no fluxo novo: lona branca em 60 gomos pregueados com cabo em anel, refletores e placas solares, fachada de 1950 em pórticos, dois anéis em mosaico amarelo/azul/azul-claro com camarotes entre eles, rampas, quatro telões e Maracanãzinho ao lado |
+| José do Rego Maciel | Santa Cruz | v2 (0.1.6) | refeito no fluxo novo (modelo de perfeição, vermelho e preto fortes): refeita pelas aéreas e pelo OSM: coberta de concreto em grelha no oeste (top) e no quarto sudoeste (a v1 a punha no leste), anel superior em cunhas vermelhas e pretas com faixas brancas inclinadas, laterais fundas e curvas rasas, pista clara com fosso verde-água, quatro torres treliçadas |
 | José Pinheiro Borda | Sport Club Internacional | v2 (0.1.6) | refeito no fluxo novo: refeita: 65 folhas de membrana branca do chão à beira (vãos em ogiva escuros na fachada, nervuras e treliça na abertura, refletores), dois anéis vermelhos com vomitórios, faixa CLUBE DO POVO DO RIO GRANDE DO SUL de frente para a TV, escudo do Inter nas cadeiras do anel superior, telões nos fundos, garagem, Gigantinho e o Guaíba no entorno |
 | Leônidas Sodré de Castro | Paysandu Sport Club | v2 (0.1.6) | refeito no fluxo novo: pelo satélite certo, com PAYSANDU gigante nas cadeiras azuis da tribuna SE (cabines e teto alto só no trecho SO, lado da câmera), coberta da Av. Almirante Barroso com fachada de painéis azuis e o nome na TV, fundos azul-celeste e cantos NE abertos |
-| Major Antônio Couto Pereira | Coritiba Foot Ball Club | v2 (0.1.6) | refeito no fluxo novo: refeito pela planta do OSM (oval com gramado longo atrás dos gols), Evangelino com CFC em blocos e escadas amarelas, camarotes, teto dobrado e torres PRO TORK na TV, prédio branco da Mauá e curvas de três anéis |
+| Major Antônio Couto Pereira | Coritiba Foot Ball Club | v2 (0.1.6) | refeito no fluxo novo: refeito pela planta do OSM (oval com gramado longo atrás dos gols), Evangelino com CFC em blocos e escadas amarelas, camarotes, teto do Arruda (laje de concreto alta com vigas e claraboias, seguindo a curva até os cantos) e torres PRO TORK na TV, prédio branco da Mauá e curvas de três anéis |
 | Manoel Barradas | Esporte Clube Vitória | v2 (0.1.6) | refeito no fluxo novo: em U escavado no morro com quinas (lateral oeste + 2 fundos), lado leste aberto com a sede e 4 torres de luz, faixas pretas e escadas amarelas, leão preto nos dois fundos e prédio vermelho «ESTÁDIO MANOEL BARRADAS» no alto da lateral |
 | Milton de Souza Corrêa (Zerão) | Independente / Trem (Amapá) | v3 (0.1.6) | sem as caixas lisas do entorno (laje cinza e blocos brancos) atrás do lado aberto |
 | Moisés Lucarelli (Majestoso) | Ponte Preta | v2 (0.1.6) | refeito no padrão dos modelos de perfeição: lados trocados (PONTE PRETA de frente para a TV, social coberta atrás da câmera); fachada art déco no fundo sudoeste com praça, torres, telão e brises; anel de janelas; dois tetos na social; cabines |
@@ -172,7 +173,7 @@
 | General Sylvio Raulino de Oliveira | Volta Redonda Futebol Clube 🔗 | v1 | ✅ |
 | Governador João Castelo | Maranhão AC / Moto Club 🔗 | v1 | ✅ |
 | José Américo de Almeida Filho (Almeidão) | Botafogo-PB 🔗 | v1 | ✅ |
-| José do Rego Maciel (Arruda) | Santa Cruz 🔗 | v1 (0.1.3) | ✅ · ⏳ versão nova na v0.1.6 |
+| José do Rego Maciel | Santa Cruz 🔗 | v2 (0.1.6) | ✅ |
 | Leônidas Sodré de Castro | Paysandu Sport Club 🔗 | v2 (0.1.6) | ✅ |
 | Major José Levy Sobrinho (Limeirão) | Associação Atlética Internacional (Inter de Limeira) 🔗 | v1 | ✅ |
 | Municipal Doutor Novelli Júnior | Ituano Futebol Clube 🔗 | v1 | ✅ |
@@ -314,8 +315,8 @@
 
 | Estádio | Clube | Versão | Situação |
 |---|---|---|---|
-| Emirates Stadium | Arsenal 🔗 | v2 (0.1.6) | ✅ |
-| Stamford Bridge | Chelsea 🔗 | v1 (0.1.6) | ✅ |
+| Emirates Stadium | Arsenal 🔗 | v2 (0.1.6) | ✅ · ⏳ versão nova na v0.1.6 |
+| Stamford Bridge | Chelsea 🔗 | v1 (0.1.6) | ✅ · ⏳ versão nova na v0.1.6 |
 
 ## América do Sul — Libertadores (4)
 
@@ -501,7 +502,7 @@
 | General Sampaio | Interporto | ❌ |
 | Municipal Luiz Saraiva Vieira (Saraivão) | Ivinhema Futebol Clube | ✅ |
 | Edílson Abreu | Izabelense | ❌ |
-| José do Rego Maciel (Arruda) | Jaguar | ✅ |
+| José do Rego Maciel | Jaguar | ✅ |
 | Biancão | Ji-Paraná | ❌ |
 | Arena Joinville | Joinville Esporte Clube (JEC) | ✅ |
 | João Marcatto | Juventus Jaraguá | ❌ |
