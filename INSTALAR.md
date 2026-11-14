@@ -13,7 +13,7 @@
 
 | | Windows | Linux (Steam/Proton) |
 |---|---|---|
-| **Pasta do jogo** (onde está o `fm.exe`) | `C:\Program Files (x86)\Steam\steamapps\common\Football Manager 27\` | `~/.local/share/Steam/steamapps/common/Football Manager 27/` |
+| **Pasta do jogo** (onde está o `fm.exe`) | Steam: `C:\Program Files (x86)\Steam\steamapps\common\Football Manager 27\`<br>Xbox Game Pass: `C:\XboxGames\Football Manager 27\` | `~/.local/share/Steam/steamapps/common/Football Manager 27/` |
 | **Pasta `languages`** | `Documentos\Sports Interactive\Football Manager 27\languages\` | `~/.local/share/Steam/steamapps/compatdata/4530370/pfx/drive_c/users/steamuser/Documents/Sports Interactive/Football Manager 27/languages/` |
 | **Pasta `games`** (saves) | `Documentos\Sports Interactive\Football Manager 27\games\` | mesma de `languages`, trocando `languages` por `games` |
 
@@ -49,6 +49,23 @@ Baixe `FM27-Estadios-BR-<versão>.zip` em [Releases](https://github.com/AbreuApp
 
 ## Passo 3 — Instale (feche o jogo antes)
 
+### Windows: instalador automático
+
+Dê **dois cliques em `instalar.bat`** (na pasta descompactada, ao lado da `TaoMods`). Ele acha o jogo na **Steam ou no
+Xbox Game Pass**, apaga a `TaoMods` antiga em `BepInEx/plugins`, copia a nova e põe o `portuguese_br.ltc` em
+`Documentos\Sports Interactive\Football Manager 27\languages` (cria a pasta se não existir). Se achar mais de um FM27,
+pergunta em qual instalar; se não achar nenhum, pede para você escolher a pasta do `fm.exe` (no Game Pass é a
+`Content`: `C:\XboxGames\Football Manager 27\Content`; o BepInEx também vai nela, os Documentos são iguais aos da Steam).
+
+**Nunca usou mods?** Baixe o `FM27-Estadios-BR-Completo-<versão>.zip` e rode o `instalar.bat` dele: instala também o
+BepInEx 6 (pule o Passo 1). Se o jogo já tiver BepInEx, ele pergunta antes de trocar.
+
+Se o Windows mostrar «O Windows protegeu o computador», clique em *Mais informações* → *Executar assim mesmo*.
+Se der erro, o instalador grava **`erro-instalacao-taomods.txt` na sua Área de Trabalho**: mande esse arquivo numa
+[Issue](https://github.com/AbreuApps/fm27-estadios-release/issues).
+
+### Manual (Linux ou se o instalador falhar)
+
 **Extraia a pasta `TaoMods` dentro de `<pasta do jogo>/BepInEx/plugins/`.** É só isso para instalar os estádios e o plugin da tradução.
 
 ```
@@ -73,9 +90,9 @@ A **primeira abertura com o BepInEx demora vários minutos**. Não feche. Depois
 
 Abra `BepInEx/LogOutput.log` e procure:
 
-- `TaoStadiumMod 0.1.5 (BepInEx 1.1.5)` ✅ o mod dos estádios carregou
+- `Loading [TaoStadiumMod 1.0.0]` ✅ o mod dos estádios carregou
 - `ganchos de peça por tribuna desligados` ✅ é a correção do fechamento no Windows
-- `Skipping [TaoStadiumMod ...]` ou `outra cópia do TaoStadiumMod` ❌ há uma versão antiga sobrando: apague a pasta que o log indicar
+- `rodou o TaoStadiumMod ... (cópia antiga em ...)` ou `outra cópia do TaoStadiumMod` ❌ há uma versão antiga sobrando: apague a pasta que o log indicar
 - `estádio ... receita '...'` e `malha '...'` ✅ o estádio da partida foi aplicado
 - `TraducaoLog` e `DICIONARIO carregado` ✅ a tradução carregou
 
@@ -83,24 +100,21 @@ Abra `BepInEx/LogOutput.log` e procure:
 
 ## ⚠️ Problemas conhecidos
 
-É a v0.1.5. **Novidades desta versão:**
+É a v1.0.0, o **REVAMP**. **Novidades desta versão:**
 
-- 🆕 **2 estádios novos:** Emirates Stadium (Arsenal), o primeiro de fora do Brasil, e Parque do Bacurau (Cametá).
-- 🏟️ **10 estádios atualizados:** Ressacada, Heriberto Hülse e Nubank Parque refeitos (teto alto sobre pilares, fachada em painéis); Vila Capanema com teto plano alto; Alfredão com a pista afinando nos cantos; Alfredo Jaconi, Arena Sicredi e Zinho de Oliveira sem teto na frente da câmera da TV; Arena das Dunas com as aletas do teto encorpadas; Amigão sem pilar no meio da torcida.
-- 🎨 **Todos os estádios:** material fosco (o teto não brilha mais como metal) e concreto em tom sujo, mais perto do real.
-- 🎥 **Câmera:** o estádio não some mais da tela (nem na câmera livre); o teto do lado da câmera some só na câmera da TV.
-- 👥 **Torcida:** tribuna da malha que o jogo deixava com capacidade 0 agora recebe torcida (ex.: tobogã do Serrinha).
-- 🤝 **Mods do BassyBoy (Stadium Injection):** onde ele tem estádio instalado em `plugins/CustomStadium`, o estádio dele vale e o nosso fica de fora; nos outros clubes, vale o nosso.
-- 🇧🇷 **Tradução 1.2.7** junto.
+- 🏟️ **Revamp:** Séries A e B refeitas do zero, mais fiéis ao estádio real.
+- 🆕 **43 estádios novos:** a Série D completa, Bombonera, Más Monumental, El Cilindro, Centenário e mais.
+- 🔄 **46 atualizados**, entre eles Stamford Bridge, Emirates, Maracanã e Couto Pereira.
+- 🖱️ **Instalador automático:** dois cliques no `instalar.bat`; ele acha o jogo sozinho (Steam ou Game Pass).
+- ☕ As próximas versões saem antes no Patreon: <https://patreon.com/taomods>.
 
 Defeitos que ainda conhecemos:
 
-- 👻 **Arquibancada vazia:** Independência, Jorjão (duas), Francisco Vasques.
-- ➖ Sem clube ligado: João Saldanha, Nazarenão, VGD, Carlos Zamith e Parque do Bacurau.
+- ➖ Sem clube ligado: João Saldanha (Guajará-Mirim) e VGD.
 
 ## Instalar só alguns estádios
 
-Não precisa ficar com os 138. Cada estádio é independente. Dentro de `BepInEx/plugins/TaoMods/TaoStadiumMod`:
+Não precisa ficar com os 182. Cada estádio é independente. Dentro de `BepInEx/plugins/TaoMods/TaoStadiumMod`:
 
 - apague de `estadios/` o `<estádio>.json` dos que não quer;
 - apague de `estadios3d/` a pasta com o mesmo nome (`<estádio>/`).
@@ -109,7 +123,8 @@ Apague sempre as duas coisas juntas. Mantenha `TaoStadiumMod.dll` e a pasta `atm
 
 ## Atualizar de uma versão antiga
 
-Apague a pasta `TaoMods` antiga em `BepInEx/plugins` e cole a nova. O save não é afetado. Se existir uma pasta
+No Windows, rode o `instalar.bat` da versão nova (ele troca a `TaoMods` sozinho). À mão: apague a pasta `TaoMods`
+antiga em `BepInEx/plugins` e cole a nova. O save não é afetado. Se existir uma pasta
 `TaoStadiumMod` solta direto em `BepInEx/plugins` (de versões bem antigas, fora de `TaoMods`), apague também.
 
 ## Remover ou desligar

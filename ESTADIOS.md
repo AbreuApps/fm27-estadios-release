@@ -5,65 +5,65 @@
 - 🔧 corrigido, falta testar em jogo
 - ⚠️ funciona, com um defeito (descrito)
 - 🚫 não aprovado (vai no pacote, mas tapa o gramado)
-- ⏳ em produção: chega na v0.1.6
+- ⏳ em produção: chega na v1.0.0
 - ❌ ainda não existe (o jogo usa o estádio padrão)
 - 🔜 prometido: vem nas próximas versões
 - 🔗 clube ligado
 - ➖ sem clube nesta versão (o jogo usa o estádio padrão)
 - **Versão:** v1 é o estádio como saiu; cada mudança sobe a versão (entre parênteses, a release em que mudou)
 
-## 🔄 Atualizados na v0.1.6 ⏳ (ainda não publicada) (46)
+## 🔄 Atualizados na v1.0.0 (46)
 
 | Estádio | Clube | Versão | O que mudou |
 |---|---|---|---|
-| Adelmar da Costa Carvalho (Ilha do Retiro) | Sport Club do Recife | v2 (0.1.6) | refeita no padrão dos modelos de perfeição: oeste coberta em dois lances (vermelho embaixo, muro amarelo com O SPORT QUE EMOCIONA O SPORT QUE A GENTE AMA, cadeiras pretas com SPORT vermelho em cima), camarotes SPORT 37 VEZES CAMPEÃO e teto alto com treliças brancas; frontal, tobogãs e curvas em listras vermelho e preto com borda amarela; telão LED na frontal; curva do Wanderson sob teto branco; letreiro SPORT MAIOR TORCIDA NORTE NORDESTE; torres residenciais e piscinas |
-| Alfredo Jaconi | Esporte Clube Juventude | v4 (0.1.6) | refeito no fluxo novo: com os lados certos (TV no oeste das cabines, leste coberto com a testeira «CAMPEÃO DO BRASIL» e refletores no bottom), cadeiras verdes em módulos no oeste, ferraduras verdes nos dois fundos com curvas claras, mata e placar atrás do norte |
-| Antônio Accioly | Atlético Goianiense | v2 (0.1.6) | refeito no padrão dos modelos de perfeição: quatro fitas separadas de cantos abertos, cada uma com teto alto sobre pilares, treliça branca na beira e treliças radiais por baixo; blocos de cadeiras brancas com escadas vermelhas; Social (oeste) de frente para a TV com tribuna vermelha, camarotes de vidro com parapeito vermelho e muro vermelho e preto; fachada branca entre pilares vermelhos; faixa vermelho-escura em volta do gramado; quatro torres de LED retas atrás dos gols |
-| Arena Condá | Associação Chapecoense de Futebol | v2 (0.1.6) | refeito no fluxo novo: refeita no padrão dos modelos de perfeição: oeste coberto com teto alto claro e treliça verde, cadeiras verdes com blocos brancos e o Índio Condá, cabines de vidro; caixa verde-água de camarotes (2024) sobre o norte e o prédio de 5 andares; leste de concreto com escadas amarelas, escudo e vomitórios |
-| Arena da Baixada | Club Athletico Paranaense | v3 (0.1.6) | refeito no fluxo novo: refeita à mão: caixa retangular de cantos retos com teto plano claro em nervuras e miolo retrátil empilhado no fundo leste, treliças escuras sob o teto, dois anéis cinza com mosaico claro, camarotes com faixa vermelha, LED vermelho e telões nos cantos, fachada prateada com montantes brancos |
-| Arena da Floresta | Independência Futebol Clube (e demais mandantes estaduais) | v3 (0.1.6) | pilares do teto atrás da última fileira (não mais no meio da torcida) e fachada colada na arquibancada, sem peças soltas no gramado |
-| Arena do Grêmio | Grêmio Foot-Ball Porto Alegrense | v2 (0.1.6) | refeito no fluxo novo: tigela de dois anéis com faixa preta de camarotes e Geral cinza no norte, teto branco em anel com faixa translúcida e telões nos fundos, fachada de vidro com brises entre pilares brancos; top passou a oeste (conferir se a Geral fica à esquerda da TV) |
-| Arena Independência (Estádio Raimundo Sampaio) | América Mineiro | v3 (0.1.6) | refeito no fluxo novo: refeito: caixa em U com lados retos em dois lances verdes, teto alto branco com treliça e «AMERICA FUTEBOL CLUBE», torres de vidro nos cantos do fundo Minas, pilones na ponta das laterais e tenda de picos no fundo aberto |
-| Arena MRV | Clube Atlético Mineiro | v2 (0.1.6) | refeita no fluxo novo: casca listrada branca e preta (fachada que vira cobertura, listras em leque nos cantos) com escudo do Galo e «ARENA MRV» na fachada oeste, dois anéis com camarotes, telões nos fundos |
-| Arena Pantanal | Cuiabá | v2 (0.1.6) | refeita no padrão dos modelos de perfeição: teto plano branco em cada módulo, pendurado numa viga-caixão branca sobre pares de torres quadradas nos cantos, telão entre as torres; dois anéis de cadeiras em mosaico de três azuis com camarotes escuros entre eles; pele de tela bronze contínua, baixa nos cantos arredondados, rampa escura por dentro; gramado até o muro azul; esplanada bege e prédios altos de Cuiabá |
-| Casa de Apostas Arena Fonte Nova | Esporte Clube Bahia | v2 (0.1.6) | refeito no fluxo novo: refeito no fluxo novo: três anéis turquesa com faixa de camarotes, vão sul aberto ao Dique (quinas, colunata e telão), teto de membrana com anel de treliça e mastros com cabos; lados trocados (top = oeste, vão à direita da TV; conferir) |
-| Centro Esportivo Dirceu Mendes Arcoverde | Parnahyba Sport Club | v2 (0.1.6) | sem os bancos de reserva dentro do gramado; câmera da TV alta, sem o teto da lateral coberta na frente |
-| Cícero Pompeu de Toledo | São Paulo Futebol Clube | v2 (0.1.6) | refeito no fluxo novo: tigela oval vermelha de altura igual em volta (inferior, faixa escura e superior com escadas, vomitórios e blocos rosados), pista com ondas preta, branca e vermelha atrás dos gols, grades de luz sobre mastros nos cantos, telões nos fundos e fachada em faixas com o letreiro na curva norte; top = oeste (a v1 tinha leste) |
-| Doutor Jorge Ismael de Biasi | Grêmio Novorizontino | v2 (0.1.6) | refeito no fluxo novo: social coberta só em 52 m com cabines, teto alto e prédio amarelo e preto atrás; oposta em blocos amarelos e pretos com a cara de tigre e escudos; fundo SE alto de cadeiras brancas, fundo NO baixo, cantos do NE em curva com listras de tigre |
-| Eládio de Barros Carvalho (Aflitos) | Clube Náutico Capibaribe | v2 (0.1.6) | refeito no padrão dos modelos de perfeição: Vermelho (leste) de frente para a TV com CNC, NÁUTICO com acento, 1901 e listras em V nos degraus; Social (oeste) coberta por teto alto em segmentos com nervuras, que segue pelos cantos; curvas vermelhas salpicadas de branco; HEXA É LUXO por fora da curva sul; torres de apartamentos coladas, piscina e oito torres de luz |
-| Emirates Stadium | Arsenal | v3 (0.1.6) | refeito no fluxo novo: no fluxo novo: tigela vermelha fechada em quatro faixas (Club Level de frente branca e camarotes escuros), teto oval branco com faixa translúcida e quatro treliças em cerquilha sobre tripés, relógio do Clock End e fachada de vidro com murais vermelhos e escudo |
-| Germano Krüger | Operário Ferroviário | v2 (0.1.6) | refeito no padrão dos modelos de perfeição: lados trocados (a Plaza de frente para a TV); Plaza coberta no meio-norte do oeste com térreo de vidro, cadeiras pretas com OFEC branco, escadas amarelas, cabines e teto alto claro por cima e preto por baixo com ARENA ESPACO SMART e refletores na beira; tribuna baixa com camarotes envidraçados ao sul; Prata de concreto emendada pela curva larga do SE ao fundo sul com alambrado e faixas; norte baixo (Tobogã demolido); quatro torres de luz, piscina, prédios, casas e o pátio ferroviário |
-| Governador Magalhães Pinto | Cruzeiro | v2 (0.1.6) | refeito no fluxo novo: refeita, elipse de dois anéis com camarotes, 88 pórticos inclinados com costelas sobre o teto, anel de placas solares e membrana branca lisa, telões nos fundos, Mineirinho e Lagoa no entorno |
-| Governador Plácido Castelo (Arena Castelão) | Fortaleza / Ceará | v2 (0.1.6) | refeito no padrão dos modelos de perfeição: dois anéis com camarotes, teto branco alto com faixa translúcida, coroa de mastros em arco de treliça, pele escura, telões nos fundos |
-| Hailé Pinheiro (Serrinha) | Goiás | v2 (0.1.6) | refeito pelo pipeline local com fotos do usuário: arquibancada principal em dois anéis com passarela e teto fino, tobogã com paredes brancas, prédio do telão no norte |
-| Heriberto Hülse | Criciúma | v3 (0.1.6) | refeito no fluxo novo: com planta medida (gramado longo, octógono chanfrado), teto cinza-claro que cai para a fachada branca de base amarela e preta, blocos amarelo/branco com escadas pretas, social com miolo de cadeiras pretas e CRICIÚMA ESPORTE CLUBE, telões nos fundos e ginásio Colombo Salles colado no fundo sudoeste |
-| Joaquim Portugal (Arena Sicredi) | Athletic Club (Minas Gerais) | v5 (0.1.6) | refeito no fluxo novo: pela zenital de 2025: fundo oeste alto de degraus terracota com barras vermelhas, dois blocos terracota na metade leste do norte, fita preta coberta no sul (a TV mostra) com testeira de placas e a estrutura dos bancos com o lema, fita preta do visitante no leste e quatro torres de treliça |
-| Jornalista Mário Filho | Flamengo / Fluminense | v3 (0.1.6) | refeito no fluxo novo: refeita no fluxo novo: lona branca em 60 gomos pregueados com cabo em anel, refletores e placas solares, fachada de 1950 em pórticos, dois anéis em mosaico amarelo/azul/azul-claro com camarotes entre eles, rampas, quatro telões e Maracanãzinho ao lado |
-| José do Rego Maciel | Santa Cruz | v2 (0.1.6) | refeito no fluxo novo (modelo de perfeição, vermelho e preto fortes): refeita pelas aéreas e pelo OSM: coberta de concreto em grelha no oeste (top) e no quarto sudoeste (a v1 a punha no leste), anel superior em cunhas vermelhas e pretas com faixas brancas inclinadas, laterais fundas e curvas rasas, pista clara com fosso verde-água, quatro torres treliçadas |
-| José Pinheiro Borda | Sport Club Internacional | v2 (0.1.6) | refeito no fluxo novo: refeita: 65 folhas de membrana branca do chão à beira (vãos em ogiva escuros na fachada, nervuras e treliça na abertura, refletores), dois anéis vermelhos com vomitórios, faixa CLUBE DO POVO DO RIO GRANDE DO SUL de frente para a TV, escudo do Inter nas cadeiras do anel superior, telões nos fundos, garagem, Gigantinho e o Guaíba no entorno |
-| Leônidas Sodré de Castro | Paysandu Sport Club | v2 (0.1.6) | refeito no fluxo novo: pelo satélite certo, com PAYSANDU gigante nas cadeiras azuis da tribuna SE (cabines e teto alto só no trecho SO, lado da câmera), coberta da Av. Almirante Barroso com fachada de painéis azuis e o nome na TV, fundos azul-celeste e cantos NE abertos |
-| Major Antônio Couto Pereira | Coritiba Foot Ball Club | v2 (0.1.6) | refeito no fluxo novo: refeito pela planta do OSM (oval com gramado longo atrás dos gols), Evangelino com CFC em blocos e escadas amarelas, camarotes, teto do Arruda (laje de concreto alta com vigas e claraboias, seguindo a curva até os cantos) e torres PRO TORK na TV, prédio branco da Mauá e curvas de três anéis |
-| Manoel Barradas | Esporte Clube Vitória | v2 (0.1.6) | refeito no fluxo novo: em U escavado no morro com quinas (lateral oeste + 2 fundos), lado leste aberto com a sede e 4 torres de luz, faixas pretas e escadas amarelas, leão preto nos dois fundos e prédio vermelho «ESTÁDIO MANOEL BARRADAS» no alto da lateral |
-| Milton de Souza Corrêa (Zerão) | Independente / Trem (Amapá) | v3 (0.1.6) | sem as caixas lisas do entorno (laje cinza e blocos brancos) atrás do lado aberto |
-| Moisés Lucarelli (Majestoso) | Ponte Preta | v2 (0.1.6) | refeito no padrão dos modelos de perfeição: lados trocados (PONTE PRETA de frente para a TV, social coberta atrás da câmera); fachada art déco no fundo sudoeste com praça, torres, telão e brises; anel de janelas; dois tetos na social; cabines |
-| Municipal 1.º de Maio | São Bernardo | v3 (0.1.6) | refeito no fluxo novo: refeito pelo drone de 2026 e pela zenital: social coberta no oeste (top) em blocos amarelo/preto sob prédio de teto cinza, terraço em L no leste (bottom) e no sul com curva preta no NE e curva amarela no SE, norte aberto com painel e quadras (a v3 tinha a coberta no leste) |
-| Municipal Benito Agnelo Castellano | AE Velo Clube Rioclarense | v2 (0.1.6) | sem os bancos de reserva dentro do gramado e sem casas de caixa soltas; camarotes do fundo apoiados no chão |
-| Municipal Cícero de Souza Marques | Red Bull Bragantino | v3 (0.1.6) | refeito no fluxo novo: refeita: abóbada prateada de treliças brancas em arco no sul (a TV mostra), principal de cadeiras vermelhas com camarotes e teto alto no top, fundo leste alto e oeste baixo descobertos |
-| Municipal Jacy Scaff (Estádio do Café) | Londrina Esporte Clube | v2 (0.1.6) | refeito no padrão dos modelos de perfeição: lados pelo satélite (curva no norte, sul aberto), pista inteira, coberta oeste em xadrez azul/vermelho/rosa de frente para a TV com teto alto e testeira da prefeitura, leste azul com escadas amarelas descendo no sudeste, torres treliçadas atrás das laterais |
-| Municipal José Maria de Campos Maia | Mirassol FC | v2 (0.1.6) | refeito no fluxo novo: planta refeita pela foto zenital (fundos com ~24 m de grama), U amarelo com telão no SE, coberta curta com prédio de camarotes e teto alto, e o norte azul fundo embrulhado pela fachada amarela de quadrados com o escudo MFC (2025) |
-| Municipal Orfelino Martins Valente (Parque do Bacurau) | Cametá Sport Club | v2 (0.1.6) | refeito com fotos de jogador: duas arquibancadas frente a frente (uma colorida com alambrado atrás, outra coberta), sem o chão cinza, ligado ao Cametá; na 0.1.5: estádio novo, sem clube |
-| Neo Química Arena | Sport Club Corinthians Paulista | v2 (0.1.6) | refeito no fluxo novo: caixa branca de teto plano com «neo química arena» pintado nas lajes, laterais de dois anéis com camarotes, fundos baixos sob faixa de treliça com telão; câmera no oeste (a v3 tinha no leste) |
-| Nubank Parque | Sociedade Esportiva Palmeiras | v3 (0.1.6) | refeito no fluxo novo: teto agora branco e plano com faixa translúcida e nome pintado, fachada de escamas prateadas com faixas verdes, 8 treliças em arco nos cantos, dois anéis verdes com camarotes, telões nos fundos e placa sobre a piscina |
-| Olímpico do Pará | Paysandu / Clube do Remo (e ESMAC, Sport Belém, Tesla FC no jogo) | v2 (0.1.6) | refeito no fluxo novo: refeito pelo satélite: pista vermelha de 8 raias, dois anéis em degradê azul-branco-vermelho com a bandeira do Pará e a estrela na lateral da TV, laterais fundas e fundos rasos, teto branco em anel com painéis solares e treliça em arco de 2023, telão no norte, fachada azul até o teto (chave também com ESMAC, Sport Belém e Tesla FC, donos do Mangueirão no jogo) |
-| Olímpico Nilton Santos | Botafogo de Futebol e Regatas | v2 (0.1.6) | refeito no fluxo novo: refeito pelo satélite de 2024, pista de 400 m com escudos da estrela atrás dos gols, dois anéis de cadeiras pretas com mosaico no leste, teto branco em anel pendurado nos quatro arcos sobre pilonos de duas colunas |
-| Onésio Brasileiro Alvarenga (OBA) | Vila Nova | v2 (0.1.6) | refeito no padrão dos modelos de perfeição: ferradura sem pista, leste descoberto com VILA NOVA F.C. nas cadeiras vermelhas, tobogã sul com o 12, teto só no meio do oeste (dúvidas: o 12 pode ser no fim do leste; teto do oeste ~46 m) |
-| Rei Pelé | CSA / CRB | v3 (0.1.6) | refeito no fluxo novo: em D com o eixo certo: curva funda no oeste e fundos sob a marquise escura de placas dobradas com mastros laranja, fachada de pilares brancos inclinados, leste descoberto com faixas azuis e vermelhas, seis mastros brancos e o ginásio atrás |
-| Santa Cruz | Botafogo-SP | v3 (0.1.6) | refeito no fluxo novo: refeita pelas fotos de 2024-2026: tigela oval funda em volta da pista, Arena Nicnet Eurobike no leste (cadeiras tricolores, camarotes e teto claro largo, vista da TV), oeste com telhado dobrado de tijolo, curvas com escadas amarelas |
-| Stamford Bridge | Chelsea | v2 (0.1.6) | refeito no fluxo novo: tetos refeitos pelas fotos: West em chapa translúcida clara com costelas brancas, faixa opaca no fundo e testeira branca com filete azul, Shed End e Matthew Harding em chapa cinza, cantos mais baixos em chapa cinza-escura com vigas azuis radiais, East com 8 módulos verde-claros sob a treliça branca e diagonais azuis na beira; interior com CHELSEA igual |
-| Urbano Caldeira | Santos Futebol Clube | v2 (0.1.6) | refeito no fluxo novo: lados corrigidos (a TV agora mostra o SE de dois lances com SANTOS nas cadeiras e trilho de luz no teto; social com SFC e prédio do clube atrás da câmera), placar preto no fundo NNE, fundo SSO coberto, cantos curvos fechados e muro branco com faixas pretas de janela |
-| Vitorino Gonçalves Dias (VGD) | Londrina | v2 (0.1.6) | refeito no padrão dos modelos de perfeição: coberta oeste no top com teto branco alto, leste funda no bottom, curva sul com abertura no escanteio SE, norte aberto com tenda, sede e portal, Moringão (padrão ginasio_redondo) a sudeste (dúvidas: chave, o Londrina tem o VGD no jogo como estádio 352323752 e o Café usa club:900678; só 2 das 4 torres no render) |
+| Adelmar da Costa Carvalho (Ilha do Retiro) | Sport Club do Recife | v2 (1.0.0) | refeita no padrão dos modelos de perfeição: oeste coberta em dois lances (vermelho embaixo, muro amarelo com O SPORT QUE EMOCIONA O SPORT QUE A GENTE AMA, cadeiras pretas com SPORT vermelho em cima), camarotes SPORT 37 VEZES CAMPEÃO e teto alto com treliças brancas; frontal, tobogãs e curvas em listras vermelho e preto com borda amarela; telão LED na frontal; curva do Wanderson sob teto branco; letreiro SPORT MAIOR TORCIDA NORTE NORDESTE; torres residenciais e piscinas |
+| Alfredo Jaconi | Esporte Clube Juventude | v4 (1.0.0) | refeito no fluxo novo: com os lados certos (TV no oeste das cabines, leste coberto com a testeira «CAMPEÃO DO BRASIL» e refletores no bottom), cadeiras verdes em módulos no oeste, ferraduras verdes nos dois fundos com curvas claras, mata e placar atrás do norte |
+| Antônio Accioly | Atlético Goianiense | v2 (1.0.0) | refeito no padrão dos modelos de perfeição: quatro fitas separadas de cantos abertos, cada uma com teto alto sobre pilares, treliça branca na beira e treliças radiais por baixo; blocos de cadeiras brancas com escadas vermelhas; Social (oeste) de frente para a TV com tribuna vermelha, camarotes de vidro com parapeito vermelho e muro vermelho e preto; fachada branca entre pilares vermelhos; faixa vermelho-escura em volta do gramado; quatro torres de LED retas atrás dos gols |
+| Arena Condá | Associação Chapecoense de Futebol | v2 (1.0.0) | refeito no fluxo novo: refeita no padrão dos modelos de perfeição: oeste coberto com teto alto claro e treliça verde, cadeiras verdes com blocos brancos e o Índio Condá, cabines de vidro; caixa verde-água de camarotes (2024) sobre o norte e o prédio de 5 andares; leste de concreto com escadas amarelas, escudo e vomitórios |
+| Arena da Baixada | Club Athletico Paranaense | v3 (1.0.0) | refeito no fluxo novo: refeita à mão: caixa retangular de cantos retos com teto plano claro em nervuras e miolo retrátil empilhado no fundo leste, treliças escuras sob o teto, dois anéis cinza com mosaico claro, camarotes com faixa vermelha, LED vermelho e telões nos cantos, fachada prateada com montantes brancos |
+| Arena da Floresta | Independência Futebol Clube (e demais mandantes estaduais) | v3 (1.0.0) | pilares do teto atrás da última fileira (não mais no meio da torcida) e fachada colada na arquibancada, sem peças soltas no gramado |
+| Arena do Grêmio | Grêmio Foot-Ball Porto Alegrense | v2 (1.0.0) | refeito no fluxo novo: tigela de dois anéis com faixa preta de camarotes e Geral cinza no norte, teto branco em anel com faixa translúcida e telões nos fundos, fachada de vidro com brises entre pilares brancos; top passou a oeste (conferir se a Geral fica à esquerda da TV) |
+| Arena Independência (Estádio Raimundo Sampaio) | América Mineiro | v3 (1.0.0) | refeito no fluxo novo: refeito: caixa em U com lados retos em dois lances verdes, teto alto branco com treliça e «AMERICA FUTEBOL CLUBE», torres de vidro nos cantos do fundo Minas, pilones na ponta das laterais e tenda de picos no fundo aberto |
+| Arena MRV | Clube Atlético Mineiro | v2 (1.0.0) | refeita no fluxo novo: casca listrada branca e preta (fachada que vira cobertura, listras em leque nos cantos) com escudo do Galo e «ARENA MRV» na fachada oeste, dois anéis com camarotes, telões nos fundos |
+| Arena Pantanal | Cuiabá | v2 (1.0.0) | refeita no padrão dos modelos de perfeição: teto plano branco em cada módulo, pendurado numa viga-caixão branca sobre pares de torres quadradas nos cantos, telão entre as torres; dois anéis de cadeiras em mosaico de três azuis com camarotes escuros entre eles; pele de tela bronze contínua, baixa nos cantos arredondados, rampa escura por dentro; gramado até o muro azul; esplanada bege e prédios altos de Cuiabá |
+| Casa de Apostas Arena Fonte Nova | Esporte Clube Bahia | v2 (1.0.0) | refeito no fluxo novo: refeito no fluxo novo: três anéis turquesa com faixa de camarotes, vão sul aberto ao Dique (quinas, colunata e telão), teto de membrana com anel de treliça e mastros com cabos; lados trocados (top = oeste, vão à direita da TV; conferir) |
+| Centro Esportivo Dirceu Mendes Arcoverde | Parnahyba Sport Club | v2 (1.0.0) | sem os bancos de reserva dentro do gramado; câmera da TV alta, sem o teto da lateral coberta na frente |
+| Cícero Pompeu de Toledo | São Paulo Futebol Clube | v2 (1.0.0) | refeito no fluxo novo: tigela oval vermelha de altura igual em volta (inferior, faixa escura e superior com escadas, vomitórios e blocos rosados), pista com ondas preta, branca e vermelha atrás dos gols, grades de luz sobre mastros nos cantos, telões nos fundos e fachada em faixas com o letreiro na curva norte; top = oeste (a v1 tinha leste) |
+| Doutor Jorge Ismael de Biasi | Grêmio Novorizontino | v2 (1.0.0) | refeito no fluxo novo: social coberta só em 52 m com cabines, teto alto e prédio amarelo e preto atrás; oposta em blocos amarelos e pretos com a cara de tigre e escudos; fundo SE alto de cadeiras brancas, fundo NO baixo, cantos do NE em curva com listras de tigre |
+| Eládio de Barros Carvalho (Aflitos) | Clube Náutico Capibaribe | v2 (1.0.0) | refeito no padrão dos modelos de perfeição: Vermelho (leste) de frente para a TV com CNC, NÁUTICO com acento, 1901 e listras em V nos degraus; Social (oeste) coberta por teto alto em segmentos com nervuras, que segue pelos cantos; curvas vermelhas salpicadas de branco; HEXA É LUXO por fora da curva sul; torres de apartamentos coladas, piscina e oito torres de luz |
+| Emirates Stadium | Arsenal | v3 (1.0.0) | refeito no fluxo novo: no fluxo novo: tigela vermelha fechada em quatro faixas (Club Level de frente branca e camarotes escuros), teto oval branco com faixa translúcida e quatro treliças em cerquilha sobre tripés, relógio do Clock End e fachada de vidro com murais vermelhos e escudo |
+| Germano Krüger | Operário Ferroviário | v2 (1.0.0) | refeito no padrão dos modelos de perfeição: lados trocados (a Plaza de frente para a TV); Plaza coberta no meio-norte do oeste com térreo de vidro, cadeiras pretas com OFEC branco, escadas amarelas, cabines e teto alto claro por cima e preto por baixo com ARENA ESPACO SMART e refletores na beira; tribuna baixa com camarotes envidraçados ao sul; Prata de concreto emendada pela curva larga do SE ao fundo sul com alambrado e faixas; norte baixo (Tobogã demolido); quatro torres de luz, piscina, prédios, casas e o pátio ferroviário |
+| Governador Magalhães Pinto | Cruzeiro | v2 (1.0.0) | refeito no fluxo novo: refeita, elipse de dois anéis com camarotes, 88 pórticos inclinados com costelas sobre o teto, anel de placas solares e membrana branca lisa, telões nos fundos, Mineirinho e Lagoa no entorno |
+| Governador Plácido Castelo (Arena Castelão) | Fortaleza / Ceará | v2 (1.0.0) | refeito no padrão dos modelos de perfeição: dois anéis com camarotes, teto branco alto com faixa translúcida, coroa de mastros em arco de treliça, pele escura, telões nos fundos |
+| Hailé Pinheiro (Serrinha) | Goiás | v2 (1.0.0) | refeito pelo pipeline local com fotos do usuário: arquibancada principal em dois anéis com passarela e teto fino, tobogã com paredes brancas, prédio do telão no norte |
+| Heriberto Hülse | Criciúma | v3 (1.0.0) | refeito no fluxo novo: com planta medida (gramado longo, octógono chanfrado), teto cinza-claro que cai para a fachada branca de base amarela e preta, blocos amarelo/branco com escadas pretas, social com miolo de cadeiras pretas e CRICIÚMA ESPORTE CLUBE, telões nos fundos e ginásio Colombo Salles colado no fundo sudoeste |
+| Joaquim Portugal (Arena Sicredi) | Athletic Club (Minas Gerais) | v5 (1.0.0) | refeito no fluxo novo: pela zenital de 2025: fundo oeste alto de degraus terracota com barras vermelhas, dois blocos terracota na metade leste do norte, fita preta coberta no sul (a TV mostra) com testeira de placas e a estrutura dos bancos com o lema, fita preta do visitante no leste e quatro torres de treliça |
+| Jornalista Mário Filho | Flamengo / Fluminense | v3 (1.0.0) | refeito no fluxo novo: refeita no fluxo novo: lona branca em 60 gomos pregueados com cabo em anel, refletores e placas solares, fachada de 1950 em pórticos, dois anéis em mosaico amarelo/azul/azul-claro com camarotes entre eles, rampas, quatro telões e Maracanãzinho ao lado |
+| José do Rego Maciel | Santa Cruz | v2 (1.0.0) | refeito no fluxo novo (modelo de perfeição, vermelho e preto fortes): refeita pelas aéreas e pelo OSM: coberta de concreto em grelha no oeste (top) e no quarto sudoeste (a v1 a punha no leste), anel superior em cunhas vermelhas e pretas com faixas brancas inclinadas, laterais fundas e curvas rasas, pista clara com fosso verde-água, quatro torres treliçadas |
+| José Pinheiro Borda | Sport Club Internacional | v2 (1.0.0) | refeito no fluxo novo: refeita: 65 folhas de membrana branca do chão à beira (vãos em ogiva escuros na fachada, nervuras e treliça na abertura, refletores), dois anéis vermelhos com vomitórios, faixa CLUBE DO POVO DO RIO GRANDE DO SUL de frente para a TV, escudo do Inter nas cadeiras do anel superior, telões nos fundos, garagem, Gigantinho e o Guaíba no entorno |
+| Leônidas Sodré de Castro | Paysandu Sport Club | v2 (1.0.0) | refeito no fluxo novo: pelo satélite certo, com PAYSANDU gigante nas cadeiras azuis da tribuna SE (cabines e teto alto só no trecho SO, lado da câmera), coberta da Av. Almirante Barroso com fachada de painéis azuis e o nome na TV, fundos azul-celeste e cantos NE abertos |
+| Major Antônio Couto Pereira | Coritiba Foot Ball Club | v2 (1.0.0) | refeito no fluxo novo: refeito pela planta do OSM (oval com gramado longo atrás dos gols), Evangelino com CFC em blocos e escadas amarelas, camarotes, teto do Arruda (laje de concreto alta com vigas e claraboias, seguindo a curva até os cantos) e torres PRO TORK na TV, prédio branco da Mauá e curvas de três anéis |
+| Manoel Barradas | Esporte Clube Vitória | v2 (1.0.0) | refeito no fluxo novo: em U escavado no morro com quinas (lateral oeste + 2 fundos), lado leste aberto com a sede e 4 torres de luz, faixas pretas e escadas amarelas, leão preto nos dois fundos e prédio vermelho «ESTÁDIO MANOEL BARRADAS» no alto da lateral |
+| Milton de Souza Corrêa (Zerão) | Independente / Trem (Amapá) | v3 (1.0.0) | sem as caixas lisas do entorno (laje cinza e blocos brancos) atrás do lado aberto |
+| Moisés Lucarelli (Majestoso) | Ponte Preta | v2 (1.0.0) | refeito no padrão dos modelos de perfeição: lados trocados (PONTE PRETA de frente para a TV, social coberta atrás da câmera); fachada art déco no fundo sudoeste com praça, torres, telão e brises; anel de janelas; dois tetos na social; cabines |
+| Municipal 1.º de Maio | São Bernardo | v3 (1.0.0) | refeito no fluxo novo: refeito pelo drone de 2026 e pela zenital: social coberta no oeste (top) em blocos amarelo/preto sob prédio de teto cinza, terraço em L no leste (bottom) e no sul com curva preta no NE e curva amarela no SE, norte aberto com painel e quadras (a v3 tinha a coberta no leste) |
+| Municipal Benito Agnelo Castellano | AE Velo Clube Rioclarense | v2 (1.0.0) | sem os bancos de reserva dentro do gramado e sem casas de caixa soltas; camarotes do fundo apoiados no chão |
+| Municipal Cícero de Souza Marques | Red Bull Bragantino | v3 (1.0.0) | refeito no fluxo novo: refeita: abóbada prateada de treliças brancas em arco no sul (a TV mostra), principal de cadeiras vermelhas com camarotes e teto alto no top, fundo leste alto e oeste baixo descobertos |
+| Municipal Jacy Scaff (Estádio do Café) | Londrina Esporte Clube | v2 (1.0.0) | refeito no padrão dos modelos de perfeição: lados pelo satélite (curva no norte, sul aberto), pista inteira, coberta oeste em xadrez azul/vermelho/rosa de frente para a TV com teto alto e testeira da prefeitura, leste azul com escadas amarelas descendo no sudeste, torres treliçadas atrás das laterais |
+| Municipal José Maria de Campos Maia | Mirassol FC | v2 (1.0.0) | refeito no fluxo novo: planta refeita pela foto zenital (fundos com ~24 m de grama), U amarelo com telão no SE, coberta curta com prédio de camarotes e teto alto, e o norte azul fundo embrulhado pela fachada amarela de quadrados com o escudo MFC (2025) |
+| Municipal Orfelino Martins Valente (Parque do Bacurau) | Cametá Sport Club | v2 (1.0.0) | refeito com fotos de jogador: duas arquibancadas frente a frente (uma colorida com alambrado atrás, outra coberta), sem o chão cinza, ligado ao Cametá; na 0.1.5: estádio novo, sem clube |
+| Neo Química Arena | Sport Club Corinthians Paulista | v2 (1.0.0) | refeito no fluxo novo: caixa branca de teto plano com «neo química arena» pintado nas lajes, laterais de dois anéis com camarotes, fundos baixos sob faixa de treliça com telão; câmera no oeste (a v3 tinha no leste) |
+| Nubank Parque | Sociedade Esportiva Palmeiras | v3 (1.0.0) | refeito no fluxo novo: teto agora branco e plano com faixa translúcida e nome pintado, fachada de escamas prateadas com faixas verdes, 8 treliças em arco nos cantos, dois anéis verdes com camarotes, telões nos fundos e placa sobre a piscina |
+| Olímpico do Pará | Paysandu / Clube do Remo (e ESMAC, Sport Belém, Tesla FC no jogo) | v2 (1.0.0) | refeito no fluxo novo: refeito pelo satélite: pista vermelha de 8 raias, dois anéis em degradê azul-branco-vermelho com a bandeira do Pará e a estrela na lateral da TV, laterais fundas e fundos rasos, teto branco em anel com painéis solares e treliça em arco de 2023, telão no norte, fachada azul até o teto (chave também com ESMAC, Sport Belém e Tesla FC, donos do Mangueirão no jogo) |
+| Olímpico Nilton Santos | Botafogo de Futebol e Regatas | v2 (1.0.0) | refeito no fluxo novo: refeito pelo satélite de 2024, pista de 400 m com escudos da estrela atrás dos gols, dois anéis de cadeiras pretas com mosaico no leste, teto branco em anel pendurado nos quatro arcos sobre pilonos de duas colunas |
+| Onésio Brasileiro Alvarenga (OBA) | Vila Nova | v2 (1.0.0) | refeito no padrão dos modelos de perfeição: ferradura sem pista, leste descoberto com VILA NOVA F.C. nas cadeiras vermelhas, tobogã sul com o 12, teto só no meio do oeste (dúvidas: o 12 pode ser no fim do leste; teto do oeste ~46 m) |
+| Rei Pelé | CSA / CRB | v3 (1.0.0) | refeito no fluxo novo: em D com o eixo certo: curva funda no oeste e fundos sob a marquise escura de placas dobradas com mastros laranja, fachada de pilares brancos inclinados, leste descoberto com faixas azuis e vermelhas, seis mastros brancos e o ginásio atrás |
+| Santa Cruz | Botafogo-SP | v3 (1.0.0) | refeito no fluxo novo: refeita pelas fotos de 2024-2026: tigela oval funda em volta da pista, Arena Nicnet Eurobike no leste (cadeiras tricolores, camarotes e teto claro largo, vista da TV), oeste com telhado dobrado de tijolo, curvas com escadas amarelas |
+| Stamford Bridge | Chelsea | v2 (1.0.0) | refeito no fluxo novo: tetos refeitos pelas fotos: West em chapa translúcida clara com costelas brancas, faixa opaca no fundo e testeira branca com filete azul, Shed End e Matthew Harding em chapa cinza, cantos mais baixos em chapa cinza-escura com vigas azuis radiais, East com 8 módulos verde-claros sob a treliça branca e diagonais azuis na beira; interior com CHELSEA igual |
+| Urbano Caldeira | Santos Futebol Clube | v2 (1.0.0) | refeito no fluxo novo: lados corrigidos (a TV agora mostra o SE de dois lances com SANTOS nas cadeiras e trilho de luz no teto; social com SFC e prédio do clube atrás da câmera), placar preto no fundo NNE, fundo SSO coberto, cantos curvos fechados e muro branco com faixas pretas de janela |
+| Vitorino Gonçalves Dias (VGD) | Londrina | v2 (1.0.0) | refeito no padrão dos modelos de perfeição: coberta oeste no top com teto branco alto, leste funda no bottom, curva sul com abertura no escanteio SE, norte aberto com tenda, sede e portal, Moringão (padrão ginasio_redondo) a sudeste (dúvidas: chave, o Londrina tem o VGD no jogo como estádio 352323752 e o Café usa club:900678; só 2 das 4 torres no render) |
 
-## 🆕 Novos na v0.1.6 ⏳ (ainda não publicada) (43)
+## 🆕 Novos na v1.0.0 (43)
 
 | Estádio | Clube |
 |---|---|
@@ -115,50 +115,50 @@
 
 | Estádio | Clube | Versão | Situação |
 |---|---|---|---|
-| Arena Condá | Associação Chapecoense de Futebol 🔗 | v2 (0.1.6) | ✅ |
-| Arena da Baixada | Club Athletico Paranaense 🔗 | v3 (0.1.6) | ✅ |
-| Arena do Grêmio | Grêmio Foot-Ball Porto Alegrense 🔗 | v2 (0.1.6) | ✅ |
-| Arena MRV | Clube Atlético Mineiro 🔗 | v2 (0.1.6) | ✅ |
-| Casa de Apostas Arena Fonte Nova | Esporte Clube Bahia 🔗 | v2 (0.1.6) | ✅ |
-| Cícero Pompeu de Toledo | São Paulo Futebol Clube 🔗 | v2 (0.1.6) | ✅ |
-| Governador Magalhães Pinto | Cruzeiro 🔗 | v2 (0.1.6) | ✅ |
-| Jornalista Mário Filho | Flamengo / Fluminense 🔗 | v3 (0.1.6) | ✅ |
-| José Pinheiro Borda | Sport Club Internacional 🔗 | v2 (0.1.6) | ✅ |
-| Major Antônio Couto Pereira | Coritiba Foot Ball Club 🔗 | v2 (0.1.6) | ✅ |
-| Manoel Barradas | Esporte Clube Vitória 🔗 | v2 (0.1.6) | ✅ |
-| Municipal Cícero de Souza Marques | Red Bull Bragantino 🔗 | v3 (0.1.6) | ✅ |
-| Municipal José Maria de Campos Maia | Mirassol FC 🔗 | v2 (0.1.6) | ✅ |
-| Neo Química Arena | Sport Club Corinthians Paulista 🔗 | v2 (0.1.6) | ✅ |
-| Nubank Parque | Sociedade Esportiva Palmeiras 🔗 | v3 (0.1.6) | ✅ |
-| Olímpico do Pará | Paysandu / Clube do Remo (e ESMAC, Sport Belém, Tesla FC no jogo) 🔗 | v2 (0.1.6) | ✅ |
-| Olímpico Nilton Santos | Botafogo de Futebol e Regatas 🔗 | v2 (0.1.6) | ✅ |
+| Arena Condá | Associação Chapecoense de Futebol 🔗 | v2 (1.0.0) | ✅ |
+| Arena da Baixada | Club Athletico Paranaense 🔗 | v3 (1.0.0) | ✅ |
+| Arena do Grêmio | Grêmio Foot-Ball Porto Alegrense 🔗 | v2 (1.0.0) | ✅ |
+| Arena MRV | Clube Atlético Mineiro 🔗 | v2 (1.0.0) | ✅ |
+| Casa de Apostas Arena Fonte Nova | Esporte Clube Bahia 🔗 | v2 (1.0.0) | ✅ |
+| Cícero Pompeu de Toledo | São Paulo Futebol Clube 🔗 | v2 (1.0.0) | ✅ |
+| Governador Magalhães Pinto | Cruzeiro 🔗 | v2 (1.0.0) | ✅ |
+| Jornalista Mário Filho | Flamengo / Fluminense 🔗 | v3 (1.0.0) | ✅ |
+| José Pinheiro Borda | Sport Club Internacional 🔗 | v2 (1.0.0) | ✅ |
+| Major Antônio Couto Pereira | Coritiba Foot Ball Club 🔗 | v2 (1.0.0) | ✅ |
+| Manoel Barradas | Esporte Clube Vitória 🔗 | v2 (1.0.0) | ✅ |
+| Municipal Cícero de Souza Marques | Red Bull Bragantino 🔗 | v3 (1.0.0) | ✅ |
+| Municipal José Maria de Campos Maia | Mirassol FC 🔗 | v2 (1.0.0) | ✅ |
+| Neo Química Arena | Sport Club Corinthians Paulista 🔗 | v2 (1.0.0) | ✅ |
+| Nubank Parque | Sociedade Esportiva Palmeiras 🔗 | v3 (1.0.0) | ✅ |
+| Olímpico do Pará | Paysandu / Clube do Remo (e ESMAC, Sport Belém, Tesla FC no jogo) 🔗 | v2 (1.0.0) | ✅ |
+| Olímpico Nilton Santos | Botafogo de Futebol e Regatas 🔗 | v2 (1.0.0) | ✅ |
 | São Januário | Club de Regatas Vasco da Gama 🔗 | v1 | ✅ |
-| Urbano Caldeira | Santos Futebol Clube 🔗 | v2 (0.1.6) | ✅ |
+| Urbano Caldeira | Santos Futebol Clube 🔗 | v2 (1.0.0) | ✅ |
 
 ## Série B (20)
 
 | Estádio | Clube | Versão | Situação |
 |---|---|---|---|
-| Adelmar da Costa Carvalho (Ilha do Retiro) | Sport Club do Recife 🔗 | v2 (0.1.6) | ✅ |
+| Adelmar da Costa Carvalho (Ilha do Retiro) | Sport Club do Recife 🔗 | v2 (1.0.0) | ✅ |
 | Aderbal Ramos da Silva (Ressacada) | Avaí 🔗 | v2 (0.1.5) | ✅ |
-| Alfredo Jaconi | Esporte Clube Juventude 🔗 | v4 (0.1.6) | ✅ |
-| Antônio Accioly | Atlético Goianiense 🔗 | v2 (0.1.6) | ✅ |
-| Arena Independência (Estádio Raimundo Sampaio) | América Mineiro 🔗 | v3 (0.1.6) | ✅ |
-| Arena Pantanal | Cuiabá 🔗 | v2 (0.1.6) | ✅ |
-| Doutor Jorge Ismael de Biasi | Grêmio Novorizontino 🔗 | v2 (0.1.6) | ✅ |
-| Eládio de Barros Carvalho (Aflitos) | Clube Náutico Capibaribe 🔗 | v2 (0.1.6) | ✅ |
-| Germano Krüger | Operário Ferroviário 🔗 | v2 (0.1.6) | ✅ |
-| Governador Plácido Castelo (Arena Castelão) | Fortaleza / Ceará 🔗 | v2 (0.1.6) | ✅ |
-| Hailé Pinheiro (Serrinha) | Goiás 🔗 | v2 (0.1.6) | ✅ |
-| Heriberto Hülse | Criciúma 🔗 | v3 (0.1.6) | ✅ |
-| Joaquim Portugal (Arena Sicredi) | Athletic Club (Minas Gerais) 🔗 | v5 (0.1.6) | 🧪 falta testar em jogo |
-| Moisés Lucarelli (Majestoso) | Ponte Preta 🔗 | v2 (0.1.6) | ✅ |
-| Municipal 1.º de Maio | São Bernardo 🔗 | v3 (0.1.6) | 🧪 falta testar em jogo |
-| Municipal Jacy Scaff (Estádio do Café) | Londrina Esporte Clube 🔗 | v2 (0.1.6) | ✅ |
-| Onésio Brasileiro Alvarenga (OBA) | Vila Nova 🔗 | v2 (0.1.6) | 🧪 falta testar em jogo |
-| Rei Pelé | CSA / CRB 🔗 | v3 (0.1.6) | ✅ |
-| Santa Cruz | Botafogo-SP 🔗 | v3 (0.1.6) | ✅ |
-| Vitorino Gonçalves Dias (VGD) | Londrina ➖ | v2 (0.1.6) | 🧪 falta testar em jogo |
+| Alfredo Jaconi | Esporte Clube Juventude 🔗 | v4 (1.0.0) | ✅ |
+| Antônio Accioly | Atlético Goianiense 🔗 | v2 (1.0.0) | ✅ |
+| Arena Independência (Estádio Raimundo Sampaio) | América Mineiro 🔗 | v3 (1.0.0) | ✅ |
+| Arena Pantanal | Cuiabá 🔗 | v2 (1.0.0) | ✅ |
+| Doutor Jorge Ismael de Biasi | Grêmio Novorizontino 🔗 | v2 (1.0.0) | ✅ |
+| Eládio de Barros Carvalho (Aflitos) | Clube Náutico Capibaribe 🔗 | v2 (1.0.0) | ✅ |
+| Germano Krüger | Operário Ferroviário 🔗 | v2 (1.0.0) | ✅ |
+| Governador Plácido Castelo (Arena Castelão) | Fortaleza / Ceará 🔗 | v2 (1.0.0) | ✅ |
+| Hailé Pinheiro (Serrinha) | Goiás 🔗 | v2 (1.0.0) | ✅ |
+| Heriberto Hülse | Criciúma 🔗 | v3 (1.0.0) | ✅ |
+| Joaquim Portugal (Arena Sicredi) | Athletic Club (Minas Gerais) 🔗 | v5 (1.0.0) | 🧪 falta testar em jogo |
+| Moisés Lucarelli (Majestoso) | Ponte Preta 🔗 | v2 (1.0.0) | ✅ |
+| Municipal 1.º de Maio | São Bernardo 🔗 | v3 (1.0.0) | 🧪 falta testar em jogo |
+| Municipal Jacy Scaff (Estádio do Café) | Londrina Esporte Clube 🔗 | v2 (1.0.0) | ✅ |
+| Onésio Brasileiro Alvarenga (OBA) | Vila Nova 🔗 | v2 (1.0.0) | 🧪 falta testar em jogo |
+| Rei Pelé | CSA / CRB 🔗 | v3 (1.0.0) | ✅ |
+| Santa Cruz | Botafogo-SP 🔗 | v3 (1.0.0) | ✅ |
+| Vitorino Gonçalves Dias (VGD) | Londrina ➖ | v2 (1.0.0) | 🧪 falta testar em jogo |
 
 ## Série C (21)
 
@@ -174,8 +174,8 @@
 | General Sylvio Raulino de Oliveira | Volta Redonda Futebol Clube 🔗 | v1 | ✅ |
 | Governador João Castelo | Maranhão AC / Moto Club 🔗 | v1 | ✅ |
 | José Américo de Almeida Filho (Almeidão) | Botafogo-PB 🔗 | v1 | ✅ |
-| José do Rego Maciel | Santa Cruz 🔗 | v2 (0.1.6) | ✅ |
-| Leônidas Sodré de Castro | Paysandu Sport Club 🔗 | v2 (0.1.6) | ✅ |
+| José do Rego Maciel | Santa Cruz 🔗 | v2 (1.0.0) | ✅ |
+| Leônidas Sodré de Castro | Paysandu Sport Club 🔗 | v2 (1.0.0) | ✅ |
 | Major José Levy Sobrinho (Limeirão) | Associação Atlética Internacional (Inter de Limeira) 🔗 | v1 | ✅ |
 | Municipal Doutor Novelli Júnior | Ituano Futebol Clube 🔗 | v1 | ✅ |
 | Municipal Jonas Ferreira Alves Duarte | Anápolis Futebol Clube 🔗 | v1 | ✅ |
@@ -194,41 +194,41 @@
 | Adauto Moraes | Sociedade Desportiva Juazeirense 🔗 | v1 | ✅ |
 | Aluízio Ferreira (Aluizão) | Gazin Porto Velho / mandantes rondonienses 🔗 | v2 (0.1.3) | ✅ |
 | Aniceto Moscoso (Conselheiro Galvão) | Madureira Esporte Clube 🔗 | v1 | ✅ |
-| Antônio Guimarães de Almeida | Tombense 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
-| Aníbal Torres Costa | Hercílio Luz 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Antônio Guimarães de Almeida | Tombense 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
+| Aníbal Torres Costa | Hercílio Luz 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
 | Arena da Amazônia | Amazonas FC / Manauara 🔗 | v1 | ✅ |
-| Arena da Floresta | Independência Futebol Clube (e demais mandantes estaduais) 🔗 | v3 (0.1.6) | 🧪 falta testar em jogo |
+| Arena da Floresta | Independência Futebol Clube (e demais mandantes estaduais) 🔗 | v3 (1.0.0) | 🧪 falta testar em jogo |
 | Arena das Dunas | ABC / América de Natal 🔗 | v3 (0.1.5) | ✅ |
 | Arena Inamar (José Batista Pereira Fernandes) | Esporte Clube Água Santa 🔗 | v1 | ✅ |
 | Arena Joinville | Joinville Esporte Clube (JEC) 🔗 | v1 | ✅ |
 | Bento Mendes de Freitas | Grêmio Esportivo Brasil (Brasil de Pelotas) 🔗 | v1 | ✅ |
-| Boca do Lobo | Pelotas 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
-| Centro Esportivo Dirceu Mendes Arcoverde | Parnahyba Sport Club 🔗 | v2 (0.1.6) | ✅ |
+| Boca do Lobo | Pelotas 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
+| Centro Esportivo Dirceu Mendes Arcoverde | Parnahyba Sport Club 🔗 | v2 (1.0.0) | ✅ |
 | Complexo Esportivo da Família | Blumenau Esporte Clube (BEC) / SESI Bernardo Wolfgang Werner 🔗 | v1 | ✅ |
-| Conde Rodolfo Crespi | Juventus (SP) 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
-| Costa Rodrigues | Pinheiro 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
-| do Trabalhador | Resende / Pérolas Negras 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
-| do Vale | Esporte Clube Novo Hamburgo 🔗 | v1 (0.1.6) | ✅ |
+| Conde Rodolfo Crespi | Juventus (SP) 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
+| Costa Rodrigues | Pinheiro 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
+| do Trabalhador | Resende / Pérolas Negras 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
+| do Vale | Esporte Clube Novo Hamburgo 🔗 | v1 (1.0.0) | ✅ |
 | Domingos Silveira Gonzales | a conferir 🔗 | v1 | ✅ |
-| dos Eucaliptos | Avenida 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| dos Eucaliptos | Avenida 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
 | Doutor Alfredo de Castilho (Alfredão) | Esporte Clube Noroeste 🔗 | v2 (0.1.5) | ✅ |
 | Doutor Hercílio Luz | Clube Náutico Marcílio Dias (também Barra em alguns jogos) 🔗 | v1 | ✅ |
 | Doutor Oswaldo Teixeira Duarte (Canindé) | Portuguesa 🔗 | v2 (0.1.3) | ✅ |
 | Durival Britto e Silva (Vila Capanema) | Paraná 🔗 | v2 (0.1.5) | ✅ |
-| Elcyr Resende de Mendonça | Boavista e Audax Rio 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Elcyr Resende de Mendonça | Boavista e Audax Rio 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
 | Elmo Serejo Farias (Serejão) | Brasiliense 🔗 | v1 | ✅ |
 | Estadual Kleber José de Andrade | Rio Branco Atlético Clube (ES) 🔗 | v1 | ✅ |
 | Estrela D'Alva | Guarany Futebol Clube 🔗 | v1 | ✅ |
 | Feliciano Belmont; oficialmente Municipal Felipe Raulino (CBF) | Associação Atlética de Altos 🔗 | v1 | ✅ |
-| Flamarion Vasconcelos | São Raimundo-RR (também GAS, Progresso-RR e River-RR no jogo) 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
-| Francisco Antônio da Costa | Potiguar de Mossoró 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Flamarion Vasconcelos | São Raimundo-RR (também GAS, Progresso-RR e River-RR no jogo) 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
+| Francisco Antônio da Costa | Potiguar de Mossoró 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
 | Francisco Novelletto Neto (Passo D'Areia) | Esporte Clube São José 🔗 | v1 | ✅ |
 | Francisco Vasques | Tuna Luso Brasileira 🔗 | v2 (0.1.3) | ✅ |
 | Genervino Evangelista da Fonseca | CRAC 🔗 | v1 | ✅ |
 | Giulite Coutinho | America Football Club (RJ) 🔗 | v1 | ✅ |
 | Governador Alberto Tavares Silva (Albertão) | Piauí / Fluminense-PI / River (Teresina) 🔗 | v1 | ✅ |
 | Governador Ernani Sátyro (Amigão) | Treze / Campinense 🔗 | v4 (0.1.5) | ✅ |
-| Ismael Benigno | São Raimundo-AM 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Ismael Benigno | São Raimundo-AM 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
 | Joaquim Henrique Nogueira | Democrata Futebol Clube (Democrata/SL) 🔗 | v1 | ✅ |
 | José Mammoud Abbas | Esporte Clube Democrata 🔗 | v1 | ✅ |
 | José Nazareno do Nascimento (Nazarenão) | Laguna (RN) 🔗 | v1 | ✅ |
@@ -239,94 +239,94 @@
 | Lourival Gomes de Almeida (Lourivalzão) | Sampaio Corrêa Futebol e Esporte 🔗 | v1 | ✅ |
 | Luiz José de Lacerda (Lacerdão) | Central Sport Club 🔗 | v1 | ✅ |
 | Luso-Brasileiro | Associação Atlética Portuguesa (RJ) 🔗 | v1 | ✅ |
-| Manoel Dantas Barretto (Barrettão) | Globo Futebol Clube 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Manoel Dantas Barretto (Barrettão) | Globo Futebol Clube 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
 | Maria de Lourdes Abadia (Abadião) | Ceilândia Esporte Clube 🔗 | v1 | ✅ |
 | Maria Lamas Farache (Frasqueirão) | ABC Futebol Clube 🔗 | v2 (0.1.3) | ✅ |
-| Milton de Souza Corrêa (Zerão) | Independente / Trem (Amapá) 🔗 | v3 (0.1.6) | ✅ |
+| Milton de Souza Corrêa (Zerão) | Independente / Trem (Amapá) 🔗 | v3 (1.0.0) | ✅ |
 | Municipal Annibal Batista de Toledo | Associação Atlética Aparecidense 🔗 | v2 (0.1.3) | ✅ |
 | Municipal Antônio Carlos Magalhães (Agnaldo Bento dos Santos) | Porto Sport Club 🔗 | v1 | ✅ |
 | Municipal Antônio de Figueiredo Carneiro (Carneirão) | Atlético de Alagoinhas 🔗 | v1 | ✅ |
-| Municipal Antônio Dias (Navegantão) | Independente Atlético Clube 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Municipal Antônio Dias (Navegantão) | Independente Atlético Clube 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
 | Municipal Antônio Moreno de Mello (Morenão / Morony Furtado) | Associação Desportiva Iguatu 🔗 | v1 | ✅ |
 | Municipal Antônio Santo Renosto (Cerradão) | Primavera Atlético Clube 🔗 | v1 | ✅ |
 | Municipal Barão da Serra Negra | XV de Piracicaba 🔗 | v1 | ✅ |
-| Municipal Benito Agnelo Castellano | AE Velo Clube Rioclarense 🔗 | v2 (0.1.6) | ✅ |
-| Municipal Bruno José Daniel (Brunão) | Esporte Clube Santo André 🔗 | v1 (0.1.6) | ✅ |
-| Municipal Castor Cifuentes | Villa Nova Atlético Clube e Itabirito 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
-| Municipal Cilmar Pedro Goergen | Independente Futebol São Joseense / Araucária 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Municipal Benito Agnelo Castellano | AE Velo Clube Rioclarense 🔗 | v2 (1.0.0) | ✅ |
+| Municipal Bruno José Daniel (Brunão) | Esporte Clube Santo André 🔗 | v1 (1.0.0) | ✅ |
+| Municipal Castor Cifuentes | Villa Nova Atlético Clube e Itabirito 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
+| Municipal Cilmar Pedro Goergen | Independente Futebol São Joseense / Araucária 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
 | Municipal Coaracy da Mata Fonseca (Fumeirão) | Agremiação Sportiva Arapiraquense 🔗 | v1 | ✅ |
-| Municipal Colosso do Tapajós | São Francisco (PA) e São Raimundo (PA) 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Municipal Colosso do Tapajós | São Francisco (PA) e São Raimundo (PA) 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
 | Municipal Divino Garcia Rosa (Divinão) | Goiatuba Esporte Clube 🔗 | v1 | ✅ |
-| Municipal Domício da Silva | Santa Cruz de Natal 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
-| Municipal Doutor Augusto Schmidt Filho | Rio Claro Futebol Clube 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
-| Municipal Dr. Alfredo Leahy | Penedense 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Municipal Domício da Silva | Santa Cruz de Natal 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
+| Municipal Doutor Augusto Schmidt Filho | Rio Claro Futebol Clube 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
+| Municipal Dr. Alfredo Leahy | Penedense 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
 | Municipal Eliel Martins (Valfredão) | Esporte Clube Jacuipense 🔗 | v1 | ✅ |
 | Municipal Engenheiro Luthero Lopes | União Esporte Clube (Rondonópolis) 🔗 | v1 | ✅ |
 | Municipal Frei Epifânio D'Abadia | Sociedade Imperatriz de Desportos 🔗 | v1 | ✅ |
 | Municipal Governador Antônio Mariz | Sousa Esporte Clube (administrador) 🔗 | v1 | ✅ |
 | Municipal Irmão Gino Maria Rossi (Manduzão) | Pouso Alegre Futebol Clube 🔗 | v1 | ✅ |
-| Municipal João Lamego Netto | Ipatinga 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Municipal João Lamego Netto | Ipatinga 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
 | Municipal João Saldanha | Maricá Futebol Clube 🔗 | v1 | ✅ |
 | Municipal João Saldanha | a conferir (série D — Guaporé manda no Cassolão) ➖ | v1 | ✅ |
 | Municipal Juca Sampaio | Clube Sociedade Esportiva (CSE) 🔗 | v1 | ✅ |
 | Municipal Luiz Benedito (ABECAT Ouvidor) | ABECAT Ouvidorense 🔗 | v1 | ✅ |
 | Municipal Luiz Saraiva Vieira (Saraivão) | Ivinhema Futebol Clube 🔗 | v1 | ✅ |
-| Municipal Maximino Porpino Filho («Modelão») | Castanhal Esporte Clube 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Municipal Maximino Porpino Filho («Modelão») | Castanhal Esporte Clube 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
 | Municipal Nhozinho Santos | Sampaio Corrêa, Maranhão, Moto Club 🔗 | v1 | ✅ |
 | Municipal Olímpico Albino Turbay | Cianorte Futebol Clube 🔗 | v1 | ✅ |
-| Municipal Orfelino Martins Valente (Parque do Bacurau) | Cametá Sport Club 🔗 | v2 (0.1.6) | ✅ |
+| Municipal Orfelino Martins Valente (Parque do Bacurau) | Cametá Sport Club 🔗 | v2 (1.0.0) | ✅ |
 | Municipal Passo das Emas | Luverdense 🔗 | v1 | ✅ |
-| Municipal Valdeir José de Oliveira | Goianésia 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
-| Municipal Valdemar Viana de Araújo (Vianão) | Afogados da Ingazeira 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
-| Municipal Valdir Doilho Wons | Nova Mutum Esporte Clube 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Municipal Valdeir José de Oliveira | Goianésia 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
+| Municipal Valdemar Viana de Araújo (Vianão) | Afogados da Ingazeira 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
+| Municipal Valdir Doilho Wons | Nova Mutum Esporte Clube 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
 | Municipal Vereador Benedito Laurindo de Souza (Dito Souza) | Clube Esportivo Operário Várzea-Grandense 🔗 | v1 | ✅ |
-| Municipal Walter Ribeiro | São Bento 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Municipal Walter Ribeiro | São Bento 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
 | Municipal Zinho de Oliveira | Águia de Marabá Futebol Clube 🔗 | v3 (0.1.5) | ✅ |
-| Mário Pessoa | Barcelona de Ilhéus 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Mário Pessoa | Barcelona de Ilhéus 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
 | Nacional Mané Garrincha (Arena BRB) | Brasília FC / Capital-DF 🔗 | v1 | ✅ |
-| Nelson Medrado Dias | Rio Branco-PR 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
-| Olímpico Municipal Gilberto Mestrinho | Princesa do Solimões 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
-| Olímpico Pedro Ludovico Teixeira | Goiânia 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Nelson Medrado Dias | Rio Branco-PR 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
+| Olímpico Municipal Gilberto Mestrinho | Princesa do Solimões 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
+| Olímpico Pedro Ludovico Teixeira | Goiânia 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
 | Olímpico Regional Jacy Miguel Scanagatta | Futebol Clube Cascavel 🔗 | v1 | ✅ |
 | Os Pioneiros (nome CBF; casa do São Joseense: Pinhão) | a conferir 🔗 | v1 | ✅ |
 | Parque do Sabiá | Uberlândia 🔗 | v1 | ✅ |
-| Parque Esportivo Montanha dos Vinhedos (Estádio Darcy Pozza) | Esportivo 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Parque Esportivo Montanha dos Vinhedos (Estádio Darcy Pozza) | Esportivo 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
 | Paulo Barreto de Menezes | Lagarto Futebol Clube 🔗 | v1 | ✅ |
-| Prefeito Almir Dutra | Maracanã Esporte Clube 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
-| Presidente Eurico Gaspar Dutra | Operário VG e Ação 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Prefeito Almir Dutra | Maracanã Esporte Clube 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
+| Presidente Eurico Gaspar Dutra | Operário VG e Ação 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
 | Presidente Vargas | Ferroviário Atlético Clube (CE) 🔗 | v1 | ✅ |
-| Proletário Guilherme da Silveira | Bangu Atlético Clube 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Proletário Guilherme da Silveira | Bangu Atlético Clube 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
 | Raimundo Ribeiro de Souza (Ribeirão) | Monte Roraima Futebol Clube 🔗 | v1 | ✅ |
 | Salvador Venâncio da Costa | Vitória (ES) 🔗 | v1 | ✅ |
 | Soares de Azevedo | Nacional Atlético Clube; Tombense Futebol Clube (uso) 🔗 | v1 | ✅ |
-| São Benedito (Diogão) | Bragantino (PA) 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
-| Ulrico Mursa | Associação Atlética Portuguesa (Santos) 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| São Benedito (Diogão) | Bragantino (PA) 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
+| Ulrico Mursa | Associação Atlética Portuguesa (Santos) 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
 | Universitário Pedro Pedrossian (Morenão) | Operário-MS / Comercial (Campo Grande) 🔗 | v1 | ✅ |
 | Valmir Campelo Bezerra (Bezerrão) | Sociedade Esportiva do Gama 🔗 | v1 | ✅ |
-| Waldomiro Borges | Jequié 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Waldomiro Borges | Jequié 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
 | Zico Brandão (Zeca Melo) | Inhumas Esporte Clube 🔗 | v1 | ✅ |
 
 ## Rio de Janeiro — Carioca (1)
 
 | Estádio | Clube | Versão | Situação |
 |---|---|---|---|
-| Figueira de Melo (Ronaldo Luís Nazário de Lima) | São Cristóvão de Futebol e Regatas 🔗 | v1 (0.1.6) | ✅ |
+| Figueira de Melo (Ronaldo Luís Nazário de Lima) | São Cristóvão de Futebol e Regatas 🔗 | v1 (1.0.0) | ✅ |
 
 ## Inglaterra — Premier League (2)
 
 | Estádio | Clube | Versão | Situação |
 |---|---|---|---|
-| Emirates Stadium | Arsenal 🔗 | v3 (0.1.6) | ✅ |
-| Stamford Bridge | Chelsea 🔗 | v2 (0.1.6) | ✅ |
+| Emirates Stadium | Arsenal 🔗 | v3 (1.0.0) | ✅ |
+| Stamford Bridge | Chelsea 🔗 | v2 (1.0.0) | ✅ |
 
 ## América do Sul — Libertadores (4)
 
 | Estádio | Clube | Versão | Situação |
 |---|---|---|---|
-| Estadio Alberto J. Armando (La Bombonera) | Boca Juniors 🔗 | v1 (0.1.6) | ✅ |
-| Estadio Centenario | Uruguai (seleção) 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
-| Estadio Más Monumental Antonio Vespucio Liberti | River Plate 🔗 | v1 (0.1.6) | ✅ |
-| Estadio Presidente Juan Domingo Perón | Racing Club 🔗 | v1 (0.1.6) | ✅ |
+| Estadio Alberto J. Armando (La Bombonera) | Boca Juniors 🔗 | v1 (1.0.0) | ✅ |
+| Estadio Centenario | Uruguai (seleção) 🔗 | v1 (1.0.0) | 🧪 falta testar em jogo |
+| Estadio Más Monumental Antonio Vespucio Liberti | River Plate 🔗 | v1 (1.0.0) | ✅ |
+| Estadio Presidente Juan Domingo Perón | Racing Club 🔗 | v1 (1.0.0) | ✅ |
 
 ## 🔜 Premier League (2 de 20 prontos)
 
