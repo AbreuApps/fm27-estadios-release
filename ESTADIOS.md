@@ -300,8 +300,8 @@
 |---|---|---|---|
 | Estadio Alberto J. Armando (La Bombonera) | Boca Juniors 🔗 | v1 (0.1.6) | ✅ |
 | Estadio Centenario | Uruguai (seleção) 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
-| Estadio Más Monumental Antonio Vespucio Liberti | River Plate 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
-| Estadio Presidente Juan Domingo Perón | Racing Club 🔗 | v1 (0.1.6) | 🧪 falta testar em jogo |
+| Estadio Más Monumental Antonio Vespucio Liberti | River Plate 🔗 | v1 (0.1.6) | ✅ |
+| Estadio Presidente Juan Domingo Perón | Racing Club 🔗 | v1 (0.1.6) | ✅ |
 
 ## Série E (32 de 110 clubes com estádio)
 
